@@ -1,48 +1,83 @@
-SmartRoute AI: Live Multilingual E-Commerce Grievance Routing and Model Monitoring System
+# SmartRoute AI
 
+## Live Multilingual E-Commerce Grievance Routing and Model Monitoring System
 
+SmartRoute AI is an AI-powered multilingual e-commerce grievance routing system designed to automatically understand customer complaints, classify them, assign the appropriate department and priority, and monitor changes in incoming production data.
 
-\- Project overview
+The system supports:
 
-\- Ultimate goal
+- English
+- Hindi
+- Hinglish
 
-\- Features
+It classifies complaints into 8 categories and automatically maps them to the responsible department.
 
-\- 8 grievance categories
+The project also includes confidence-based human review, prediction storage, feedback collection, and production data drift monitoring.
 
-\- Dataset details
+---
 
-\- Model comparison
+## 🎯 Ultimate Goal
 
-\- Accuracy / Precision / Recall / F1
+The ultimate goal of SmartRoute AI is to reduce the manual effort involved in handling large volumes of e-commerce customer complaints.
 
-\- Latency
+Instead of manually reading and forwarding every complaint, the system aims to:
 
-\- Confidence threshold
+1. Understand the customer's complaint.
+2. Detect the language.
+3. Identify the complaint category.
+4. Route it to the correct department.
+5. Assign an appropriate priority.
+6. Provide a confidence score.
+7. Send uncertain predictions for human review.
+8. Store predictions and feedback.
+9. Monitor production data for distribution drift.
+10. Alert the organization when incoming customer behavior changes significantly.
 
-\- Human review
+The long-term vision is a continuously monitored AI routing system that can operate as part of an e-commerce customer-support platform.
 
-\- Drift monitoring
+---
 
-\- Architecture
+# 🚀 Features
 
-\- Tech stack
+### Multilingual Complaint Classification
 
-\- Project structure
+Supports:
 
-\- Installation
+- English
+- Hindi
+- Hinglish
 
-\- Backend startup
+### 8 Complaint Categories
 
-\- Frontend startup
+| Category | Department |
+|---|---|
+| Payment Issue | Payments Team |
+| Delivery Issue | Logistics Team |
+| Refund Issue | Refund Team |
+| Cancellation Issue | Order Management |
+| Product Issue | Product Support |
+| Return/Replacement | Returns Team |
+| Account Issue | Account Support |
+| Fraud/Security | Security Team |
 
-\- API example
+### Priority Assignment
 
-\- Results
+Complaints are assigned a priority based on the classification system:
 
-\- Future scope
+- High
+- Medium
+- Low
 
-\- Local deployment note
+### Confidence-Based Human Review
 
+The system uses a confidence threshold of **0.60**.
 
+```text
+Confidence >= 0.60
+        ↓
+Automatic Routing
+
+Confidence < 0.60
+        ↓
+Human Review Queue
 
