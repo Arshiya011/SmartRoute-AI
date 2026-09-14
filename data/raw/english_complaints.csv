@@ -1,0 +1,1201 @@
+﻿complaint_id,text,language,category,department,priority,template_group
+ENG_0001,My payment was deducted but the order was not confirmed,English,Payment Issue,Payments Team,High,English_Payment Issue_01
+ENG_0002,My payment was deducted but the order was not confirmed Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_01
+ENG_0003,My payment was deducted but the order was not confirmed I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_01
+ENG_0004,"Hello, my payment was deducted but the order was not confirmed",English,Payment Issue,Payments Team,High,English_Payment Issue_01
+ENG_0005,"Hello, my payment was deducted but the order was not confirmed Please resolve this.",English,Payment Issue,Payments Team,High,English_Payment Issue_01
+ENG_0006,"Hello, my payment was deducted but the order was not confirmed I need an update as soon as possible.",English,Payment Issue,Payments Team,High,English_Payment Issue_01
+ENG_0007,"Please help, my payment was deducted but the order was not confirmed",English,Payment Issue,Payments Team,High,English_Payment Issue_01
+ENG_0008,"Please help, my payment was deducted but the order was not confirmed Please resolve this.",English,Payment Issue,Payments Team,High,English_Payment Issue_01
+ENG_0009,"Please help, my payment was deducted but the order was not confirmed I need an update as soon as possible.",English,Payment Issue,Payments Team,High,English_Payment Issue_01
+ENG_0010,I need assistance because my payment was deducted but the order was not confirmed,English,Payment Issue,Payments Team,High,English_Payment Issue_01
+ENG_0011,I need assistance because my payment was deducted but the order was not confirmed Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_01
+ENG_0012,I need assistance because my payment was deducted but the order was not confirmed I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_01
+ENG_0013,This is urgent: my payment was deducted but the order was not confirmed,English,Payment Issue,Payments Team,High,English_Payment Issue_01
+ENG_0014,This is urgent: my payment was deducted but the order was not confirmed Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_01
+ENG_0015,This is urgent: my payment was deducted but the order was not confirmed I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_01
+ENG_0016,I was charged twice for the same order,English,Payment Issue,Payments Team,High,English_Payment Issue_02
+ENG_0017,I was charged twice for the same order Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_02
+ENG_0018,I was charged twice for the same order I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_02
+ENG_0019,"Hello, I was charged twice for the same order",English,Payment Issue,Payments Team,High,English_Payment Issue_02
+ENG_0020,"Hello, I was charged twice for the same order Please resolve this.",English,Payment Issue,Payments Team,High,English_Payment Issue_02
+ENG_0021,"Hello, I was charged twice for the same order I need an update as soon as possible.",English,Payment Issue,Payments Team,High,English_Payment Issue_02
+ENG_0022,"Please help, I was charged twice for the same order",English,Payment Issue,Payments Team,High,English_Payment Issue_02
+ENG_0023,"Please help, I was charged twice for the same order Please resolve this.",English,Payment Issue,Payments Team,High,English_Payment Issue_02
+ENG_0024,"Please help, I was charged twice for the same order I need an update as soon as possible.",English,Payment Issue,Payments Team,High,English_Payment Issue_02
+ENG_0025,I need assistance because I was charged twice for the same order,English,Payment Issue,Payments Team,High,English_Payment Issue_02
+ENG_0026,I need assistance because I was charged twice for the same order Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_02
+ENG_0027,I need assistance because I was charged twice for the same order I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_02
+ENG_0028,This is urgent: I was charged twice for the same order,English,Payment Issue,Payments Team,High,English_Payment Issue_02
+ENG_0029,This is urgent: I was charged twice for the same order Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_02
+ENG_0030,This is urgent: I was charged twice for the same order I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_02
+ENG_0031,The payment failed but money was taken from my account,English,Payment Issue,Payments Team,High,English_Payment Issue_03
+ENG_0032,The payment failed but money was taken from my account Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_03
+ENG_0033,The payment failed but money was taken from my account I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_03
+ENG_0034,"Hello, the payment failed but money was taken from my account",English,Payment Issue,Payments Team,High,English_Payment Issue_03
+ENG_0035,"Hello, the payment failed but money was taken from my account Please resolve this.",English,Payment Issue,Payments Team,High,English_Payment Issue_03
+ENG_0036,"Hello, the payment failed but money was taken from my account I need an update as soon as possible.",English,Payment Issue,Payments Team,High,English_Payment Issue_03
+ENG_0037,"Please help, the payment failed but money was taken from my account",English,Payment Issue,Payments Team,High,English_Payment Issue_03
+ENG_0038,"Please help, the payment failed but money was taken from my account Please resolve this.",English,Payment Issue,Payments Team,High,English_Payment Issue_03
+ENG_0039,"Please help, the payment failed but money was taken from my account I need an update as soon as possible.",English,Payment Issue,Payments Team,High,English_Payment Issue_03
+ENG_0040,I need assistance because the payment failed but money was taken from my account,English,Payment Issue,Payments Team,High,English_Payment Issue_03
+ENG_0041,I need assistance because the payment failed but money was taken from my account Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_03
+ENG_0042,I need assistance because the payment failed but money was taken from my account I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_03
+ENG_0043,This is urgent: the payment failed but money was taken from my account,English,Payment Issue,Payments Team,High,English_Payment Issue_03
+ENG_0044,This is urgent: the payment failed but money was taken from my account Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_03
+ENG_0045,This is urgent: the payment failed but money was taken from my account I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_03
+ENG_0046,My card payment is stuck in processing,English,Payment Issue,Payments Team,High,English_Payment Issue_04
+ENG_0047,My card payment is stuck in processing Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_04
+ENG_0048,My card payment is stuck in processing I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_04
+ENG_0049,"Hello, my card payment is stuck in processing",English,Payment Issue,Payments Team,High,English_Payment Issue_04
+ENG_0050,"Hello, my card payment is stuck in processing Please resolve this.",English,Payment Issue,Payments Team,High,English_Payment Issue_04
+ENG_0051,"Hello, my card payment is stuck in processing I need an update as soon as possible.",English,Payment Issue,Payments Team,High,English_Payment Issue_04
+ENG_0052,"Please help, my card payment is stuck in processing",English,Payment Issue,Payments Team,High,English_Payment Issue_04
+ENG_0053,"Please help, my card payment is stuck in processing Please resolve this.",English,Payment Issue,Payments Team,High,English_Payment Issue_04
+ENG_0054,"Please help, my card payment is stuck in processing I need an update as soon as possible.",English,Payment Issue,Payments Team,High,English_Payment Issue_04
+ENG_0055,I need assistance because my card payment is stuck in processing,English,Payment Issue,Payments Team,High,English_Payment Issue_04
+ENG_0056,I need assistance because my card payment is stuck in processing Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_04
+ENG_0057,I need assistance because my card payment is stuck in processing I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_04
+ENG_0058,This is urgent: my card payment is stuck in processing,English,Payment Issue,Payments Team,High,English_Payment Issue_04
+ENG_0059,This is urgent: my card payment is stuck in processing Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_04
+ENG_0060,This is urgent: my card payment is stuck in processing I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_04
+ENG_0061,The amount was debited even though checkout failed,English,Payment Issue,Payments Team,High,English_Payment Issue_05
+ENG_0062,The amount was debited even though checkout failed Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_05
+ENG_0063,The amount was debited even though checkout failed I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_05
+ENG_0064,"Hello, the amount was debited even though checkout failed",English,Payment Issue,Payments Team,High,English_Payment Issue_05
+ENG_0065,"Hello, the amount was debited even though checkout failed Please resolve this.",English,Payment Issue,Payments Team,High,English_Payment Issue_05
+ENG_0066,"Hello, the amount was debited even though checkout failed I need an update as soon as possible.",English,Payment Issue,Payments Team,High,English_Payment Issue_05
+ENG_0067,"Please help, the amount was debited even though checkout failed",English,Payment Issue,Payments Team,High,English_Payment Issue_05
+ENG_0068,"Please help, the amount was debited even though checkout failed Please resolve this.",English,Payment Issue,Payments Team,High,English_Payment Issue_05
+ENG_0069,"Please help, the amount was debited even though checkout failed I need an update as soon as possible.",English,Payment Issue,Payments Team,High,English_Payment Issue_05
+ENG_0070,I need assistance because the amount was debited even though checkout failed,English,Payment Issue,Payments Team,High,English_Payment Issue_05
+ENG_0071,I need assistance because the amount was debited even though checkout failed Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_05
+ENG_0072,I need assistance because the amount was debited even though checkout failed I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_05
+ENG_0073,This is urgent: the amount was debited even though checkout failed,English,Payment Issue,Payments Team,High,English_Payment Issue_05
+ENG_0074,This is urgent: the amount was debited even though checkout failed Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_05
+ENG_0075,This is urgent: the amount was debited even though checkout failed I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_05
+ENG_0076,The UPI transaction succeeded but the order was not placed,English,Payment Issue,Payments Team,High,English_Payment Issue_06
+ENG_0077,The UPI transaction succeeded but the order was not placed Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_06
+ENG_0078,The UPI transaction succeeded but the order was not placed I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_06
+ENG_0079,"Hello, the UPI transaction succeeded but the order was not placed",English,Payment Issue,Payments Team,High,English_Payment Issue_06
+ENG_0080,"Hello, the UPI transaction succeeded but the order was not placed Please resolve this.",English,Payment Issue,Payments Team,High,English_Payment Issue_06
+ENG_0081,"Hello, the UPI transaction succeeded but the order was not placed I need an update as soon as possible.",English,Payment Issue,Payments Team,High,English_Payment Issue_06
+ENG_0082,"Please help, the UPI transaction succeeded but the order was not placed",English,Payment Issue,Payments Team,High,English_Payment Issue_06
+ENG_0083,"Please help, the UPI transaction succeeded but the order was not placed Please resolve this.",English,Payment Issue,Payments Team,High,English_Payment Issue_06
+ENG_0084,"Please help, the UPI transaction succeeded but the order was not placed I need an update as soon as possible.",English,Payment Issue,Payments Team,High,English_Payment Issue_06
+ENG_0085,I need assistance because the UPI transaction succeeded but the order was not placed,English,Payment Issue,Payments Team,High,English_Payment Issue_06
+ENG_0086,I need assistance because the UPI transaction succeeded but the order was not placed Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_06
+ENG_0087,I need assistance because the UPI transaction succeeded but the order was not placed I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_06
+ENG_0088,This is urgent: the UPI transaction succeeded but the order was not placed,English,Payment Issue,Payments Team,High,English_Payment Issue_06
+ENG_0089,This is urgent: the UPI transaction succeeded but the order was not placed Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_06
+ENG_0090,This is urgent: the UPI transaction succeeded but the order was not placed I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_06
+ENG_0091,Cash was charged even though the order shows payment pending,English,Payment Issue,Payments Team,High,English_Payment Issue_07
+ENG_0092,Cash was charged even though the order shows payment pending Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_07
+ENG_0093,Cash was charged even though the order shows payment pending I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_07
+ENG_0094,"Hello, cash was charged even though the order shows payment pending",English,Payment Issue,Payments Team,High,English_Payment Issue_07
+ENG_0095,"Hello, cash was charged even though the order shows payment pending Please resolve this.",English,Payment Issue,Payments Team,High,English_Payment Issue_07
+ENG_0096,"Hello, cash was charged even though the order shows payment pending I need an update as soon as possible.",English,Payment Issue,Payments Team,High,English_Payment Issue_07
+ENG_0097,"Please help, cash was charged even though the order shows payment pending",English,Payment Issue,Payments Team,High,English_Payment Issue_07
+ENG_0098,"Please help, cash was charged even though the order shows payment pending Please resolve this.",English,Payment Issue,Payments Team,High,English_Payment Issue_07
+ENG_0099,"Please help, cash was charged even though the order shows payment pending I need an update as soon as possible.",English,Payment Issue,Payments Team,High,English_Payment Issue_07
+ENG_0100,I need assistance because cash was charged even though the order shows payment pending,English,Payment Issue,Payments Team,High,English_Payment Issue_07
+ENG_0101,I need assistance because cash was charged even though the order shows payment pending Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_07
+ENG_0102,I need assistance because cash was charged even though the order shows payment pending I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_07
+ENG_0103,This is urgent: cash was charged even though the order shows payment pending,English,Payment Issue,Payments Team,High,English_Payment Issue_07
+ENG_0104,This is urgent: cash was charged even though the order shows payment pending Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_07
+ENG_0105,This is urgent: cash was charged even though the order shows payment pending I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_07
+ENG_0106,I cannot complete the payment for my order,English,Payment Issue,Payments Team,High,English_Payment Issue_08
+ENG_0107,I cannot complete the payment for my order Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_08
+ENG_0108,I cannot complete the payment for my order I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_08
+ENG_0109,"Hello, I cannot complete the payment for my order",English,Payment Issue,Payments Team,High,English_Payment Issue_08
+ENG_0110,"Hello, I cannot complete the payment for my order Please resolve this.",English,Payment Issue,Payments Team,High,English_Payment Issue_08
+ENG_0111,"Hello, I cannot complete the payment for my order I need an update as soon as possible.",English,Payment Issue,Payments Team,High,English_Payment Issue_08
+ENG_0112,"Please help, I cannot complete the payment for my order",English,Payment Issue,Payments Team,High,English_Payment Issue_08
+ENG_0113,"Please help, I cannot complete the payment for my order Please resolve this.",English,Payment Issue,Payments Team,High,English_Payment Issue_08
+ENG_0114,"Please help, I cannot complete the payment for my order I need an update as soon as possible.",English,Payment Issue,Payments Team,High,English_Payment Issue_08
+ENG_0115,I need assistance because I cannot complete the payment for my order,English,Payment Issue,Payments Team,High,English_Payment Issue_08
+ENG_0116,I need assistance because I cannot complete the payment for my order Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_08
+ENG_0117,I need assistance because I cannot complete the payment for my order I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_08
+ENG_0118,This is urgent: I cannot complete the payment for my order,English,Payment Issue,Payments Team,High,English_Payment Issue_08
+ENG_0119,This is urgent: I cannot complete the payment for my order Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_08
+ENG_0120,This is urgent: I cannot complete the payment for my order I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_08
+ENG_0121,The payment page keeps failing during checkout,English,Payment Issue,Payments Team,High,English_Payment Issue_09
+ENG_0122,The payment page keeps failing during checkout Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_09
+ENG_0123,The payment page keeps failing during checkout I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_09
+ENG_0124,"Hello, the payment page keeps failing during checkout",English,Payment Issue,Payments Team,High,English_Payment Issue_09
+ENG_0125,"Hello, the payment page keeps failing during checkout Please resolve this.",English,Payment Issue,Payments Team,High,English_Payment Issue_09
+ENG_0126,"Hello, the payment page keeps failing during checkout I need an update as soon as possible.",English,Payment Issue,Payments Team,High,English_Payment Issue_09
+ENG_0127,"Please help, the payment page keeps failing during checkout",English,Payment Issue,Payments Team,High,English_Payment Issue_09
+ENG_0128,"Please help, the payment page keeps failing during checkout Please resolve this.",English,Payment Issue,Payments Team,High,English_Payment Issue_09
+ENG_0129,"Please help, the payment page keeps failing during checkout I need an update as soon as possible.",English,Payment Issue,Payments Team,High,English_Payment Issue_09
+ENG_0130,I need assistance because the payment page keeps failing during checkout,English,Payment Issue,Payments Team,High,English_Payment Issue_09
+ENG_0131,I need assistance because the payment page keeps failing during checkout Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_09
+ENG_0132,I need assistance because the payment page keeps failing during checkout I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_09
+ENG_0133,This is urgent: the payment page keeps failing during checkout,English,Payment Issue,Payments Team,High,English_Payment Issue_09
+ENG_0134,This is urgent: the payment page keeps failing during checkout Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_09
+ENG_0135,This is urgent: the payment page keeps failing during checkout I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_09
+ENG_0136,The wrong amount was charged for my purchase,English,Payment Issue,Payments Team,High,English_Payment Issue_10
+ENG_0137,The wrong amount was charged for my purchase Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_10
+ENG_0138,The wrong amount was charged for my purchase I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_10
+ENG_0139,"Hello, the wrong amount was charged for my purchase",English,Payment Issue,Payments Team,High,English_Payment Issue_10
+ENG_0140,"Hello, the wrong amount was charged for my purchase Please resolve this.",English,Payment Issue,Payments Team,High,English_Payment Issue_10
+ENG_0141,"Hello, the wrong amount was charged for my purchase I need an update as soon as possible.",English,Payment Issue,Payments Team,High,English_Payment Issue_10
+ENG_0142,"Please help, the wrong amount was charged for my purchase",English,Payment Issue,Payments Team,High,English_Payment Issue_10
+ENG_0143,"Please help, the wrong amount was charged for my purchase Please resolve this.",English,Payment Issue,Payments Team,High,English_Payment Issue_10
+ENG_0144,"Please help, the wrong amount was charged for my purchase I need an update as soon as possible.",English,Payment Issue,Payments Team,High,English_Payment Issue_10
+ENG_0145,I need assistance because the wrong amount was charged for my purchase,English,Payment Issue,Payments Team,High,English_Payment Issue_10
+ENG_0146,I need assistance because the wrong amount was charged for my purchase Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_10
+ENG_0147,I need assistance because the wrong amount was charged for my purchase I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_10
+ENG_0148,This is urgent: the wrong amount was charged for my purchase,English,Payment Issue,Payments Team,High,English_Payment Issue_10
+ENG_0149,This is urgent: the wrong amount was charged for my purchase Please resolve this.,English,Payment Issue,Payments Team,High,English_Payment Issue_10
+ENG_0150,This is urgent: the wrong amount was charged for my purchase I need an update as soon as possible.,English,Payment Issue,Payments Team,High,English_Payment Issue_10
+ENG_0151,My order has not arrived yet,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_01
+ENG_0152,My order has not arrived yet Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_01
+ENG_0153,My order has not arrived yet I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_01
+ENG_0154,"Hello, my order has not arrived yet",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_01
+ENG_0155,"Hello, my order has not arrived yet Please resolve this.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_01
+ENG_0156,"Hello, my order has not arrived yet I need an update as soon as possible.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_01
+ENG_0157,"Please help, my order has not arrived yet",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_01
+ENG_0158,"Please help, my order has not arrived yet Please resolve this.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_01
+ENG_0159,"Please help, my order has not arrived yet I need an update as soon as possible.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_01
+ENG_0160,I need assistance because my order has not arrived yet,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_01
+ENG_0161,I need assistance because my order has not arrived yet Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_01
+ENG_0162,I need assistance because my order has not arrived yet I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_01
+ENG_0163,This is urgent: my order has not arrived yet,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_01
+ENG_0164,This is urgent: my order has not arrived yet Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_01
+ENG_0165,This is urgent: my order has not arrived yet I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_01
+ENG_0166,The delivery is delayed beyond the promised date,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_02
+ENG_0167,The delivery is delayed beyond the promised date Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_02
+ENG_0168,The delivery is delayed beyond the promised date I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_02
+ENG_0169,"Hello, the delivery is delayed beyond the promised date",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_02
+ENG_0170,"Hello, the delivery is delayed beyond the promised date Please resolve this.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_02
+ENG_0171,"Hello, the delivery is delayed beyond the promised date I need an update as soon as possible.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_02
+ENG_0172,"Please help, the delivery is delayed beyond the promised date",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_02
+ENG_0173,"Please help, the delivery is delayed beyond the promised date Please resolve this.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_02
+ENG_0174,"Please help, the delivery is delayed beyond the promised date I need an update as soon as possible.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_02
+ENG_0175,I need assistance because the delivery is delayed beyond the promised date,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_02
+ENG_0176,I need assistance because the delivery is delayed beyond the promised date Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_02
+ENG_0177,I need assistance because the delivery is delayed beyond the promised date I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_02
+ENG_0178,This is urgent: the delivery is delayed beyond the promised date,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_02
+ENG_0179,This is urgent: the delivery is delayed beyond the promised date Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_02
+ENG_0180,This is urgent: the delivery is delayed beyond the promised date I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_02
+ENG_0181,Tracking shows delivered but I did not receive the package,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_03
+ENG_0182,Tracking shows delivered but I did not receive the package Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_03
+ENG_0183,Tracking shows delivered but I did not receive the package I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_03
+ENG_0184,"Hello, tracking shows delivered but I did not receive the package",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_03
+ENG_0185,"Hello, tracking shows delivered but I did not receive the package Please resolve this.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_03
+ENG_0186,"Hello, tracking shows delivered but I did not receive the package I need an update as soon as possible.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_03
+ENG_0187,"Please help, tracking shows delivered but I did not receive the package",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_03
+ENG_0188,"Please help, tracking shows delivered but I did not receive the package Please resolve this.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_03
+ENG_0189,"Please help, tracking shows delivered but I did not receive the package I need an update as soon as possible.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_03
+ENG_0190,I need assistance because tracking shows delivered but I did not receive the package,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_03
+ENG_0191,I need assistance because tracking shows delivered but I did not receive the package Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_03
+ENG_0192,I need assistance because tracking shows delivered but I did not receive the package I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_03
+ENG_0193,This is urgent: tracking shows delivered but I did not receive the package,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_03
+ENG_0194,This is urgent: tracking shows delivered but I did not receive the package Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_03
+ENG_0195,This is urgent: tracking shows delivered but I did not receive the package I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_03
+ENG_0196,The courier has not contacted me,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_04
+ENG_0197,The courier has not contacted me Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_04
+ENG_0198,The courier has not contacted me I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_04
+ENG_0199,"Hello, the courier has not contacted me",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_04
+ENG_0200,"Hello, the courier has not contacted me Please resolve this.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_04
+ENG_0201,"Hello, the courier has not contacted me I need an update as soon as possible.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_04
+ENG_0202,"Please help, the courier has not contacted me",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_04
+ENG_0203,"Please help, the courier has not contacted me Please resolve this.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_04
+ENG_0204,"Please help, the courier has not contacted me I need an update as soon as possible.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_04
+ENG_0205,I need assistance because the courier has not contacted me,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_04
+ENG_0206,I need assistance because the courier has not contacted me Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_04
+ENG_0207,I need assistance because the courier has not contacted me I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_04
+ENG_0208,This is urgent: the courier has not contacted me,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_04
+ENG_0209,This is urgent: the courier has not contacted me Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_04
+ENG_0210,This is urgent: the courier has not contacted me I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_04
+ENG_0211,My package is stuck at the same location,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_05
+ENG_0212,My package is stuck at the same location Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_05
+ENG_0213,My package is stuck at the same location I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_05
+ENG_0214,"Hello, my package is stuck at the same location",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_05
+ENG_0215,"Hello, my package is stuck at the same location Please resolve this.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_05
+ENG_0216,"Hello, my package is stuck at the same location I need an update as soon as possible.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_05
+ENG_0217,"Please help, my package is stuck at the same location",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_05
+ENG_0218,"Please help, my package is stuck at the same location Please resolve this.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_05
+ENG_0219,"Please help, my package is stuck at the same location I need an update as soon as possible.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_05
+ENG_0220,I need assistance because my package is stuck at the same location,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_05
+ENG_0221,I need assistance because my package is stuck at the same location Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_05
+ENG_0222,I need assistance because my package is stuck at the same location I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_05
+ENG_0223,This is urgent: my package is stuck at the same location,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_05
+ENG_0224,This is urgent: my package is stuck at the same location Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_05
+ENG_0225,This is urgent: my package is stuck at the same location I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_05
+ENG_0226,The delivery date keeps changing,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_06
+ENG_0227,The delivery date keeps changing Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_06
+ENG_0228,The delivery date keeps changing I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_06
+ENG_0229,"Hello, the delivery date keeps changing",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_06
+ENG_0230,"Hello, the delivery date keeps changing Please resolve this.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_06
+ENG_0231,"Hello, the delivery date keeps changing I need an update as soon as possible.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_06
+ENG_0232,"Please help, the delivery date keeps changing",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_06
+ENG_0233,"Please help, the delivery date keeps changing Please resolve this.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_06
+ENG_0234,"Please help, the delivery date keeps changing I need an update as soon as possible.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_06
+ENG_0235,I need assistance because the delivery date keeps changing,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_06
+ENG_0236,I need assistance because the delivery date keeps changing Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_06
+ENG_0237,I need assistance because the delivery date keeps changing I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_06
+ENG_0238,This is urgent: the delivery date keeps changing,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_06
+ENG_0239,This is urgent: the delivery date keeps changing Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_06
+ENG_0240,This is urgent: the delivery date keeps changing I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_06
+ENG_0241,My order was sent to the wrong address,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_07
+ENG_0242,My order was sent to the wrong address Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_07
+ENG_0243,My order was sent to the wrong address I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_07
+ENG_0244,"Hello, my order was sent to the wrong address",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_07
+ENG_0245,"Hello, my order was sent to the wrong address Please resolve this.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_07
+ENG_0246,"Hello, my order was sent to the wrong address I need an update as soon as possible.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_07
+ENG_0247,"Please help, my order was sent to the wrong address",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_07
+ENG_0248,"Please help, my order was sent to the wrong address Please resolve this.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_07
+ENG_0249,"Please help, my order was sent to the wrong address I need an update as soon as possible.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_07
+ENG_0250,I need assistance because my order was sent to the wrong address,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_07
+ENG_0251,I need assistance because my order was sent to the wrong address Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_07
+ENG_0252,I need assistance because my order was sent to the wrong address I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_07
+ENG_0253,This is urgent: my order was sent to the wrong address,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_07
+ENG_0254,This is urgent: my order was sent to the wrong address Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_07
+ENG_0255,This is urgent: my order was sent to the wrong address I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_07
+ENG_0256,Only part of my order was delivered,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_08
+ENG_0257,Only part of my order was delivered Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_08
+ENG_0258,Only part of my order was delivered I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_08
+ENG_0259,"Hello, only part of my order was delivered",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_08
+ENG_0260,"Hello, only part of my order was delivered Please resolve this.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_08
+ENG_0261,"Hello, only part of my order was delivered I need an update as soon as possible.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_08
+ENG_0262,"Please help, only part of my order was delivered",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_08
+ENG_0263,"Please help, only part of my order was delivered Please resolve this.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_08
+ENG_0264,"Please help, only part of my order was delivered I need an update as soon as possible.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_08
+ENG_0265,I need assistance because only part of my order was delivered,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_08
+ENG_0266,I need assistance because only part of my order was delivered Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_08
+ENG_0267,I need assistance because only part of my order was delivered I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_08
+ENG_0268,This is urgent: only part of my order was delivered,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_08
+ENG_0269,This is urgent: only part of my order was delivered Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_08
+ENG_0270,This is urgent: only part of my order was delivered I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_08
+ENG_0271,The courier refused to deliver my package,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_09
+ENG_0272,The courier refused to deliver my package Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_09
+ENG_0273,The courier refused to deliver my package I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_09
+ENG_0274,"Hello, the courier refused to deliver my package",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_09
+ENG_0275,"Hello, the courier refused to deliver my package Please resolve this.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_09
+ENG_0276,"Hello, the courier refused to deliver my package I need an update as soon as possible.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_09
+ENG_0277,"Please help, the courier refused to deliver my package",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_09
+ENG_0278,"Please help, the courier refused to deliver my package Please resolve this.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_09
+ENG_0279,"Please help, the courier refused to deliver my package I need an update as soon as possible.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_09
+ENG_0280,I need assistance because the courier refused to deliver my package,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_09
+ENG_0281,I need assistance because the courier refused to deliver my package Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_09
+ENG_0282,I need assistance because the courier refused to deliver my package I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_09
+ENG_0283,This is urgent: the courier refused to deliver my package,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_09
+ENG_0284,This is urgent: the courier refused to deliver my package Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_09
+ENG_0285,This is urgent: the courier refused to deliver my package I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_09
+ENG_0286,The tracking information has not been updated,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_10
+ENG_0287,The tracking information has not been updated Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_10
+ENG_0288,The tracking information has not been updated I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_10
+ENG_0289,"Hello, the tracking information has not been updated",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_10
+ENG_0290,"Hello, the tracking information has not been updated Please resolve this.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_10
+ENG_0291,"Hello, the tracking information has not been updated I need an update as soon as possible.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_10
+ENG_0292,"Please help, the tracking information has not been updated",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_10
+ENG_0293,"Please help, the tracking information has not been updated Please resolve this.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_10
+ENG_0294,"Please help, the tracking information has not been updated I need an update as soon as possible.",English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_10
+ENG_0295,I need assistance because the tracking information has not been updated,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_10
+ENG_0296,I need assistance because the tracking information has not been updated Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_10
+ENG_0297,I need assistance because the tracking information has not been updated I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_10
+ENG_0298,This is urgent: the tracking information has not been updated,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_10
+ENG_0299,This is urgent: the tracking information has not been updated Please resolve this.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_10
+ENG_0300,This is urgent: the tracking information has not been updated I need an update as soon as possible.,English,Delivery Issue,Logistics Team,Medium,English_Delivery Issue_10
+ENG_0301,I cancelled my order but have not received the refund,English,Refund Issue,Refund Team,High,English_Refund Issue_01
+ENG_0302,I cancelled my order but have not received the refund Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_01
+ENG_0303,I cancelled my order but have not received the refund I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_01
+ENG_0304,"Hello, I cancelled my order but have not received the refund",English,Refund Issue,Refund Team,High,English_Refund Issue_01
+ENG_0305,"Hello, I cancelled my order but have not received the refund Please resolve this.",English,Refund Issue,Refund Team,High,English_Refund Issue_01
+ENG_0306,"Hello, I cancelled my order but have not received the refund I need an update as soon as possible.",English,Refund Issue,Refund Team,High,English_Refund Issue_01
+ENG_0307,"Please help, I cancelled my order but have not received the refund",English,Refund Issue,Refund Team,High,English_Refund Issue_01
+ENG_0308,"Please help, I cancelled my order but have not received the refund Please resolve this.",English,Refund Issue,Refund Team,High,English_Refund Issue_01
+ENG_0309,"Please help, I cancelled my order but have not received the refund I need an update as soon as possible.",English,Refund Issue,Refund Team,High,English_Refund Issue_01
+ENG_0310,I need assistance because I cancelled my order but have not received the refund,English,Refund Issue,Refund Team,High,English_Refund Issue_01
+ENG_0311,I need assistance because I cancelled my order but have not received the refund Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_01
+ENG_0312,I need assistance because I cancelled my order but have not received the refund I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_01
+ENG_0313,This is urgent: I cancelled my order but have not received the refund,English,Refund Issue,Refund Team,High,English_Refund Issue_01
+ENG_0314,This is urgent: I cancelled my order but have not received the refund Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_01
+ENG_0315,This is urgent: I cancelled my order but have not received the refund I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_01
+ENG_0316,The refund is still pending,English,Refund Issue,Refund Team,High,English_Refund Issue_02
+ENG_0317,The refund is still pending Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_02
+ENG_0318,The refund is still pending I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_02
+ENG_0319,"Hello, the refund is still pending",English,Refund Issue,Refund Team,High,English_Refund Issue_02
+ENG_0320,"Hello, the refund is still pending Please resolve this.",English,Refund Issue,Refund Team,High,English_Refund Issue_02
+ENG_0321,"Hello, the refund is still pending I need an update as soon as possible.",English,Refund Issue,Refund Team,High,English_Refund Issue_02
+ENG_0322,"Please help, the refund is still pending",English,Refund Issue,Refund Team,High,English_Refund Issue_02
+ENG_0323,"Please help, the refund is still pending Please resolve this.",English,Refund Issue,Refund Team,High,English_Refund Issue_02
+ENG_0324,"Please help, the refund is still pending I need an update as soon as possible.",English,Refund Issue,Refund Team,High,English_Refund Issue_02
+ENG_0325,I need assistance because the refund is still pending,English,Refund Issue,Refund Team,High,English_Refund Issue_02
+ENG_0326,I need assistance because the refund is still pending Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_02
+ENG_0327,I need assistance because the refund is still pending I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_02
+ENG_0328,This is urgent: the refund is still pending,English,Refund Issue,Refund Team,High,English_Refund Issue_02
+ENG_0329,This is urgent: the refund is still pending Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_02
+ENG_0330,This is urgent: the refund is still pending I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_02
+ENG_0331,Only part of the refund was credited,English,Refund Issue,Refund Team,High,English_Refund Issue_03
+ENG_0332,Only part of the refund was credited Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_03
+ENG_0333,Only part of the refund was credited I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_03
+ENG_0334,"Hello, only part of the refund was credited",English,Refund Issue,Refund Team,High,English_Refund Issue_03
+ENG_0335,"Hello, only part of the refund was credited Please resolve this.",English,Refund Issue,Refund Team,High,English_Refund Issue_03
+ENG_0336,"Hello, only part of the refund was credited I need an update as soon as possible.",English,Refund Issue,Refund Team,High,English_Refund Issue_03
+ENG_0337,"Please help, only part of the refund was credited",English,Refund Issue,Refund Team,High,English_Refund Issue_03
+ENG_0338,"Please help, only part of the refund was credited Please resolve this.",English,Refund Issue,Refund Team,High,English_Refund Issue_03
+ENG_0339,"Please help, only part of the refund was credited I need an update as soon as possible.",English,Refund Issue,Refund Team,High,English_Refund Issue_03
+ENG_0340,I need assistance because only part of the refund was credited,English,Refund Issue,Refund Team,High,English_Refund Issue_03
+ENG_0341,I need assistance because only part of the refund was credited Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_03
+ENG_0342,I need assistance because only part of the refund was credited I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_03
+ENG_0343,This is urgent: only part of the refund was credited,English,Refund Issue,Refund Team,High,English_Refund Issue_03
+ENG_0344,This is urgent: only part of the refund was credited Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_03
+ENG_0345,This is urgent: only part of the refund was credited I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_03
+ENG_0346,The app says refunded but the money is not in my account,English,Refund Issue,Refund Team,High,English_Refund Issue_04
+ENG_0347,The app says refunded but the money is not in my account Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_04
+ENG_0348,The app says refunded but the money is not in my account I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_04
+ENG_0349,"Hello, the app says refunded but the money is not in my account",English,Refund Issue,Refund Team,High,English_Refund Issue_04
+ENG_0350,"Hello, the app says refunded but the money is not in my account Please resolve this.",English,Refund Issue,Refund Team,High,English_Refund Issue_04
+ENG_0351,"Hello, the app says refunded but the money is not in my account I need an update as soon as possible.",English,Refund Issue,Refund Team,High,English_Refund Issue_04
+ENG_0352,"Please help, the app says refunded but the money is not in my account",English,Refund Issue,Refund Team,High,English_Refund Issue_04
+ENG_0353,"Please help, the app says refunded but the money is not in my account Please resolve this.",English,Refund Issue,Refund Team,High,English_Refund Issue_04
+ENG_0354,"Please help, the app says refunded but the money is not in my account I need an update as soon as possible.",English,Refund Issue,Refund Team,High,English_Refund Issue_04
+ENG_0355,I need assistance because the app says refunded but the money is not in my account,English,Refund Issue,Refund Team,High,English_Refund Issue_04
+ENG_0356,I need assistance because the app says refunded but the money is not in my account Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_04
+ENG_0357,I need assistance because the app says refunded but the money is not in my account I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_04
+ENG_0358,This is urgent: the app says refunded but the money is not in my account,English,Refund Issue,Refund Team,High,English_Refund Issue_04
+ENG_0359,This is urgent: the app says refunded but the money is not in my account Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_04
+ENG_0360,This is urgent: the app says refunded but the money is not in my account I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_04
+ENG_0361,My return was accepted but the refund was not processed,English,Refund Issue,Refund Team,High,English_Refund Issue_05
+ENG_0362,My return was accepted but the refund was not processed Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_05
+ENG_0363,My return was accepted but the refund was not processed I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_05
+ENG_0364,"Hello, my return was accepted but the refund was not processed",English,Refund Issue,Refund Team,High,English_Refund Issue_05
+ENG_0365,"Hello, my return was accepted but the refund was not processed Please resolve this.",English,Refund Issue,Refund Team,High,English_Refund Issue_05
+ENG_0366,"Hello, my return was accepted but the refund was not processed I need an update as soon as possible.",English,Refund Issue,Refund Team,High,English_Refund Issue_05
+ENG_0367,"Please help, my return was accepted but the refund was not processed",English,Refund Issue,Refund Team,High,English_Refund Issue_05
+ENG_0368,"Please help, my return was accepted but the refund was not processed Please resolve this.",English,Refund Issue,Refund Team,High,English_Refund Issue_05
+ENG_0369,"Please help, my return was accepted but the refund was not processed I need an update as soon as possible.",English,Refund Issue,Refund Team,High,English_Refund Issue_05
+ENG_0370,I need assistance because my return was accepted but the refund was not processed,English,Refund Issue,Refund Team,High,English_Refund Issue_05
+ENG_0371,I need assistance because my return was accepted but the refund was not processed Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_05
+ENG_0372,I need assistance because my return was accepted but the refund was not processed I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_05
+ENG_0373,This is urgent: my return was accepted but the refund was not processed,English,Refund Issue,Refund Team,High,English_Refund Issue_05
+ENG_0374,This is urgent: my return was accepted but the refund was not processed Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_05
+ENG_0375,This is urgent: my return was accepted but the refund was not processed I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_05
+ENG_0376,The refund deadline has already passed,English,Refund Issue,Refund Team,High,English_Refund Issue_06
+ENG_0377,The refund deadline has already passed Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_06
+ENG_0378,The refund deadline has already passed I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_06
+ENG_0379,"Hello, the refund deadline has already passed",English,Refund Issue,Refund Team,High,English_Refund Issue_06
+ENG_0380,"Hello, the refund deadline has already passed Please resolve this.",English,Refund Issue,Refund Team,High,English_Refund Issue_06
+ENG_0381,"Hello, the refund deadline has already passed I need an update as soon as possible.",English,Refund Issue,Refund Team,High,English_Refund Issue_06
+ENG_0382,"Please help, the refund deadline has already passed",English,Refund Issue,Refund Team,High,English_Refund Issue_06
+ENG_0383,"Please help, the refund deadline has already passed Please resolve this.",English,Refund Issue,Refund Team,High,English_Refund Issue_06
+ENG_0384,"Please help, the refund deadline has already passed I need an update as soon as possible.",English,Refund Issue,Refund Team,High,English_Refund Issue_06
+ENG_0385,I need assistance because the refund deadline has already passed,English,Refund Issue,Refund Team,High,English_Refund Issue_06
+ENG_0386,I need assistance because the refund deadline has already passed Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_06
+ENG_0387,I need assistance because the refund deadline has already passed I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_06
+ENG_0388,This is urgent: the refund deadline has already passed,English,Refund Issue,Refund Team,High,English_Refund Issue_06
+ENG_0389,This is urgent: the refund deadline has already passed Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_06
+ENG_0390,This is urgent: the refund deadline has already passed I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_06
+ENG_0391,The refund was sent to the wrong payment method,English,Refund Issue,Refund Team,High,English_Refund Issue_07
+ENG_0392,The refund was sent to the wrong payment method Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_07
+ENG_0393,The refund was sent to the wrong payment method I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_07
+ENG_0394,"Hello, the refund was sent to the wrong payment method",English,Refund Issue,Refund Team,High,English_Refund Issue_07
+ENG_0395,"Hello, the refund was sent to the wrong payment method Please resolve this.",English,Refund Issue,Refund Team,High,English_Refund Issue_07
+ENG_0396,"Hello, the refund was sent to the wrong payment method I need an update as soon as possible.",English,Refund Issue,Refund Team,High,English_Refund Issue_07
+ENG_0397,"Please help, the refund was sent to the wrong payment method",English,Refund Issue,Refund Team,High,English_Refund Issue_07
+ENG_0398,"Please help, the refund was sent to the wrong payment method Please resolve this.",English,Refund Issue,Refund Team,High,English_Refund Issue_07
+ENG_0399,"Please help, the refund was sent to the wrong payment method I need an update as soon as possible.",English,Refund Issue,Refund Team,High,English_Refund Issue_07
+ENG_0400,I need assistance because the refund was sent to the wrong payment method,English,Refund Issue,Refund Team,High,English_Refund Issue_07
+ENG_0401,I need assistance because the refund was sent to the wrong payment method Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_07
+ENG_0402,I need assistance because the refund was sent to the wrong payment method I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_07
+ENG_0403,This is urgent: the refund was sent to the wrong payment method,English,Refund Issue,Refund Team,High,English_Refund Issue_07
+ENG_0404,This is urgent: the refund was sent to the wrong payment method Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_07
+ENG_0405,This is urgent: the refund was sent to the wrong payment method I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_07
+ENG_0406,I received a smaller refund than expected,English,Refund Issue,Refund Team,High,English_Refund Issue_08
+ENG_0407,I received a smaller refund than expected Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_08
+ENG_0408,I received a smaller refund than expected I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_08
+ENG_0409,"Hello, I received a smaller refund than expected",English,Refund Issue,Refund Team,High,English_Refund Issue_08
+ENG_0410,"Hello, I received a smaller refund than expected Please resolve this.",English,Refund Issue,Refund Team,High,English_Refund Issue_08
+ENG_0411,"Hello, I received a smaller refund than expected I need an update as soon as possible.",English,Refund Issue,Refund Team,High,English_Refund Issue_08
+ENG_0412,"Please help, I received a smaller refund than expected",English,Refund Issue,Refund Team,High,English_Refund Issue_08
+ENG_0413,"Please help, I received a smaller refund than expected Please resolve this.",English,Refund Issue,Refund Team,High,English_Refund Issue_08
+ENG_0414,"Please help, I received a smaller refund than expected I need an update as soon as possible.",English,Refund Issue,Refund Team,High,English_Refund Issue_08
+ENG_0415,I need assistance because I received a smaller refund than expected,English,Refund Issue,Refund Team,High,English_Refund Issue_08
+ENG_0416,I need assistance because I received a smaller refund than expected Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_08
+ENG_0417,I need assistance because I received a smaller refund than expected I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_08
+ENG_0418,This is urgent: I received a smaller refund than expected,English,Refund Issue,Refund Team,High,English_Refund Issue_08
+ENG_0419,This is urgent: I received a smaller refund than expected Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_08
+ENG_0420,This is urgent: I received a smaller refund than expected I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_08
+ENG_0421,The refund status has not changed for several days,English,Refund Issue,Refund Team,High,English_Refund Issue_09
+ENG_0422,The refund status has not changed for several days Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_09
+ENG_0423,The refund status has not changed for several days I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_09
+ENG_0424,"Hello, the refund status has not changed for several days",English,Refund Issue,Refund Team,High,English_Refund Issue_09
+ENG_0425,"Hello, the refund status has not changed for several days Please resolve this.",English,Refund Issue,Refund Team,High,English_Refund Issue_09
+ENG_0426,"Hello, the refund status has not changed for several days I need an update as soon as possible.",English,Refund Issue,Refund Team,High,English_Refund Issue_09
+ENG_0427,"Please help, the refund status has not changed for several days",English,Refund Issue,Refund Team,High,English_Refund Issue_09
+ENG_0428,"Please help, the refund status has not changed for several days Please resolve this.",English,Refund Issue,Refund Team,High,English_Refund Issue_09
+ENG_0429,"Please help, the refund status has not changed for several days I need an update as soon as possible.",English,Refund Issue,Refund Team,High,English_Refund Issue_09
+ENG_0430,I need assistance because the refund status has not changed for several days,English,Refund Issue,Refund Team,High,English_Refund Issue_09
+ENG_0431,I need assistance because the refund status has not changed for several days Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_09
+ENG_0432,I need assistance because the refund status has not changed for several days I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_09
+ENG_0433,This is urgent: the refund status has not changed for several days,English,Refund Issue,Refund Team,High,English_Refund Issue_09
+ENG_0434,This is urgent: the refund status has not changed for several days Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_09
+ENG_0435,This is urgent: the refund status has not changed for several days I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_09
+ENG_0436,My bank has not received the promised refund,English,Refund Issue,Refund Team,High,English_Refund Issue_10
+ENG_0437,My bank has not received the promised refund Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_10
+ENG_0438,My bank has not received the promised refund I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_10
+ENG_0439,"Hello, my bank has not received the promised refund",English,Refund Issue,Refund Team,High,English_Refund Issue_10
+ENG_0440,"Hello, my bank has not received the promised refund Please resolve this.",English,Refund Issue,Refund Team,High,English_Refund Issue_10
+ENG_0441,"Hello, my bank has not received the promised refund I need an update as soon as possible.",English,Refund Issue,Refund Team,High,English_Refund Issue_10
+ENG_0442,"Please help, my bank has not received the promised refund",English,Refund Issue,Refund Team,High,English_Refund Issue_10
+ENG_0443,"Please help, my bank has not received the promised refund Please resolve this.",English,Refund Issue,Refund Team,High,English_Refund Issue_10
+ENG_0444,"Please help, my bank has not received the promised refund I need an update as soon as possible.",English,Refund Issue,Refund Team,High,English_Refund Issue_10
+ENG_0445,I need assistance because my bank has not received the promised refund,English,Refund Issue,Refund Team,High,English_Refund Issue_10
+ENG_0446,I need assistance because my bank has not received the promised refund Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_10
+ENG_0447,I need assistance because my bank has not received the promised refund I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_10
+ENG_0448,This is urgent: my bank has not received the promised refund,English,Refund Issue,Refund Team,High,English_Refund Issue_10
+ENG_0449,This is urgent: my bank has not received the promised refund Please resolve this.,English,Refund Issue,Refund Team,High,English_Refund Issue_10
+ENG_0450,This is urgent: my bank has not received the promised refund I need an update as soon as possible.,English,Refund Issue,Refund Team,High,English_Refund Issue_10
+ENG_0451,I am unable to cancel my order,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_01
+ENG_0452,I am unable to cancel my order Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_01
+ENG_0453,I am unable to cancel my order I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_01
+ENG_0454,"Hello, I am unable to cancel my order",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_01
+ENG_0455,"Hello, I am unable to cancel my order Please resolve this.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_01
+ENG_0456,"Hello, I am unable to cancel my order I need an update as soon as possible.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_01
+ENG_0457,"Please help, I am unable to cancel my order",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_01
+ENG_0458,"Please help, I am unable to cancel my order Please resolve this.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_01
+ENG_0459,"Please help, I am unable to cancel my order I need an update as soon as possible.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_01
+ENG_0460,I need assistance because I am unable to cancel my order,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_01
+ENG_0461,I need assistance because I am unable to cancel my order Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_01
+ENG_0462,I need assistance because I am unable to cancel my order I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_01
+ENG_0463,This is urgent: I am unable to cancel my order,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_01
+ENG_0464,This is urgent: I am unable to cancel my order Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_01
+ENG_0465,This is urgent: I am unable to cancel my order I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_01
+ENG_0466,The cancel button is not available,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_02
+ENG_0467,The cancel button is not available Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_02
+ENG_0468,The cancel button is not available I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_02
+ENG_0469,"Hello, the cancel button is not available",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_02
+ENG_0470,"Hello, the cancel button is not available Please resolve this.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_02
+ENG_0471,"Hello, the cancel button is not available I need an update as soon as possible.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_02
+ENG_0472,"Please help, the cancel button is not available",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_02
+ENG_0473,"Please help, the cancel button is not available Please resolve this.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_02
+ENG_0474,"Please help, the cancel button is not available I need an update as soon as possible.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_02
+ENG_0475,I need assistance because the cancel button is not available,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_02
+ENG_0476,I need assistance because the cancel button is not available Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_02
+ENG_0477,I need assistance because the cancel button is not available I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_02
+ENG_0478,This is urgent: the cancel button is not available,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_02
+ENG_0479,This is urgent: the cancel button is not available Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_02
+ENG_0480,This is urgent: the cancel button is not available I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_02
+ENG_0481,My cancellation request keeps failing,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_03
+ENG_0482,My cancellation request keeps failing Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_03
+ENG_0483,My cancellation request keeps failing I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_03
+ENG_0484,"Hello, my cancellation request keeps failing",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_03
+ENG_0485,"Hello, my cancellation request keeps failing Please resolve this.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_03
+ENG_0486,"Hello, my cancellation request keeps failing I need an update as soon as possible.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_03
+ENG_0487,"Please help, my cancellation request keeps failing",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_03
+ENG_0488,"Please help, my cancellation request keeps failing Please resolve this.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_03
+ENG_0489,"Please help, my cancellation request keeps failing I need an update as soon as possible.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_03
+ENG_0490,I need assistance because my cancellation request keeps failing,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_03
+ENG_0491,I need assistance because my cancellation request keeps failing Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_03
+ENG_0492,I need assistance because my cancellation request keeps failing I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_03
+ENG_0493,This is urgent: my cancellation request keeps failing,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_03
+ENG_0494,This is urgent: my cancellation request keeps failing Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_03
+ENG_0495,This is urgent: my cancellation request keeps failing I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_03
+ENG_0496,The order was shipped after I requested cancellation,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_04
+ENG_0497,The order was shipped after I requested cancellation Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_04
+ENG_0498,The order was shipped after I requested cancellation I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_04
+ENG_0499,"Hello, the order was shipped after I requested cancellation",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_04
+ENG_0500,"Hello, the order was shipped after I requested cancellation Please resolve this.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_04
+ENG_0501,"Hello, the order was shipped after I requested cancellation I need an update as soon as possible.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_04
+ENG_0502,"Please help, the order was shipped after I requested cancellation",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_04
+ENG_0503,"Please help, the order was shipped after I requested cancellation Please resolve this.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_04
+ENG_0504,"Please help, the order was shipped after I requested cancellation I need an update as soon as possible.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_04
+ENG_0505,I need assistance because the order was shipped after I requested cancellation,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_04
+ENG_0506,I need assistance because the order was shipped after I requested cancellation Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_04
+ENG_0507,I need assistance because the order was shipped after I requested cancellation I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_04
+ENG_0508,This is urgent: the order was shipped after I requested cancellation,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_04
+ENG_0509,This is urgent: the order was shipped after I requested cancellation Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_04
+ENG_0510,This is urgent: the order was shipped after I requested cancellation I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_04
+ENG_0511,I accidentally placed an order and need to cancel it,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_05
+ENG_0512,I accidentally placed an order and need to cancel it Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_05
+ENG_0513,I accidentally placed an order and need to cancel it I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_05
+ENG_0514,"Hello, I accidentally placed an order and need to cancel it",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_05
+ENG_0515,"Hello, I accidentally placed an order and need to cancel it Please resolve this.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_05
+ENG_0516,"Hello, I accidentally placed an order and need to cancel it I need an update as soon as possible.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_05
+ENG_0517,"Please help, I accidentally placed an order and need to cancel it",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_05
+ENG_0518,"Please help, I accidentally placed an order and need to cancel it Please resolve this.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_05
+ENG_0519,"Please help, I accidentally placed an order and need to cancel it I need an update as soon as possible.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_05
+ENG_0520,I need assistance because I accidentally placed an order and need to cancel it,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_05
+ENG_0521,I need assistance because I accidentally placed an order and need to cancel it Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_05
+ENG_0522,I need assistance because I accidentally placed an order and need to cancel it I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_05
+ENG_0523,This is urgent: I accidentally placed an order and need to cancel it,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_05
+ENG_0524,This is urgent: I accidentally placed an order and need to cancel it Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_05
+ENG_0525,This is urgent: I accidentally placed an order and need to cancel it I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_05
+ENG_0526,The seller rejected my cancellation request,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_06
+ENG_0527,The seller rejected my cancellation request Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_06
+ENG_0528,The seller rejected my cancellation request I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_06
+ENG_0529,"Hello, the seller rejected my cancellation request",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_06
+ENG_0530,"Hello, the seller rejected my cancellation request Please resolve this.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_06
+ENG_0531,"Hello, the seller rejected my cancellation request I need an update as soon as possible.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_06
+ENG_0532,"Please help, the seller rejected my cancellation request",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_06
+ENG_0533,"Please help, the seller rejected my cancellation request Please resolve this.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_06
+ENG_0534,"Please help, the seller rejected my cancellation request I need an update as soon as possible.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_06
+ENG_0535,I need assistance because the seller rejected my cancellation request,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_06
+ENG_0536,I need assistance because the seller rejected my cancellation request Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_06
+ENG_0537,I need assistance because the seller rejected my cancellation request I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_06
+ENG_0538,This is urgent: the seller rejected my cancellation request,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_06
+ENG_0539,This is urgent: the seller rejected my cancellation request Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_06
+ENG_0540,This is urgent: the seller rejected my cancellation request I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_06
+ENG_0541,The app is not showing the cancellation option,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_07
+ENG_0542,The app is not showing the cancellation option Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_07
+ENG_0543,The app is not showing the cancellation option I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_07
+ENG_0544,"Hello, the app is not showing the cancellation option",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_07
+ENG_0545,"Hello, the app is not showing the cancellation option Please resolve this.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_07
+ENG_0546,"Hello, the app is not showing the cancellation option I need an update as soon as possible.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_07
+ENG_0547,"Please help, the app is not showing the cancellation option",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_07
+ENG_0548,"Please help, the app is not showing the cancellation option Please resolve this.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_07
+ENG_0549,"Please help, the app is not showing the cancellation option I need an update as soon as possible.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_07
+ENG_0550,I need assistance because the app is not showing the cancellation option,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_07
+ENG_0551,I need assistance because the app is not showing the cancellation option Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_07
+ENG_0552,I need assistance because the app is not showing the cancellation option I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_07
+ENG_0553,This is urgent: the app is not showing the cancellation option,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_07
+ENG_0554,This is urgent: the app is not showing the cancellation option Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_07
+ENG_0555,This is urgent: the app is not showing the cancellation option I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_07
+ENG_0556,I want to cancel one item from my order,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_08
+ENG_0557,I want to cancel one item from my order Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_08
+ENG_0558,I want to cancel one item from my order I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_08
+ENG_0559,"Hello, I want to cancel one item from my order",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_08
+ENG_0560,"Hello, I want to cancel one item from my order Please resolve this.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_08
+ENG_0561,"Hello, I want to cancel one item from my order I need an update as soon as possible.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_08
+ENG_0562,"Please help, I want to cancel one item from my order",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_08
+ENG_0563,"Please help, I want to cancel one item from my order Please resolve this.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_08
+ENG_0564,"Please help, I want to cancel one item from my order I need an update as soon as possible.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_08
+ENG_0565,I need assistance because I want to cancel one item from my order,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_08
+ENG_0566,I need assistance because I want to cancel one item from my order Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_08
+ENG_0567,I need assistance because I want to cancel one item from my order I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_08
+ENG_0568,This is urgent: I want to cancel one item from my order,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_08
+ENG_0569,This is urgent: I want to cancel one item from my order Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_08
+ENG_0570,This is urgent: I want to cancel one item from my order I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_08
+ENG_0571,My order still appears active after cancellation,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_09
+ENG_0572,My order still appears active after cancellation Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_09
+ENG_0573,My order still appears active after cancellation I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_09
+ENG_0574,"Hello, my order still appears active after cancellation",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_09
+ENG_0575,"Hello, my order still appears active after cancellation Please resolve this.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_09
+ENG_0576,"Hello, my order still appears active after cancellation I need an update as soon as possible.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_09
+ENG_0577,"Please help, my order still appears active after cancellation",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_09
+ENG_0578,"Please help, my order still appears active after cancellation Please resolve this.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_09
+ENG_0579,"Please help, my order still appears active after cancellation I need an update as soon as possible.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_09
+ENG_0580,I need assistance because my order still appears active after cancellation,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_09
+ENG_0581,I need assistance because my order still appears active after cancellation Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_09
+ENG_0582,I need assistance because my order still appears active after cancellation I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_09
+ENG_0583,This is urgent: my order still appears active after cancellation,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_09
+ENG_0584,This is urgent: my order still appears active after cancellation Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_09
+ENG_0585,This is urgent: my order still appears active after cancellation I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_09
+ENG_0586,I was charged a fee for cancelling the order,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_10
+ENG_0587,I was charged a fee for cancelling the order Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_10
+ENG_0588,I was charged a fee for cancelling the order I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_10
+ENG_0589,"Hello, I was charged a fee for cancelling the order",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_10
+ENG_0590,"Hello, I was charged a fee for cancelling the order Please resolve this.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_10
+ENG_0591,"Hello, I was charged a fee for cancelling the order I need an update as soon as possible.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_10
+ENG_0592,"Please help, I was charged a fee for cancelling the order",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_10
+ENG_0593,"Please help, I was charged a fee for cancelling the order Please resolve this.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_10
+ENG_0594,"Please help, I was charged a fee for cancelling the order I need an update as soon as possible.",English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_10
+ENG_0595,I need assistance because I was charged a fee for cancelling the order,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_10
+ENG_0596,I need assistance because I was charged a fee for cancelling the order Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_10
+ENG_0597,I need assistance because I was charged a fee for cancelling the order I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_10
+ENG_0598,This is urgent: I was charged a fee for cancelling the order,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_10
+ENG_0599,This is urgent: I was charged a fee for cancelling the order Please resolve this.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_10
+ENG_0600,This is urgent: I was charged a fee for cancelling the order I need an update as soon as possible.,English,Cancellation Issue,Order Management,Medium,English_Cancellation Issue_10
+ENG_0601,The product I received is damaged,English,Product Issue,Product Support,High,English_Product Issue_01
+ENG_0602,The product I received is damaged Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_01
+ENG_0603,The product I received is damaged I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_01
+ENG_0604,"Hello, the product I received is damaged",English,Product Issue,Product Support,High,English_Product Issue_01
+ENG_0605,"Hello, the product I received is damaged Please resolve this.",English,Product Issue,Product Support,High,English_Product Issue_01
+ENG_0606,"Hello, the product I received is damaged I need an update as soon as possible.",English,Product Issue,Product Support,High,English_Product Issue_01
+ENG_0607,"Please help, the product I received is damaged",English,Product Issue,Product Support,High,English_Product Issue_01
+ENG_0608,"Please help, the product I received is damaged Please resolve this.",English,Product Issue,Product Support,High,English_Product Issue_01
+ENG_0609,"Please help, the product I received is damaged I need an update as soon as possible.",English,Product Issue,Product Support,High,English_Product Issue_01
+ENG_0610,I need assistance because the product I received is damaged,English,Product Issue,Product Support,High,English_Product Issue_01
+ENG_0611,I need assistance because the product I received is damaged Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_01
+ENG_0612,I need assistance because the product I received is damaged I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_01
+ENG_0613,This is urgent: the product I received is damaged,English,Product Issue,Product Support,High,English_Product Issue_01
+ENG_0614,This is urgent: the product I received is damaged Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_01
+ENG_0615,This is urgent: the product I received is damaged I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_01
+ENG_0616,The item is defective and does not work,English,Product Issue,Product Support,High,English_Product Issue_02
+ENG_0617,The item is defective and does not work Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_02
+ENG_0618,The item is defective and does not work I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_02
+ENG_0619,"Hello, the item is defective and does not work",English,Product Issue,Product Support,High,English_Product Issue_02
+ENG_0620,"Hello, the item is defective and does not work Please resolve this.",English,Product Issue,Product Support,High,English_Product Issue_02
+ENG_0621,"Hello, the item is defective and does not work I need an update as soon as possible.",English,Product Issue,Product Support,High,English_Product Issue_02
+ENG_0622,"Please help, the item is defective and does not work",English,Product Issue,Product Support,High,English_Product Issue_02
+ENG_0623,"Please help, the item is defective and does not work Please resolve this.",English,Product Issue,Product Support,High,English_Product Issue_02
+ENG_0624,"Please help, the item is defective and does not work I need an update as soon as possible.",English,Product Issue,Product Support,High,English_Product Issue_02
+ENG_0625,I need assistance because the item is defective and does not work,English,Product Issue,Product Support,High,English_Product Issue_02
+ENG_0626,I need assistance because the item is defective and does not work Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_02
+ENG_0627,I need assistance because the item is defective and does not work I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_02
+ENG_0628,This is urgent: the item is defective and does not work,English,Product Issue,Product Support,High,English_Product Issue_02
+ENG_0629,This is urgent: the item is defective and does not work Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_02
+ENG_0630,This is urgent: the item is defective and does not work I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_02
+ENG_0631,I received the wrong product,English,Product Issue,Product Support,High,English_Product Issue_03
+ENG_0632,I received the wrong product Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_03
+ENG_0633,I received the wrong product I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_03
+ENG_0634,"Hello, I received the wrong product",English,Product Issue,Product Support,High,English_Product Issue_03
+ENG_0635,"Hello, I received the wrong product Please resolve this.",English,Product Issue,Product Support,High,English_Product Issue_03
+ENG_0636,"Hello, I received the wrong product I need an update as soon as possible.",English,Product Issue,Product Support,High,English_Product Issue_03
+ENG_0637,"Please help, I received the wrong product",English,Product Issue,Product Support,High,English_Product Issue_03
+ENG_0638,"Please help, I received the wrong product Please resolve this.",English,Product Issue,Product Support,High,English_Product Issue_03
+ENG_0639,"Please help, I received the wrong product I need an update as soon as possible.",English,Product Issue,Product Support,High,English_Product Issue_03
+ENG_0640,I need assistance because I received the wrong product,English,Product Issue,Product Support,High,English_Product Issue_03
+ENG_0641,I need assistance because I received the wrong product Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_03
+ENG_0642,I need assistance because I received the wrong product I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_03
+ENG_0643,This is urgent: I received the wrong product,English,Product Issue,Product Support,High,English_Product Issue_03
+ENG_0644,This is urgent: I received the wrong product Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_03
+ENG_0645,This is urgent: I received the wrong product I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_03
+ENG_0646,The product does not match its description,English,Product Issue,Product Support,High,English_Product Issue_04
+ENG_0647,The product does not match its description Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_04
+ENG_0648,The product does not match its description I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_04
+ENG_0649,"Hello, the product does not match its description",English,Product Issue,Product Support,High,English_Product Issue_04
+ENG_0650,"Hello, the product does not match its description Please resolve this.",English,Product Issue,Product Support,High,English_Product Issue_04
+ENG_0651,"Hello, the product does not match its description I need an update as soon as possible.",English,Product Issue,Product Support,High,English_Product Issue_04
+ENG_0652,"Please help, the product does not match its description",English,Product Issue,Product Support,High,English_Product Issue_04
+ENG_0653,"Please help, the product does not match its description Please resolve this.",English,Product Issue,Product Support,High,English_Product Issue_04
+ENG_0654,"Please help, the product does not match its description I need an update as soon as possible.",English,Product Issue,Product Support,High,English_Product Issue_04
+ENG_0655,I need assistance because the product does not match its description,English,Product Issue,Product Support,High,English_Product Issue_04
+ENG_0656,I need assistance because the product does not match its description Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_04
+ENG_0657,I need assistance because the product does not match its description I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_04
+ENG_0658,This is urgent: the product does not match its description,English,Product Issue,Product Support,High,English_Product Issue_04
+ENG_0659,This is urgent: the product does not match its description Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_04
+ENG_0660,This is urgent: the product does not match its description I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_04
+ENG_0661,An accessory is missing from the package,English,Product Issue,Product Support,High,English_Product Issue_05
+ENG_0662,An accessory is missing from the package Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_05
+ENG_0663,An accessory is missing from the package I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_05
+ENG_0664,"Hello, an accessory is missing from the package",English,Product Issue,Product Support,High,English_Product Issue_05
+ENG_0665,"Hello, an accessory is missing from the package Please resolve this.",English,Product Issue,Product Support,High,English_Product Issue_05
+ENG_0666,"Hello, an accessory is missing from the package I need an update as soon as possible.",English,Product Issue,Product Support,High,English_Product Issue_05
+ENG_0667,"Please help, an accessory is missing from the package",English,Product Issue,Product Support,High,English_Product Issue_05
+ENG_0668,"Please help, an accessory is missing from the package Please resolve this.",English,Product Issue,Product Support,High,English_Product Issue_05
+ENG_0669,"Please help, an accessory is missing from the package I need an update as soon as possible.",English,Product Issue,Product Support,High,English_Product Issue_05
+ENG_0670,I need assistance because an accessory is missing from the package,English,Product Issue,Product Support,High,English_Product Issue_05
+ENG_0671,I need assistance because an accessory is missing from the package Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_05
+ENG_0672,I need assistance because an accessory is missing from the package I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_05
+ENG_0673,This is urgent: an accessory is missing from the package,English,Product Issue,Product Support,High,English_Product Issue_05
+ENG_0674,This is urgent: an accessory is missing from the package Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_05
+ENG_0675,This is urgent: an accessory is missing from the package I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_05
+ENG_0676,The item arrived with broken parts,English,Product Issue,Product Support,High,English_Product Issue_06
+ENG_0677,The item arrived with broken parts Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_06
+ENG_0678,The item arrived with broken parts I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_06
+ENG_0679,"Hello, the item arrived with broken parts",English,Product Issue,Product Support,High,English_Product Issue_06
+ENG_0680,"Hello, the item arrived with broken parts Please resolve this.",English,Product Issue,Product Support,High,English_Product Issue_06
+ENG_0681,"Hello, the item arrived with broken parts I need an update as soon as possible.",English,Product Issue,Product Support,High,English_Product Issue_06
+ENG_0682,"Please help, the item arrived with broken parts",English,Product Issue,Product Support,High,English_Product Issue_06
+ENG_0683,"Please help, the item arrived with broken parts Please resolve this.",English,Product Issue,Product Support,High,English_Product Issue_06
+ENG_0684,"Please help, the item arrived with broken parts I need an update as soon as possible.",English,Product Issue,Product Support,High,English_Product Issue_06
+ENG_0685,I need assistance because the item arrived with broken parts,English,Product Issue,Product Support,High,English_Product Issue_06
+ENG_0686,I need assistance because the item arrived with broken parts Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_06
+ENG_0687,I need assistance because the item arrived with broken parts I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_06
+ENG_0688,This is urgent: the item arrived with broken parts,English,Product Issue,Product Support,High,English_Product Issue_06
+ENG_0689,This is urgent: the item arrived with broken parts Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_06
+ENG_0690,This is urgent: the item arrived with broken parts I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_06
+ENG_0691,The product quality is very poor,English,Product Issue,Product Support,High,English_Product Issue_07
+ENG_0692,The product quality is very poor Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_07
+ENG_0693,The product quality is very poor I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_07
+ENG_0694,"Hello, the product quality is very poor",English,Product Issue,Product Support,High,English_Product Issue_07
+ENG_0695,"Hello, the product quality is very poor Please resolve this.",English,Product Issue,Product Support,High,English_Product Issue_07
+ENG_0696,"Hello, the product quality is very poor I need an update as soon as possible.",English,Product Issue,Product Support,High,English_Product Issue_07
+ENG_0697,"Please help, the product quality is very poor",English,Product Issue,Product Support,High,English_Product Issue_07
+ENG_0698,"Please help, the product quality is very poor Please resolve this.",English,Product Issue,Product Support,High,English_Product Issue_07
+ENG_0699,"Please help, the product quality is very poor I need an update as soon as possible.",English,Product Issue,Product Support,High,English_Product Issue_07
+ENG_0700,I need assistance because the product quality is very poor,English,Product Issue,Product Support,High,English_Product Issue_07
+ENG_0701,I need assistance because the product quality is very poor Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_07
+ENG_0702,I need assistance because the product quality is very poor I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_07
+ENG_0703,This is urgent: the product quality is very poor,English,Product Issue,Product Support,High,English_Product Issue_07
+ENG_0704,This is urgent: the product quality is very poor Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_07
+ENG_0705,This is urgent: the product quality is very poor I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_07
+ENG_0706,I received an expired product,English,Product Issue,Product Support,High,English_Product Issue_08
+ENG_0707,I received an expired product Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_08
+ENG_0708,I received an expired product I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_08
+ENG_0709,"Hello, I received an expired product",English,Product Issue,Product Support,High,English_Product Issue_08
+ENG_0710,"Hello, I received an expired product Please resolve this.",English,Product Issue,Product Support,High,English_Product Issue_08
+ENG_0711,"Hello, I received an expired product I need an update as soon as possible.",English,Product Issue,Product Support,High,English_Product Issue_08
+ENG_0712,"Please help, I received an expired product",English,Product Issue,Product Support,High,English_Product Issue_08
+ENG_0713,"Please help, I received an expired product Please resolve this.",English,Product Issue,Product Support,High,English_Product Issue_08
+ENG_0714,"Please help, I received an expired product I need an update as soon as possible.",English,Product Issue,Product Support,High,English_Product Issue_08
+ENG_0715,I need assistance because I received an expired product,English,Product Issue,Product Support,High,English_Product Issue_08
+ENG_0716,I need assistance because I received an expired product Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_08
+ENG_0717,I need assistance because I received an expired product I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_08
+ENG_0718,This is urgent: I received an expired product,English,Product Issue,Product Support,High,English_Product Issue_08
+ENG_0719,This is urgent: I received an expired product Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_08
+ENG_0720,This is urgent: I received an expired product I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_08
+ENG_0721,The size or colour is different from what I ordered,English,Product Issue,Product Support,High,English_Product Issue_09
+ENG_0722,The size or colour is different from what I ordered Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_09
+ENG_0723,The size or colour is different from what I ordered I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_09
+ENG_0724,"Hello, the size or colour is different from what I ordered",English,Product Issue,Product Support,High,English_Product Issue_09
+ENG_0725,"Hello, the size or colour is different from what I ordered Please resolve this.",English,Product Issue,Product Support,High,English_Product Issue_09
+ENG_0726,"Hello, the size or colour is different from what I ordered I need an update as soon as possible.",English,Product Issue,Product Support,High,English_Product Issue_09
+ENG_0727,"Please help, the size or colour is different from what I ordered",English,Product Issue,Product Support,High,English_Product Issue_09
+ENG_0728,"Please help, the size or colour is different from what I ordered Please resolve this.",English,Product Issue,Product Support,High,English_Product Issue_09
+ENG_0729,"Please help, the size or colour is different from what I ordered I need an update as soon as possible.",English,Product Issue,Product Support,High,English_Product Issue_09
+ENG_0730,I need assistance because the size or colour is different from what I ordered,English,Product Issue,Product Support,High,English_Product Issue_09
+ENG_0731,I need assistance because the size or colour is different from what I ordered Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_09
+ENG_0732,I need assistance because the size or colour is different from what I ordered I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_09
+ENG_0733,This is urgent: the size or colour is different from what I ordered,English,Product Issue,Product Support,High,English_Product Issue_09
+ENG_0734,This is urgent: the size or colour is different from what I ordered Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_09
+ENG_0735,This is urgent: the size or colour is different from what I ordered I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_09
+ENG_0736,The package was empty when it arrived,English,Product Issue,Product Support,High,English_Product Issue_10
+ENG_0737,The package was empty when it arrived Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_10
+ENG_0738,The package was empty when it arrived I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_10
+ENG_0739,"Hello, the package was empty when it arrived",English,Product Issue,Product Support,High,English_Product Issue_10
+ENG_0740,"Hello, the package was empty when it arrived Please resolve this.",English,Product Issue,Product Support,High,English_Product Issue_10
+ENG_0741,"Hello, the package was empty when it arrived I need an update as soon as possible.",English,Product Issue,Product Support,High,English_Product Issue_10
+ENG_0742,"Please help, the package was empty when it arrived",English,Product Issue,Product Support,High,English_Product Issue_10
+ENG_0743,"Please help, the package was empty when it arrived Please resolve this.",English,Product Issue,Product Support,High,English_Product Issue_10
+ENG_0744,"Please help, the package was empty when it arrived I need an update as soon as possible.",English,Product Issue,Product Support,High,English_Product Issue_10
+ENG_0745,I need assistance because the package was empty when it arrived,English,Product Issue,Product Support,High,English_Product Issue_10
+ENG_0746,I need assistance because the package was empty when it arrived Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_10
+ENG_0747,I need assistance because the package was empty when it arrived I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_10
+ENG_0748,This is urgent: the package was empty when it arrived,English,Product Issue,Product Support,High,English_Product Issue_10
+ENG_0749,This is urgent: the package was empty when it arrived Please resolve this.,English,Product Issue,Product Support,High,English_Product Issue_10
+ENG_0750,This is urgent: the package was empty when it arrived I need an update as soon as possible.,English,Product Issue,Product Support,High,English_Product Issue_10
+ENG_0751,I want to return this product,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_01
+ENG_0752,I want to return this product Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_01
+ENG_0753,I want to return this product I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_01
+ENG_0754,"Hello, I want to return this product",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_01
+ENG_0755,"Hello, I want to return this product Please resolve this.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_01
+ENG_0756,"Hello, I want to return this product I need an update as soon as possible.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_01
+ENG_0757,"Please help, I want to return this product",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_01
+ENG_0758,"Please help, I want to return this product Please resolve this.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_01
+ENG_0759,"Please help, I want to return this product I need an update as soon as possible.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_01
+ENG_0760,I need assistance because I want to return this product,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_01
+ENG_0761,I need assistance because I want to return this product Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_01
+ENG_0762,I need assistance because I want to return this product I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_01
+ENG_0763,This is urgent: I want to return this product,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_01
+ENG_0764,This is urgent: I want to return this product Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_01
+ENG_0765,This is urgent: I want to return this product I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_01
+ENG_0766,I need a replacement for the damaged item,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_02
+ENG_0767,I need a replacement for the damaged item Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_02
+ENG_0768,I need a replacement for the damaged item I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_02
+ENG_0769,"Hello, I need a replacement for the damaged item",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_02
+ENG_0770,"Hello, I need a replacement for the damaged item Please resolve this.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_02
+ENG_0771,"Hello, I need a replacement for the damaged item I need an update as soon as possible.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_02
+ENG_0772,"Please help, I need a replacement for the damaged item",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_02
+ENG_0773,"Please help, I need a replacement for the damaged item Please resolve this.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_02
+ENG_0774,"Please help, I need a replacement for the damaged item I need an update as soon as possible.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_02
+ENG_0775,I need assistance because I need a replacement for the damaged item,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_02
+ENG_0776,I need assistance because I need a replacement for the damaged item Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_02
+ENG_0777,I need assistance because I need a replacement for the damaged item I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_02
+ENG_0778,This is urgent: I need a replacement for the damaged item,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_02
+ENG_0779,This is urgent: I need a replacement for the damaged item Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_02
+ENG_0780,This is urgent: I need a replacement for the damaged item I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_02
+ENG_0781,The return request is not being accepted,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_03
+ENG_0782,The return request is not being accepted Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_03
+ENG_0783,The return request is not being accepted I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_03
+ENG_0784,"Hello, the return request is not being accepted",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_03
+ENG_0785,"Hello, the return request is not being accepted Please resolve this.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_03
+ENG_0786,"Hello, the return request is not being accepted I need an update as soon as possible.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_03
+ENG_0787,"Please help, the return request is not being accepted",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_03
+ENG_0788,"Please help, the return request is not being accepted Please resolve this.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_03
+ENG_0789,"Please help, the return request is not being accepted I need an update as soon as possible.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_03
+ENG_0790,I need assistance because the return request is not being accepted,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_03
+ENG_0791,I need assistance because the return request is not being accepted Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_03
+ENG_0792,I need assistance because the return request is not being accepted I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_03
+ENG_0793,This is urgent: the return request is not being accepted,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_03
+ENG_0794,This is urgent: the return request is not being accepted Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_03
+ENG_0795,This is urgent: the return request is not being accepted I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_03
+ENG_0796,The pickup for my return has not happened,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_04
+ENG_0797,The pickup for my return has not happened Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_04
+ENG_0798,The pickup for my return has not happened I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_04
+ENG_0799,"Hello, the pickup for my return has not happened",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_04
+ENG_0800,"Hello, the pickup for my return has not happened Please resolve this.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_04
+ENG_0801,"Hello, the pickup for my return has not happened I need an update as soon as possible.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_04
+ENG_0802,"Please help, the pickup for my return has not happened",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_04
+ENG_0803,"Please help, the pickup for my return has not happened Please resolve this.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_04
+ENG_0804,"Please help, the pickup for my return has not happened I need an update as soon as possible.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_04
+ENG_0805,I need assistance because the pickup for my return has not happened,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_04
+ENG_0806,I need assistance because the pickup for my return has not happened Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_04
+ENG_0807,I need assistance because the pickup for my return has not happened I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_04
+ENG_0808,This is urgent: the pickup for my return has not happened,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_04
+ENG_0809,This is urgent: the pickup for my return has not happened Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_04
+ENG_0810,This is urgent: the pickup for my return has not happened I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_04
+ENG_0811,I want to exchange the item for another size,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_05
+ENG_0812,I want to exchange the item for another size Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_05
+ENG_0813,I want to exchange the item for another size I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_05
+ENG_0814,"Hello, I want to exchange the item for another size",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_05
+ENG_0815,"Hello, I want to exchange the item for another size Please resolve this.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_05
+ENG_0816,"Hello, I want to exchange the item for another size I need an update as soon as possible.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_05
+ENG_0817,"Please help, I want to exchange the item for another size",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_05
+ENG_0818,"Please help, I want to exchange the item for another size Please resolve this.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_05
+ENG_0819,"Please help, I want to exchange the item for another size I need an update as soon as possible.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_05
+ENG_0820,I need assistance because I want to exchange the item for another size,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_05
+ENG_0821,I need assistance because I want to exchange the item for another size Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_05
+ENG_0822,I need assistance because I want to exchange the item for another size I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_05
+ENG_0823,This is urgent: I want to exchange the item for another size,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_05
+ENG_0824,This is urgent: I want to exchange the item for another size Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_05
+ENG_0825,This is urgent: I want to exchange the item for another size I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_05
+ENG_0826,The replacement order has not been shipped,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_06
+ENG_0827,The replacement order has not been shipped Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_06
+ENG_0828,The replacement order has not been shipped I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_06
+ENG_0829,"Hello, the replacement order has not been shipped",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_06
+ENG_0830,"Hello, the replacement order has not been shipped Please resolve this.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_06
+ENG_0831,"Hello, the replacement order has not been shipped I need an update as soon as possible.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_06
+ENG_0832,"Please help, the replacement order has not been shipped",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_06
+ENG_0833,"Please help, the replacement order has not been shipped Please resolve this.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_06
+ENG_0834,"Please help, the replacement order has not been shipped I need an update as soon as possible.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_06
+ENG_0835,I need assistance because the replacement order has not been shipped,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_06
+ENG_0836,I need assistance because the replacement order has not been shipped Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_06
+ENG_0837,I need assistance because the replacement order has not been shipped I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_06
+ENG_0838,This is urgent: the replacement order has not been shipped,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_06
+ENG_0839,This is urgent: the replacement order has not been shipped Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_06
+ENG_0840,This is urgent: the replacement order has not been shipped I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_06
+ENG_0841,The return window is incorrectly shown as closed,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_07
+ENG_0842,The return window is incorrectly shown as closed Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_07
+ENG_0843,The return window is incorrectly shown as closed I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_07
+ENG_0844,"Hello, the return window is incorrectly shown as closed",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_07
+ENG_0845,"Hello, the return window is incorrectly shown as closed Please resolve this.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_07
+ENG_0846,"Hello, the return window is incorrectly shown as closed I need an update as soon as possible.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_07
+ENG_0847,"Please help, the return window is incorrectly shown as closed",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_07
+ENG_0848,"Please help, the return window is incorrectly shown as closed Please resolve this.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_07
+ENG_0849,"Please help, the return window is incorrectly shown as closed I need an update as soon as possible.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_07
+ENG_0850,I need assistance because the return window is incorrectly shown as closed,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_07
+ENG_0851,I need assistance because the return window is incorrectly shown as closed Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_07
+ENG_0852,I need assistance because the return window is incorrectly shown as closed I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_07
+ENG_0853,This is urgent: the return window is incorrectly shown as closed,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_07
+ENG_0854,This is urgent: the return window is incorrectly shown as closed Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_07
+ENG_0855,This is urgent: the return window is incorrectly shown as closed I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_07
+ENG_0856,The courier refused to collect my return,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_08
+ENG_0857,The courier refused to collect my return Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_08
+ENG_0858,The courier refused to collect my return I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_08
+ENG_0859,"Hello, the courier refused to collect my return",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_08
+ENG_0860,"Hello, the courier refused to collect my return Please resolve this.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_08
+ENG_0861,"Hello, the courier refused to collect my return I need an update as soon as possible.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_08
+ENG_0862,"Please help, the courier refused to collect my return",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_08
+ENG_0863,"Please help, the courier refused to collect my return Please resolve this.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_08
+ENG_0864,"Please help, the courier refused to collect my return I need an update as soon as possible.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_08
+ENG_0865,I need assistance because the courier refused to collect my return,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_08
+ENG_0866,I need assistance because the courier refused to collect my return Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_08
+ENG_0867,I need assistance because the courier refused to collect my return I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_08
+ENG_0868,This is urgent: the courier refused to collect my return,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_08
+ENG_0869,This is urgent: the courier refused to collect my return Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_08
+ENG_0870,This is urgent: the courier refused to collect my return I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_08
+ENG_0871,I received the wrong replacement product,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_09
+ENG_0872,I received the wrong replacement product Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_09
+ENG_0873,I received the wrong replacement product I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_09
+ENG_0874,"Hello, I received the wrong replacement product",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_09
+ENG_0875,"Hello, I received the wrong replacement product Please resolve this.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_09
+ENG_0876,"Hello, I received the wrong replacement product I need an update as soon as possible.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_09
+ENG_0877,"Please help, I received the wrong replacement product",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_09
+ENG_0878,"Please help, I received the wrong replacement product Please resolve this.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_09
+ENG_0879,"Please help, I received the wrong replacement product I need an update as soon as possible.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_09
+ENG_0880,I need assistance because I received the wrong replacement product,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_09
+ENG_0881,I need assistance because I received the wrong replacement product Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_09
+ENG_0882,I need assistance because I received the wrong replacement product I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_09
+ENG_0883,This is urgent: I received the wrong replacement product,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_09
+ENG_0884,This is urgent: I received the wrong replacement product Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_09
+ENG_0885,This is urgent: I received the wrong replacement product I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_09
+ENG_0886,My return request was cancelled without explanation,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_10
+ENG_0887,My return request was cancelled without explanation Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_10
+ENG_0888,My return request was cancelled without explanation I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_10
+ENG_0889,"Hello, my return request was cancelled without explanation",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_10
+ENG_0890,"Hello, my return request was cancelled without explanation Please resolve this.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_10
+ENG_0891,"Hello, my return request was cancelled without explanation I need an update as soon as possible.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_10
+ENG_0892,"Please help, my return request was cancelled without explanation",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_10
+ENG_0893,"Please help, my return request was cancelled without explanation Please resolve this.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_10
+ENG_0894,"Please help, my return request was cancelled without explanation I need an update as soon as possible.",English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_10
+ENG_0895,I need assistance because my return request was cancelled without explanation,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_10
+ENG_0896,I need assistance because my return request was cancelled without explanation Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_10
+ENG_0897,I need assistance because my return request was cancelled without explanation I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_10
+ENG_0898,This is urgent: my return request was cancelled without explanation,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_10
+ENG_0899,This is urgent: my return request was cancelled without explanation Please resolve this.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_10
+ENG_0900,This is urgent: my return request was cancelled without explanation I need an update as soon as possible.,English,Return/Replacement,Returns Team,Medium,English_Return/Replacement_10
+ENG_0901,I cannot log in to my account,English,Account Issue,Account Support,Medium,English_Account Issue_01
+ENG_0902,I cannot log in to my account Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_01
+ENG_0903,I cannot log in to my account I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_01
+ENG_0904,"Hello, I cannot log in to my account",English,Account Issue,Account Support,Medium,English_Account Issue_01
+ENG_0905,"Hello, I cannot log in to my account Please resolve this.",English,Account Issue,Account Support,Medium,English_Account Issue_01
+ENG_0906,"Hello, I cannot log in to my account I need an update as soon as possible.",English,Account Issue,Account Support,Medium,English_Account Issue_01
+ENG_0907,"Please help, I cannot log in to my account",English,Account Issue,Account Support,Medium,English_Account Issue_01
+ENG_0908,"Please help, I cannot log in to my account Please resolve this.",English,Account Issue,Account Support,Medium,English_Account Issue_01
+ENG_0909,"Please help, I cannot log in to my account I need an update as soon as possible.",English,Account Issue,Account Support,Medium,English_Account Issue_01
+ENG_0910,I need assistance because I cannot log in to my account,English,Account Issue,Account Support,Medium,English_Account Issue_01
+ENG_0911,I need assistance because I cannot log in to my account Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_01
+ENG_0912,I need assistance because I cannot log in to my account I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_01
+ENG_0913,This is urgent: I cannot log in to my account,English,Account Issue,Account Support,Medium,English_Account Issue_01
+ENG_0914,This is urgent: I cannot log in to my account Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_01
+ENG_0915,This is urgent: I cannot log in to my account I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_01
+ENG_0916,I am not receiving the login OTP,English,Account Issue,Account Support,Medium,English_Account Issue_02
+ENG_0917,I am not receiving the login OTP Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_02
+ENG_0918,I am not receiving the login OTP I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_02
+ENG_0919,"Hello, I am not receiving the login OTP",English,Account Issue,Account Support,Medium,English_Account Issue_02
+ENG_0920,"Hello, I am not receiving the login OTP Please resolve this.",English,Account Issue,Account Support,Medium,English_Account Issue_02
+ENG_0921,"Hello, I am not receiving the login OTP I need an update as soon as possible.",English,Account Issue,Account Support,Medium,English_Account Issue_02
+ENG_0922,"Please help, I am not receiving the login OTP",English,Account Issue,Account Support,Medium,English_Account Issue_02
+ENG_0923,"Please help, I am not receiving the login OTP Please resolve this.",English,Account Issue,Account Support,Medium,English_Account Issue_02
+ENG_0924,"Please help, I am not receiving the login OTP I need an update as soon as possible.",English,Account Issue,Account Support,Medium,English_Account Issue_02
+ENG_0925,I need assistance because I am not receiving the login OTP,English,Account Issue,Account Support,Medium,English_Account Issue_02
+ENG_0926,I need assistance because I am not receiving the login OTP Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_02
+ENG_0927,I need assistance because I am not receiving the login OTP I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_02
+ENG_0928,This is urgent: I am not receiving the login OTP,English,Account Issue,Account Support,Medium,English_Account Issue_02
+ENG_0929,This is urgent: I am not receiving the login OTP Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_02
+ENG_0930,This is urgent: I am not receiving the login OTP I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_02
+ENG_0931,My account has been locked,English,Account Issue,Account Support,Medium,English_Account Issue_03
+ENG_0932,My account has been locked Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_03
+ENG_0933,My account has been locked I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_03
+ENG_0934,"Hello, my account has been locked",English,Account Issue,Account Support,Medium,English_Account Issue_03
+ENG_0935,"Hello, my account has been locked Please resolve this.",English,Account Issue,Account Support,Medium,English_Account Issue_03
+ENG_0936,"Hello, my account has been locked I need an update as soon as possible.",English,Account Issue,Account Support,Medium,English_Account Issue_03
+ENG_0937,"Please help, my account has been locked",English,Account Issue,Account Support,Medium,English_Account Issue_03
+ENG_0938,"Please help, my account has been locked Please resolve this.",English,Account Issue,Account Support,Medium,English_Account Issue_03
+ENG_0939,"Please help, my account has been locked I need an update as soon as possible.",English,Account Issue,Account Support,Medium,English_Account Issue_03
+ENG_0940,I need assistance because my account has been locked,English,Account Issue,Account Support,Medium,English_Account Issue_03
+ENG_0941,I need assistance because my account has been locked Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_03
+ENG_0942,I need assistance because my account has been locked I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_03
+ENG_0943,This is urgent: my account has been locked,English,Account Issue,Account Support,Medium,English_Account Issue_03
+ENG_0944,This is urgent: my account has been locked Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_03
+ENG_0945,This is urgent: my account has been locked I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_03
+ENG_0946,I cannot update my phone number,English,Account Issue,Account Support,Medium,English_Account Issue_04
+ENG_0947,I cannot update my phone number Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_04
+ENG_0948,I cannot update my phone number I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_04
+ENG_0949,"Hello, I cannot update my phone number",English,Account Issue,Account Support,Medium,English_Account Issue_04
+ENG_0950,"Hello, I cannot update my phone number Please resolve this.",English,Account Issue,Account Support,Medium,English_Account Issue_04
+ENG_0951,"Hello, I cannot update my phone number I need an update as soon as possible.",English,Account Issue,Account Support,Medium,English_Account Issue_04
+ENG_0952,"Please help, I cannot update my phone number",English,Account Issue,Account Support,Medium,English_Account Issue_04
+ENG_0953,"Please help, I cannot update my phone number Please resolve this.",English,Account Issue,Account Support,Medium,English_Account Issue_04
+ENG_0954,"Please help, I cannot update my phone number I need an update as soon as possible.",English,Account Issue,Account Support,Medium,English_Account Issue_04
+ENG_0955,I need assistance because I cannot update my phone number,English,Account Issue,Account Support,Medium,English_Account Issue_04
+ENG_0956,I need assistance because I cannot update my phone number Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_04
+ENG_0957,I need assistance because I cannot update my phone number I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_04
+ENG_0958,This is urgent: I cannot update my phone number,English,Account Issue,Account Support,Medium,English_Account Issue_04
+ENG_0959,This is urgent: I cannot update my phone number Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_04
+ENG_0960,This is urgent: I cannot update my phone number I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_04
+ENG_0961,My saved address has disappeared,English,Account Issue,Account Support,Medium,English_Account Issue_05
+ENG_0962,My saved address has disappeared Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_05
+ENG_0963,My saved address has disappeared I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_05
+ENG_0964,"Hello, my saved address has disappeared",English,Account Issue,Account Support,Medium,English_Account Issue_05
+ENG_0965,"Hello, my saved address has disappeared Please resolve this.",English,Account Issue,Account Support,Medium,English_Account Issue_05
+ENG_0966,"Hello, my saved address has disappeared I need an update as soon as possible.",English,Account Issue,Account Support,Medium,English_Account Issue_05
+ENG_0967,"Please help, my saved address has disappeared",English,Account Issue,Account Support,Medium,English_Account Issue_05
+ENG_0968,"Please help, my saved address has disappeared Please resolve this.",English,Account Issue,Account Support,Medium,English_Account Issue_05
+ENG_0969,"Please help, my saved address has disappeared I need an update as soon as possible.",English,Account Issue,Account Support,Medium,English_Account Issue_05
+ENG_0970,I need assistance because my saved address has disappeared,English,Account Issue,Account Support,Medium,English_Account Issue_05
+ENG_0971,I need assistance because my saved address has disappeared Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_05
+ENG_0972,I need assistance because my saved address has disappeared I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_05
+ENG_0973,This is urgent: my saved address has disappeared,English,Account Issue,Account Support,Medium,English_Account Issue_05
+ENG_0974,This is urgent: my saved address has disappeared Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_05
+ENG_0975,This is urgent: my saved address has disappeared I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_05
+ENG_0976,I forgot my password and cannot reset it,English,Account Issue,Account Support,Medium,English_Account Issue_06
+ENG_0977,I forgot my password and cannot reset it Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_06
+ENG_0978,I forgot my password and cannot reset it I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_06
+ENG_0979,"Hello, I forgot my password and cannot reset it",English,Account Issue,Account Support,Medium,English_Account Issue_06
+ENG_0980,"Hello, I forgot my password and cannot reset it Please resolve this.",English,Account Issue,Account Support,Medium,English_Account Issue_06
+ENG_0981,"Hello, I forgot my password and cannot reset it I need an update as soon as possible.",English,Account Issue,Account Support,Medium,English_Account Issue_06
+ENG_0982,"Please help, I forgot my password and cannot reset it",English,Account Issue,Account Support,Medium,English_Account Issue_06
+ENG_0983,"Please help, I forgot my password and cannot reset it Please resolve this.",English,Account Issue,Account Support,Medium,English_Account Issue_06
+ENG_0984,"Please help, I forgot my password and cannot reset it I need an update as soon as possible.",English,Account Issue,Account Support,Medium,English_Account Issue_06
+ENG_0985,I need assistance because I forgot my password and cannot reset it,English,Account Issue,Account Support,Medium,English_Account Issue_06
+ENG_0986,I need assistance because I forgot my password and cannot reset it Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_06
+ENG_0987,I need assistance because I forgot my password and cannot reset it I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_06
+ENG_0988,This is urgent: I forgot my password and cannot reset it,English,Account Issue,Account Support,Medium,English_Account Issue_06
+ENG_0989,This is urgent: I forgot my password and cannot reset it Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_06
+ENG_0990,This is urgent: I forgot my password and cannot reset it I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_06
+ENG_0991,The app logs me out repeatedly,English,Account Issue,Account Support,Medium,English_Account Issue_07
+ENG_0992,The app logs me out repeatedly Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_07
+ENG_0993,The app logs me out repeatedly I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_07
+ENG_0994,"Hello, the app logs me out repeatedly",English,Account Issue,Account Support,Medium,English_Account Issue_07
+ENG_0995,"Hello, the app logs me out repeatedly Please resolve this.",English,Account Issue,Account Support,Medium,English_Account Issue_07
+ENG_0996,"Hello, the app logs me out repeatedly I need an update as soon as possible.",English,Account Issue,Account Support,Medium,English_Account Issue_07
+ENG_0997,"Please help, the app logs me out repeatedly",English,Account Issue,Account Support,Medium,English_Account Issue_07
+ENG_0998,"Please help, the app logs me out repeatedly Please resolve this.",English,Account Issue,Account Support,Medium,English_Account Issue_07
+ENG_0999,"Please help, the app logs me out repeatedly I need an update as soon as possible.",English,Account Issue,Account Support,Medium,English_Account Issue_07
+ENG_1000,I need assistance because the app logs me out repeatedly,English,Account Issue,Account Support,Medium,English_Account Issue_07
+ENG_1001,I need assistance because the app logs me out repeatedly Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_07
+ENG_1002,I need assistance because the app logs me out repeatedly I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_07
+ENG_1003,This is urgent: the app logs me out repeatedly,English,Account Issue,Account Support,Medium,English_Account Issue_07
+ENG_1004,This is urgent: the app logs me out repeatedly Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_07
+ENG_1005,This is urgent: the app logs me out repeatedly I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_07
+ENG_1006,I cannot change the email linked to my account,English,Account Issue,Account Support,Medium,English_Account Issue_08
+ENG_1007,I cannot change the email linked to my account Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_08
+ENG_1008,I cannot change the email linked to my account I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_08
+ENG_1009,"Hello, I cannot change the email linked to my account",English,Account Issue,Account Support,Medium,English_Account Issue_08
+ENG_1010,"Hello, I cannot change the email linked to my account Please resolve this.",English,Account Issue,Account Support,Medium,English_Account Issue_08
+ENG_1011,"Hello, I cannot change the email linked to my account I need an update as soon as possible.",English,Account Issue,Account Support,Medium,English_Account Issue_08
+ENG_1012,"Please help, I cannot change the email linked to my account",English,Account Issue,Account Support,Medium,English_Account Issue_08
+ENG_1013,"Please help, I cannot change the email linked to my account Please resolve this.",English,Account Issue,Account Support,Medium,English_Account Issue_08
+ENG_1014,"Please help, I cannot change the email linked to my account I need an update as soon as possible.",English,Account Issue,Account Support,Medium,English_Account Issue_08
+ENG_1015,I need assistance because I cannot change the email linked to my account,English,Account Issue,Account Support,Medium,English_Account Issue_08
+ENG_1016,I need assistance because I cannot change the email linked to my account Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_08
+ENG_1017,I need assistance because I cannot change the email linked to my account I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_08
+ENG_1018,This is urgent: I cannot change the email linked to my account,English,Account Issue,Account Support,Medium,English_Account Issue_08
+ENG_1019,This is urgent: I cannot change the email linked to my account Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_08
+ENG_1020,This is urgent: I cannot change the email linked to my account I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_08
+ENG_1021,My order history is missing,English,Account Issue,Account Support,Medium,English_Account Issue_09
+ENG_1022,My order history is missing Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_09
+ENG_1023,My order history is missing I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_09
+ENG_1024,"Hello, my order history is missing",English,Account Issue,Account Support,Medium,English_Account Issue_09
+ENG_1025,"Hello, my order history is missing Please resolve this.",English,Account Issue,Account Support,Medium,English_Account Issue_09
+ENG_1026,"Hello, my order history is missing I need an update as soon as possible.",English,Account Issue,Account Support,Medium,English_Account Issue_09
+ENG_1027,"Please help, my order history is missing",English,Account Issue,Account Support,Medium,English_Account Issue_09
+ENG_1028,"Please help, my order history is missing Please resolve this.",English,Account Issue,Account Support,Medium,English_Account Issue_09
+ENG_1029,"Please help, my order history is missing I need an update as soon as possible.",English,Account Issue,Account Support,Medium,English_Account Issue_09
+ENG_1030,I need assistance because my order history is missing,English,Account Issue,Account Support,Medium,English_Account Issue_09
+ENG_1031,I need assistance because my order history is missing Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_09
+ENG_1032,I need assistance because my order history is missing I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_09
+ENG_1033,This is urgent: my order history is missing,English,Account Issue,Account Support,Medium,English_Account Issue_09
+ENG_1034,This is urgent: my order history is missing Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_09
+ENG_1035,This is urgent: my order history is missing I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_09
+ENG_1036,I accidentally created two accounts with the same number,English,Account Issue,Account Support,Medium,English_Account Issue_10
+ENG_1037,I accidentally created two accounts with the same number Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_10
+ENG_1038,I accidentally created two accounts with the same number I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_10
+ENG_1039,"Hello, I accidentally created two accounts with the same number",English,Account Issue,Account Support,Medium,English_Account Issue_10
+ENG_1040,"Hello, I accidentally created two accounts with the same number Please resolve this.",English,Account Issue,Account Support,Medium,English_Account Issue_10
+ENG_1041,"Hello, I accidentally created two accounts with the same number I need an update as soon as possible.",English,Account Issue,Account Support,Medium,English_Account Issue_10
+ENG_1042,"Please help, I accidentally created two accounts with the same number",English,Account Issue,Account Support,Medium,English_Account Issue_10
+ENG_1043,"Please help, I accidentally created two accounts with the same number Please resolve this.",English,Account Issue,Account Support,Medium,English_Account Issue_10
+ENG_1044,"Please help, I accidentally created two accounts with the same number I need an update as soon as possible.",English,Account Issue,Account Support,Medium,English_Account Issue_10
+ENG_1045,I need assistance because I accidentally created two accounts with the same number,English,Account Issue,Account Support,Medium,English_Account Issue_10
+ENG_1046,I need assistance because I accidentally created two accounts with the same number Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_10
+ENG_1047,I need assistance because I accidentally created two accounts with the same number I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_10
+ENG_1048,This is urgent: I accidentally created two accounts with the same number,English,Account Issue,Account Support,Medium,English_Account Issue_10
+ENG_1049,This is urgent: I accidentally created two accounts with the same number Please resolve this.,English,Account Issue,Account Support,Medium,English_Account Issue_10
+ENG_1050,This is urgent: I accidentally created two accounts with the same number I need an update as soon as possible.,English,Account Issue,Account Support,Medium,English_Account Issue_10
+ENG_1051,There is an unknown transaction on my account,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_01
+ENG_1052,There is an unknown transaction on my account Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_01
+ENG_1053,There is an unknown transaction on my account I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_01
+ENG_1054,"Hello, there is an unknown transaction on my account",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_01
+ENG_1055,"Hello, there is an unknown transaction on my account Please resolve this.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_01
+ENG_1056,"Hello, there is an unknown transaction on my account I need an update as soon as possible.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_01
+ENG_1057,"Please help, there is an unknown transaction on my account",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_01
+ENG_1058,"Please help, there is an unknown transaction on my account Please resolve this.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_01
+ENG_1059,"Please help, there is an unknown transaction on my account I need an update as soon as possible.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_01
+ENG_1060,I need assistance because there is an unknown transaction on my account,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_01
+ENG_1061,I need assistance because there is an unknown transaction on my account Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_01
+ENG_1062,I need assistance because there is an unknown transaction on my account I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_01
+ENG_1063,This is urgent: there is an unknown transaction on my account,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_01
+ENG_1064,This is urgent: there is an unknown transaction on my account Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_01
+ENG_1065,This is urgent: there is an unknown transaction on my account I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_01
+ENG_1066,Someone placed an order using my account,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_02
+ENG_1067,Someone placed an order using my account Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_02
+ENG_1068,Someone placed an order using my account I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_02
+ENG_1069,"Hello, someone placed an order using my account",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_02
+ENG_1070,"Hello, someone placed an order using my account Please resolve this.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_02
+ENG_1071,"Hello, someone placed an order using my account I need an update as soon as possible.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_02
+ENG_1072,"Please help, someone placed an order using my account",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_02
+ENG_1073,"Please help, someone placed an order using my account Please resolve this.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_02
+ENG_1074,"Please help, someone placed an order using my account I need an update as soon as possible.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_02
+ENG_1075,I need assistance because someone placed an order using my account,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_02
+ENG_1076,I need assistance because someone placed an order using my account Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_02
+ENG_1077,I need assistance because someone placed an order using my account I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_02
+ENG_1078,This is urgent: someone placed an order using my account,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_02
+ENG_1079,This is urgent: someone placed an order using my account Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_02
+ENG_1080,This is urgent: someone placed an order using my account I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_02
+ENG_1081,My account appears to have been hacked,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_03
+ENG_1082,My account appears to have been hacked Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_03
+ENG_1083,My account appears to have been hacked I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_03
+ENG_1084,"Hello, my account appears to have been hacked",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_03
+ENG_1085,"Hello, my account appears to have been hacked Please resolve this.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_03
+ENG_1086,"Hello, my account appears to have been hacked I need an update as soon as possible.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_03
+ENG_1087,"Please help, my account appears to have been hacked",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_03
+ENG_1088,"Please help, my account appears to have been hacked Please resolve this.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_03
+ENG_1089,"Please help, my account appears to have been hacked I need an update as soon as possible.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_03
+ENG_1090,I need assistance because my account appears to have been hacked,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_03
+ENG_1091,I need assistance because my account appears to have been hacked Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_03
+ENG_1092,I need assistance because my account appears to have been hacked I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_03
+ENG_1093,This is urgent: my account appears to have been hacked,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_03
+ENG_1094,This is urgent: my account appears to have been hacked Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_03
+ENG_1095,This is urgent: my account appears to have been hacked I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_03
+ENG_1096,I received an OTP for a purchase I did not make,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_04
+ENG_1097,I received an OTP for a purchase I did not make Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_04
+ENG_1098,I received an OTP for a purchase I did not make I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_04
+ENG_1099,"Hello, I received an OTP for a purchase I did not make",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_04
+ENG_1100,"Hello, I received an OTP for a purchase I did not make Please resolve this.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_04
+ENG_1101,"Hello, I received an OTP for a purchase I did not make I need an update as soon as possible.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_04
+ENG_1102,"Please help, I received an OTP for a purchase I did not make",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_04
+ENG_1103,"Please help, I received an OTP for a purchase I did not make Please resolve this.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_04
+ENG_1104,"Please help, I received an OTP for a purchase I did not make I need an update as soon as possible.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_04
+ENG_1105,I need assistance because I received an OTP for a purchase I did not make,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_04
+ENG_1106,I need assistance because I received an OTP for a purchase I did not make Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_04
+ENG_1107,I need assistance because I received an OTP for a purchase I did not make I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_04
+ENG_1108,This is urgent: I received an OTP for a purchase I did not make,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_04
+ENG_1109,This is urgent: I received an OTP for a purchase I did not make Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_04
+ENG_1110,This is urgent: I received an OTP for a purchase I did not make I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_04
+ENG_1111,My saved card was used without permission,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_05
+ENG_1112,My saved card was used without permission Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_05
+ENG_1113,My saved card was used without permission I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_05
+ENG_1114,"Hello, my saved card was used without permission",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_05
+ENG_1115,"Hello, my saved card was used without permission Please resolve this.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_05
+ENG_1116,"Hello, my saved card was used without permission I need an update as soon as possible.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_05
+ENG_1117,"Please help, my saved card was used without permission",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_05
+ENG_1118,"Please help, my saved card was used without permission Please resolve this.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_05
+ENG_1119,"Please help, my saved card was used without permission I need an update as soon as possible.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_05
+ENG_1120,I need assistance because my saved card was used without permission,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_05
+ENG_1121,I need assistance because my saved card was used without permission Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_05
+ENG_1122,I need assistance because my saved card was used without permission I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_05
+ENG_1123,This is urgent: my saved card was used without permission,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_05
+ENG_1124,This is urgent: my saved card was used without permission Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_05
+ENG_1125,This is urgent: my saved card was used without permission I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_05
+ENG_1126,Someone changed my account password,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_06
+ENG_1127,Someone changed my account password Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_06
+ENG_1128,Someone changed my account password I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_06
+ENG_1129,"Hello, someone changed my account password",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_06
+ENG_1130,"Hello, someone changed my account password Please resolve this.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_06
+ENG_1131,"Hello, someone changed my account password I need an update as soon as possible.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_06
+ENG_1132,"Please help, someone changed my account password",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_06
+ENG_1133,"Please help, someone changed my account password Please resolve this.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_06
+ENG_1134,"Please help, someone changed my account password I need an update as soon as possible.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_06
+ENG_1135,I need assistance because someone changed my account password,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_06
+ENG_1136,I need assistance because someone changed my account password Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_06
+ENG_1137,I need assistance because someone changed my account password I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_06
+ENG_1138,This is urgent: someone changed my account password,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_06
+ENG_1139,This is urgent: someone changed my account password Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_06
+ENG_1140,This is urgent: someone changed my account password I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_06
+ENG_1141,I found an unfamiliar delivery address in my account,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_07
+ENG_1142,I found an unfamiliar delivery address in my account Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_07
+ENG_1143,I found an unfamiliar delivery address in my account I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_07
+ENG_1144,"Hello, I found an unfamiliar delivery address in my account",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_07
+ENG_1145,"Hello, I found an unfamiliar delivery address in my account Please resolve this.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_07
+ENG_1146,"Hello, I found an unfamiliar delivery address in my account I need an update as soon as possible.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_07
+ENG_1147,"Please help, I found an unfamiliar delivery address in my account",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_07
+ENG_1148,"Please help, I found an unfamiliar delivery address in my account Please resolve this.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_07
+ENG_1149,"Please help, I found an unfamiliar delivery address in my account I need an update as soon as possible.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_07
+ENG_1150,I need assistance because I found an unfamiliar delivery address in my account,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_07
+ENG_1151,I need assistance because I found an unfamiliar delivery address in my account Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_07
+ENG_1152,I need assistance because I found an unfamiliar delivery address in my account I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_07
+ENG_1153,This is urgent: I found an unfamiliar delivery address in my account,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_07
+ENG_1154,This is urgent: I found an unfamiliar delivery address in my account Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_07
+ENG_1155,This is urgent: I found an unfamiliar delivery address in my account I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_07
+ENG_1156,I received a suspicious message asking for payment,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_08
+ENG_1157,I received a suspicious message asking for payment Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_08
+ENG_1158,I received a suspicious message asking for payment I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_08
+ENG_1159,"Hello, I received a suspicious message asking for payment",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_08
+ENG_1160,"Hello, I received a suspicious message asking for payment Please resolve this.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_08
+ENG_1161,"Hello, I received a suspicious message asking for payment I need an update as soon as possible.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_08
+ENG_1162,"Please help, I received a suspicious message asking for payment",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_08
+ENG_1163,"Please help, I received a suspicious message asking for payment Please resolve this.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_08
+ENG_1164,"Please help, I received a suspicious message asking for payment I need an update as soon as possible.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_08
+ENG_1165,I need assistance because I received a suspicious message asking for payment,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_08
+ENG_1166,I need assistance because I received a suspicious message asking for payment Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_08
+ENG_1167,I need assistance because I received a suspicious message asking for payment I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_08
+ENG_1168,This is urgent: I received a suspicious message asking for payment,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_08
+ENG_1169,This is urgent: I received a suspicious message asking for payment Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_08
+ENG_1170,This is urgent: I received a suspicious message asking for payment I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_08
+ENG_1171,A fake customer-care agent requested my bank details,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_09
+ENG_1172,A fake customer-care agent requested my bank details Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_09
+ENG_1173,A fake customer-care agent requested my bank details I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_09
+ENG_1174,"Hello, a fake customer-care agent requested my bank details",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_09
+ENG_1175,"Hello, a fake customer-care agent requested my bank details Please resolve this.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_09
+ENG_1176,"Hello, a fake customer-care agent requested my bank details I need an update as soon as possible.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_09
+ENG_1177,"Please help, a fake customer-care agent requested my bank details",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_09
+ENG_1178,"Please help, a fake customer-care agent requested my bank details Please resolve this.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_09
+ENG_1179,"Please help, a fake customer-care agent requested my bank details I need an update as soon as possible.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_09
+ENG_1180,I need assistance because a fake customer-care agent requested my bank details,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_09
+ENG_1181,I need assistance because a fake customer-care agent requested my bank details Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_09
+ENG_1182,I need assistance because a fake customer-care agent requested my bank details I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_09
+ENG_1183,This is urgent: a fake customer-care agent requested my bank details,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_09
+ENG_1184,This is urgent: a fake customer-care agent requested my bank details Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_09
+ENG_1185,This is urgent: a fake customer-care agent requested my bank details I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_09
+ENG_1186,There are multiple unauthorised purchases on my account,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_10
+ENG_1187,There are multiple unauthorised purchases on my account Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_10
+ENG_1188,There are multiple unauthorised purchases on my account I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_10
+ENG_1189,"Hello, there are multiple unauthorised purchases on my account",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_10
+ENG_1190,"Hello, there are multiple unauthorised purchases on my account Please resolve this.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_10
+ENG_1191,"Hello, there are multiple unauthorised purchases on my account I need an update as soon as possible.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_10
+ENG_1192,"Please help, there are multiple unauthorised purchases on my account",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_10
+ENG_1193,"Please help, there are multiple unauthorised purchases on my account Please resolve this.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_10
+ENG_1194,"Please help, there are multiple unauthorised purchases on my account I need an update as soon as possible.",English,Fraud/Security,Security Team,Critical,English_Fraud/Security_10
+ENG_1195,I need assistance because there are multiple unauthorised purchases on my account,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_10
+ENG_1196,I need assistance because there are multiple unauthorised purchases on my account Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_10
+ENG_1197,I need assistance because there are multiple unauthorised purchases on my account I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_10
+ENG_1198,This is urgent: there are multiple unauthorised purchases on my account,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_10
+ENG_1199,This is urgent: there are multiple unauthorised purchases on my account Please resolve this.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_10
+ENG_1200,This is urgent: there are multiple unauthorised purchases on my account I need an update as soon as possible.,English,Fraud/Security,Security Team,Critical,English_Fraud/Security_10

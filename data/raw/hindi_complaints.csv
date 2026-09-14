@@ -1,0 +1,1201 @@
+﻿complaint_id,text,language,category,department,priority,template_group
+HIN_0001,मेरे पैसे कट गए लेकिन ऑर्डर कन्फर्म नहीं हुआ।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_01
+HIN_0002,मेरे पैसे कट गए लेकिन ऑर्डर कन्फर्म नहीं हुआ। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_01
+HIN_0003,मेरे पैसे कट गए लेकिन ऑर्डर कन्फर्म नहीं हुआ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_01
+HIN_0004,"नमस्ते, मेरे पैसे कट गए लेकिन ऑर्डर कन्फर्म नहीं हुआ।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_01
+HIN_0005,"नमस्ते, मेरे पैसे कट गए लेकिन ऑर्डर कन्फर्म नहीं हुआ। कृपया इसे जल्दी हल करें।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_01
+HIN_0006,"नमस्ते, मेरे पैसे कट गए लेकिन ऑर्डर कन्फर्म नहीं हुआ। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_01
+HIN_0007,"कृपया मदद करें, मेरे पैसे कट गए लेकिन ऑर्डर कन्फर्म नहीं हुआ।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_01
+HIN_0008,"कृपया मदद करें, मेरे पैसे कट गए लेकिन ऑर्डर कन्फर्म नहीं हुआ। कृपया इसे जल्दी हल करें।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_01
+HIN_0009,"कृपया मदद करें, मेरे पैसे कट गए लेकिन ऑर्डर कन्फर्म नहीं हुआ। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_01
+HIN_0010,मुझे सहायता चाहिए क्योंकि मेरे पैसे कट गए लेकिन ऑर्डर कन्फर्म नहीं हुआ।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_01
+HIN_0011,मुझे सहायता चाहिए क्योंकि मेरे पैसे कट गए लेकिन ऑर्डर कन्फर्म नहीं हुआ। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_01
+HIN_0012,मुझे सहायता चाहिए क्योंकि मेरे पैसे कट गए लेकिन ऑर्डर कन्फर्म नहीं हुआ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_01
+HIN_0013,यह बहुत जरूरी है: मेरे पैसे कट गए लेकिन ऑर्डर कन्फर्म नहीं हुआ।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_01
+HIN_0014,यह बहुत जरूरी है: मेरे पैसे कट गए लेकिन ऑर्डर कन्फर्म नहीं हुआ। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_01
+HIN_0015,यह बहुत जरूरी है: मेरे पैसे कट गए लेकिन ऑर्डर कन्फर्म नहीं हुआ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_01
+HIN_0016,एक ही ऑर्डर के लिए दो बार पैसे कट गए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_02
+HIN_0017,एक ही ऑर्डर के लिए दो बार पैसे कट गए। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_02
+HIN_0018,एक ही ऑर्डर के लिए दो बार पैसे कट गए। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_02
+HIN_0019,"नमस्ते, एक ही ऑर्डर के लिए दो बार पैसे कट गए।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_02
+HIN_0020,"नमस्ते, एक ही ऑर्डर के लिए दो बार पैसे कट गए। कृपया इसे जल्दी हल करें।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_02
+HIN_0021,"नमस्ते, एक ही ऑर्डर के लिए दो बार पैसे कट गए। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_02
+HIN_0022,"कृपया मदद करें, एक ही ऑर्डर के लिए दो बार पैसे कट गए।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_02
+HIN_0023,"कृपया मदद करें, एक ही ऑर्डर के लिए दो बार पैसे कट गए। कृपया इसे जल्दी हल करें।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_02
+HIN_0024,"कृपया मदद करें, एक ही ऑर्डर के लिए दो बार पैसे कट गए। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_02
+HIN_0025,मुझे सहायता चाहिए क्योंकि एक ही ऑर्डर के लिए दो बार पैसे कट गए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_02
+HIN_0026,मुझे सहायता चाहिए क्योंकि एक ही ऑर्डर के लिए दो बार पैसे कट गए। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_02
+HIN_0027,मुझे सहायता चाहिए क्योंकि एक ही ऑर्डर के लिए दो बार पैसे कट गए। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_02
+HIN_0028,यह बहुत जरूरी है: एक ही ऑर्डर के लिए दो बार पैसे कट गए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_02
+HIN_0029,यह बहुत जरूरी है: एक ही ऑर्डर के लिए दो बार पैसे कट गए। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_02
+HIN_0030,यह बहुत जरूरी है: एक ही ऑर्डर के लिए दो बार पैसे कट गए। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_02
+HIN_0031,पेमेंट फेल हो गया लेकिन खाते से पैसे कट गए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_03
+HIN_0032,पेमेंट फेल हो गया लेकिन खाते से पैसे कट गए। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_03
+HIN_0033,पेमेंट फेल हो गया लेकिन खाते से पैसे कट गए। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_03
+HIN_0034,"नमस्ते, पेमेंट फेल हो गया लेकिन खाते से पैसे कट गए।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_03
+HIN_0035,"नमस्ते, पेमेंट फेल हो गया लेकिन खाते से पैसे कट गए। कृपया इसे जल्दी हल करें।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_03
+HIN_0036,"नमस्ते, पेमेंट फेल हो गया लेकिन खाते से पैसे कट गए। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_03
+HIN_0037,"कृपया मदद करें, पेमेंट फेल हो गया लेकिन खाते से पैसे कट गए।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_03
+HIN_0038,"कृपया मदद करें, पेमेंट फेल हो गया लेकिन खाते से पैसे कट गए। कृपया इसे जल्दी हल करें।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_03
+HIN_0039,"कृपया मदद करें, पेमेंट फेल हो गया लेकिन खाते से पैसे कट गए। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_03
+HIN_0040,मुझे सहायता चाहिए क्योंकि पेमेंट फेल हो गया लेकिन खाते से पैसे कट गए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_03
+HIN_0041,मुझे सहायता चाहिए क्योंकि पेमेंट फेल हो गया लेकिन खाते से पैसे कट गए। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_03
+HIN_0042,मुझे सहायता चाहिए क्योंकि पेमेंट फेल हो गया लेकिन खाते से पैसे कट गए। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_03
+HIN_0043,यह बहुत जरूरी है: पेमेंट फेल हो गया लेकिन खाते से पैसे कट गए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_03
+HIN_0044,यह बहुत जरूरी है: पेमेंट फेल हो गया लेकिन खाते से पैसे कट गए। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_03
+HIN_0045,यह बहुत जरूरी है: पेमेंट फेल हो गया लेकिन खाते से पैसे कट गए। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_03
+HIN_0046,मेरा कार्ड पेमेंट प्रोसेसिंग में अटका हुआ है।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_04
+HIN_0047,मेरा कार्ड पेमेंट प्रोसेसिंग में अटका हुआ है। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_04
+HIN_0048,मेरा कार्ड पेमेंट प्रोसेसिंग में अटका हुआ है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_04
+HIN_0049,"नमस्ते, मेरा कार्ड पेमेंट प्रोसेसिंग में अटका हुआ है।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_04
+HIN_0050,"नमस्ते, मेरा कार्ड पेमेंट प्रोसेसिंग में अटका हुआ है। कृपया इसे जल्दी हल करें।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_04
+HIN_0051,"नमस्ते, मेरा कार्ड पेमेंट प्रोसेसिंग में अटका हुआ है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_04
+HIN_0052,"कृपया मदद करें, मेरा कार्ड पेमेंट प्रोसेसिंग में अटका हुआ है।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_04
+HIN_0053,"कृपया मदद करें, मेरा कार्ड पेमेंट प्रोसेसिंग में अटका हुआ है। कृपया इसे जल्दी हल करें।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_04
+HIN_0054,"कृपया मदद करें, मेरा कार्ड पेमेंट प्रोसेसिंग में अटका हुआ है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_04
+HIN_0055,मुझे सहायता चाहिए क्योंकि मेरा कार्ड पेमेंट प्रोसेसिंग में अटका हुआ है।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_04
+HIN_0056,मुझे सहायता चाहिए क्योंकि मेरा कार्ड पेमेंट प्रोसेसिंग में अटका हुआ है। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_04
+HIN_0057,मुझे सहायता चाहिए क्योंकि मेरा कार्ड पेमेंट प्रोसेसिंग में अटका हुआ है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_04
+HIN_0058,यह बहुत जरूरी है: मेरा कार्ड पेमेंट प्रोसेसिंग में अटका हुआ है।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_04
+HIN_0059,यह बहुत जरूरी है: मेरा कार्ड पेमेंट प्रोसेसिंग में अटका हुआ है। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_04
+HIN_0060,यह बहुत जरूरी है: मेरा कार्ड पेमेंट प्रोसेसिंग में अटका हुआ है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_04
+HIN_0061,चेकआउट फेल होने के बाद भी राशि डेबिट हो गई।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_05
+HIN_0062,चेकआउट फेल होने के बाद भी राशि डेबिट हो गई। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_05
+HIN_0063,चेकआउट फेल होने के बाद भी राशि डेबिट हो गई। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_05
+HIN_0064,"नमस्ते, चेकआउट फेल होने के बाद भी राशि डेबिट हो गई।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_05
+HIN_0065,"नमस्ते, चेकआउट फेल होने के बाद भी राशि डेबिट हो गई। कृपया इसे जल्दी हल करें।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_05
+HIN_0066,"नमस्ते, चेकआउट फेल होने के बाद भी राशि डेबिट हो गई। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_05
+HIN_0067,"कृपया मदद करें, चेकआउट फेल होने के बाद भी राशि डेबिट हो गई।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_05
+HIN_0068,"कृपया मदद करें, चेकआउट फेल होने के बाद भी राशि डेबिट हो गई। कृपया इसे जल्दी हल करें।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_05
+HIN_0069,"कृपया मदद करें, चेकआउट फेल होने के बाद भी राशि डेबिट हो गई। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_05
+HIN_0070,मुझे सहायता चाहिए क्योंकि चेकआउट फेल होने के बाद भी राशि डेबिट हो गई।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_05
+HIN_0071,मुझे सहायता चाहिए क्योंकि चेकआउट फेल होने के बाद भी राशि डेबिट हो गई। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_05
+HIN_0072,मुझे सहायता चाहिए क्योंकि चेकआउट फेल होने के बाद भी राशि डेबिट हो गई। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_05
+HIN_0073,यह बहुत जरूरी है: चेकआउट फेल होने के बाद भी राशि डेबिट हो गई।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_05
+HIN_0074,यह बहुत जरूरी है: चेकआउट फेल होने के बाद भी राशि डेबिट हो गई। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_05
+HIN_0075,यह बहुत जरूरी है: चेकआउट फेल होने के बाद भी राशि डेबिट हो गई। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_05
+HIN_0076,यूपीआई पेमेंट सफल हुआ लेकिन ऑर्डर प्लेस नहीं हुआ।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_06
+HIN_0077,यूपीआई पेमेंट सफल हुआ लेकिन ऑर्डर प्लेस नहीं हुआ। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_06
+HIN_0078,यूपीआई पेमेंट सफल हुआ लेकिन ऑर्डर प्लेस नहीं हुआ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_06
+HIN_0079,"नमस्ते, यूपीआई पेमेंट सफल हुआ लेकिन ऑर्डर प्लेस नहीं हुआ।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_06
+HIN_0080,"नमस्ते, यूपीआई पेमेंट सफल हुआ लेकिन ऑर्डर प्लेस नहीं हुआ। कृपया इसे जल्दी हल करें।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_06
+HIN_0081,"नमस्ते, यूपीआई पेमेंट सफल हुआ लेकिन ऑर्डर प्लेस नहीं हुआ। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_06
+HIN_0082,"कृपया मदद करें, यूपीआई पेमेंट सफल हुआ लेकिन ऑर्डर प्लेस नहीं हुआ।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_06
+HIN_0083,"कृपया मदद करें, यूपीआई पेमेंट सफल हुआ लेकिन ऑर्डर प्लेस नहीं हुआ। कृपया इसे जल्दी हल करें।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_06
+HIN_0084,"कृपया मदद करें, यूपीआई पेमेंट सफल हुआ लेकिन ऑर्डर प्लेस नहीं हुआ। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_06
+HIN_0085,मुझे सहायता चाहिए क्योंकि यूपीआई पेमेंट सफल हुआ लेकिन ऑर्डर प्लेस नहीं हुआ।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_06
+HIN_0086,मुझे सहायता चाहिए क्योंकि यूपीआई पेमेंट सफल हुआ लेकिन ऑर्डर प्लेस नहीं हुआ। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_06
+HIN_0087,मुझे सहायता चाहिए क्योंकि यूपीआई पेमेंट सफल हुआ लेकिन ऑर्डर प्लेस नहीं हुआ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_06
+HIN_0088,यह बहुत जरूरी है: यूपीआई पेमेंट सफल हुआ लेकिन ऑर्डर प्लेस नहीं हुआ।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_06
+HIN_0089,यह बहुत जरूरी है: यूपीआई पेमेंट सफल हुआ लेकिन ऑर्डर प्लेस नहीं हुआ। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_06
+HIN_0090,यह बहुत जरूरी है: यूपीआई पेमेंट सफल हुआ लेकिन ऑर्डर प्लेस नहीं हुआ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_06
+HIN_0091,ऑर्डर में पेमेंट अभी भी पेंडिंग दिख रहा है।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_07
+HIN_0092,ऑर्डर में पेमेंट अभी भी पेंडिंग दिख रहा है। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_07
+HIN_0093,ऑर्डर में पेमेंट अभी भी पेंडिंग दिख रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_07
+HIN_0094,"नमस्ते, ऑर्डर में पेमेंट अभी भी पेंडिंग दिख रहा है।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_07
+HIN_0095,"नमस्ते, ऑर्डर में पेमेंट अभी भी पेंडिंग दिख रहा है। कृपया इसे जल्दी हल करें।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_07
+HIN_0096,"नमस्ते, ऑर्डर में पेमेंट अभी भी पेंडिंग दिख रहा है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_07
+HIN_0097,"कृपया मदद करें, ऑर्डर में पेमेंट अभी भी पेंडिंग दिख रहा है।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_07
+HIN_0098,"कृपया मदद करें, ऑर्डर में पेमेंट अभी भी पेंडिंग दिख रहा है। कृपया इसे जल्दी हल करें।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_07
+HIN_0099,"कृपया मदद करें, ऑर्डर में पेमेंट अभी भी पेंडिंग दिख रहा है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_07
+HIN_0100,मुझे सहायता चाहिए क्योंकि ऑर्डर में पेमेंट अभी भी पेंडिंग दिख रहा है।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_07
+HIN_0101,मुझे सहायता चाहिए क्योंकि ऑर्डर में पेमेंट अभी भी पेंडिंग दिख रहा है। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_07
+HIN_0102,मुझे सहायता चाहिए क्योंकि ऑर्डर में पेमेंट अभी भी पेंडिंग दिख रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_07
+HIN_0103,यह बहुत जरूरी है: ऑर्डर में पेमेंट अभी भी पेंडिंग दिख रहा है।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_07
+HIN_0104,यह बहुत जरूरी है: ऑर्डर में पेमेंट अभी भी पेंडिंग दिख रहा है। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_07
+HIN_0105,यह बहुत जरूरी है: ऑर्डर में पेमेंट अभी भी पेंडिंग दिख रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_07
+HIN_0106,मैं अपने ऑर्डर का पेमेंट पूरा नहीं कर पा रही हूँ।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_08
+HIN_0107,मैं अपने ऑर्डर का पेमेंट पूरा नहीं कर पा रही हूँ। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_08
+HIN_0108,मैं अपने ऑर्डर का पेमेंट पूरा नहीं कर पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_08
+HIN_0109,"नमस्ते, मैं अपने ऑर्डर का पेमेंट पूरा नहीं कर पा रही हूँ।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_08
+HIN_0110,"नमस्ते, मैं अपने ऑर्डर का पेमेंट पूरा नहीं कर पा रही हूँ। कृपया इसे जल्दी हल करें।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_08
+HIN_0111,"नमस्ते, मैं अपने ऑर्डर का पेमेंट पूरा नहीं कर पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_08
+HIN_0112,"कृपया मदद करें, मैं अपने ऑर्डर का पेमेंट पूरा नहीं कर पा रही हूँ।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_08
+HIN_0113,"कृपया मदद करें, मैं अपने ऑर्डर का पेमेंट पूरा नहीं कर पा रही हूँ। कृपया इसे जल्दी हल करें।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_08
+HIN_0114,"कृपया मदद करें, मैं अपने ऑर्डर का पेमेंट पूरा नहीं कर पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_08
+HIN_0115,मुझे सहायता चाहिए क्योंकि मैं अपने ऑर्डर का पेमेंट पूरा नहीं कर पा रही हूँ।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_08
+HIN_0116,मुझे सहायता चाहिए क्योंकि मैं अपने ऑर्डर का पेमेंट पूरा नहीं कर पा रही हूँ। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_08
+HIN_0117,मुझे सहायता चाहिए क्योंकि मैं अपने ऑर्डर का पेमेंट पूरा नहीं कर पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_08
+HIN_0118,यह बहुत जरूरी है: मैं अपने ऑर्डर का पेमेंट पूरा नहीं कर पा रही हूँ।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_08
+HIN_0119,यह बहुत जरूरी है: मैं अपने ऑर्डर का पेमेंट पूरा नहीं कर पा रही हूँ। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_08
+HIN_0120,यह बहुत जरूरी है: मैं अपने ऑर्डर का पेमेंट पूरा नहीं कर पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_08
+HIN_0121,चेकआउट के समय पेमेंट पेज बार-बार फेल हो रहा है।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_09
+HIN_0122,चेकआउट के समय पेमेंट पेज बार-बार फेल हो रहा है। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_09
+HIN_0123,चेकआउट के समय पेमेंट पेज बार-बार फेल हो रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_09
+HIN_0124,"नमस्ते, चेकआउट के समय पेमेंट पेज बार-बार फेल हो रहा है।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_09
+HIN_0125,"नमस्ते, चेकआउट के समय पेमेंट पेज बार-बार फेल हो रहा है। कृपया इसे जल्दी हल करें।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_09
+HIN_0126,"नमस्ते, चेकआउट के समय पेमेंट पेज बार-बार फेल हो रहा है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_09
+HIN_0127,"कृपया मदद करें, चेकआउट के समय पेमेंट पेज बार-बार फेल हो रहा है।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_09
+HIN_0128,"कृपया मदद करें, चेकआउट के समय पेमेंट पेज बार-बार फेल हो रहा है। कृपया इसे जल्दी हल करें।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_09
+HIN_0129,"कृपया मदद करें, चेकआउट के समय पेमेंट पेज बार-बार फेल हो रहा है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_09
+HIN_0130,मुझे सहायता चाहिए क्योंकि चेकआउट के समय पेमेंट पेज बार-बार फेल हो रहा है।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_09
+HIN_0131,मुझे सहायता चाहिए क्योंकि चेकआउट के समय पेमेंट पेज बार-बार फेल हो रहा है। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_09
+HIN_0132,मुझे सहायता चाहिए क्योंकि चेकआउट के समय पेमेंट पेज बार-बार फेल हो रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_09
+HIN_0133,यह बहुत जरूरी है: चेकआउट के समय पेमेंट पेज बार-बार फेल हो रहा है।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_09
+HIN_0134,यह बहुत जरूरी है: चेकआउट के समय पेमेंट पेज बार-बार फेल हो रहा है। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_09
+HIN_0135,यह बहुत जरूरी है: चेकआउट के समय पेमेंट पेज बार-बार फेल हो रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_09
+HIN_0136,मेरी खरीदारी के लिए गलत राशि ली गई।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_10
+HIN_0137,मेरी खरीदारी के लिए गलत राशि ली गई। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_10
+HIN_0138,मेरी खरीदारी के लिए गलत राशि ली गई। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_10
+HIN_0139,"नमस्ते, मेरी खरीदारी के लिए गलत राशि ली गई।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_10
+HIN_0140,"नमस्ते, मेरी खरीदारी के लिए गलत राशि ली गई। कृपया इसे जल्दी हल करें।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_10
+HIN_0141,"नमस्ते, मेरी खरीदारी के लिए गलत राशि ली गई। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_10
+HIN_0142,"कृपया मदद करें, मेरी खरीदारी के लिए गलत राशि ली गई।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_10
+HIN_0143,"कृपया मदद करें, मेरी खरीदारी के लिए गलत राशि ली गई। कृपया इसे जल्दी हल करें।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_10
+HIN_0144,"कृपया मदद करें, मेरी खरीदारी के लिए गलत राशि ली गई। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_10
+HIN_0145,मुझे सहायता चाहिए क्योंकि मेरी खरीदारी के लिए गलत राशि ली गई।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_10
+HIN_0146,मुझे सहायता चाहिए क्योंकि मेरी खरीदारी के लिए गलत राशि ली गई। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_10
+HIN_0147,मुझे सहायता चाहिए क्योंकि मेरी खरीदारी के लिए गलत राशि ली गई। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_10
+HIN_0148,यह बहुत जरूरी है: मेरी खरीदारी के लिए गलत राशि ली गई।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_10
+HIN_0149,यह बहुत जरूरी है: मेरी खरीदारी के लिए गलत राशि ली गई। कृपया इसे जल्दी हल करें।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_10
+HIN_0150,यह बहुत जरूरी है: मेरी खरीदारी के लिए गलत राशि ली गई। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Payment Issue,Payments Team,High,Hindi_Payment Issue_10
+HIN_0151,मेरा ऑर्डर अभी तक नहीं आया है।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_01
+HIN_0152,मेरा ऑर्डर अभी तक नहीं आया है। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_01
+HIN_0153,मेरा ऑर्डर अभी तक नहीं आया है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_01
+HIN_0154,"नमस्ते, मेरा ऑर्डर अभी तक नहीं आया है।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_01
+HIN_0155,"नमस्ते, मेरा ऑर्डर अभी तक नहीं आया है। कृपया इसे जल्दी हल करें।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_01
+HIN_0156,"नमस्ते, मेरा ऑर्डर अभी तक नहीं आया है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_01
+HIN_0157,"कृपया मदद करें, मेरा ऑर्डर अभी तक नहीं आया है।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_01
+HIN_0158,"कृपया मदद करें, मेरा ऑर्डर अभी तक नहीं आया है। कृपया इसे जल्दी हल करें।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_01
+HIN_0159,"कृपया मदद करें, मेरा ऑर्डर अभी तक नहीं आया है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_01
+HIN_0160,मुझे सहायता चाहिए क्योंकि मेरा ऑर्डर अभी तक नहीं आया है।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_01
+HIN_0161,मुझे सहायता चाहिए क्योंकि मेरा ऑर्डर अभी तक नहीं आया है। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_01
+HIN_0162,मुझे सहायता चाहिए क्योंकि मेरा ऑर्डर अभी तक नहीं आया है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_01
+HIN_0163,यह बहुत जरूरी है: मेरा ऑर्डर अभी तक नहीं आया है।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_01
+HIN_0164,यह बहुत जरूरी है: मेरा ऑर्डर अभी तक नहीं आया है। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_01
+HIN_0165,यह बहुत जरूरी है: मेरा ऑर्डर अभी तक नहीं आया है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_01
+HIN_0166,ऑर्डर तय तारीख के बाद भी डिलीवर नहीं हुआ।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_02
+HIN_0167,ऑर्डर तय तारीख के बाद भी डिलीवर नहीं हुआ। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_02
+HIN_0168,ऑर्डर तय तारीख के बाद भी डिलीवर नहीं हुआ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_02
+HIN_0169,"नमस्ते, ऑर्डर तय तारीख के बाद भी डिलीवर नहीं हुआ।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_02
+HIN_0170,"नमस्ते, ऑर्डर तय तारीख के बाद भी डिलीवर नहीं हुआ। कृपया इसे जल्दी हल करें।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_02
+HIN_0171,"नमस्ते, ऑर्डर तय तारीख के बाद भी डिलीवर नहीं हुआ। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_02
+HIN_0172,"कृपया मदद करें, ऑर्डर तय तारीख के बाद भी डिलीवर नहीं हुआ।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_02
+HIN_0173,"कृपया मदद करें, ऑर्डर तय तारीख के बाद भी डिलीवर नहीं हुआ। कृपया इसे जल्दी हल करें।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_02
+HIN_0174,"कृपया मदद करें, ऑर्डर तय तारीख के बाद भी डिलीवर नहीं हुआ। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_02
+HIN_0175,मुझे सहायता चाहिए क्योंकि ऑर्डर तय तारीख के बाद भी डिलीवर नहीं हुआ।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_02
+HIN_0176,मुझे सहायता चाहिए क्योंकि ऑर्डर तय तारीख के बाद भी डिलीवर नहीं हुआ। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_02
+HIN_0177,मुझे सहायता चाहिए क्योंकि ऑर्डर तय तारीख के बाद भी डिलीवर नहीं हुआ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_02
+HIN_0178,यह बहुत जरूरी है: ऑर्डर तय तारीख के बाद भी डिलीवर नहीं हुआ।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_02
+HIN_0179,यह बहुत जरूरी है: ऑर्डर तय तारीख के बाद भी डिलीवर नहीं हुआ। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_02
+HIN_0180,यह बहुत जरूरी है: ऑर्डर तय तारीख के बाद भी डिलीवर नहीं हुआ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_02
+HIN_0181,ट्रैकिंग में डिलीवर दिख रहा है लेकिन पैकेज नहीं मिला।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_03
+HIN_0182,ट्रैकिंग में डिलीवर दिख रहा है लेकिन पैकेज नहीं मिला। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_03
+HIN_0183,ट्रैकिंग में डिलीवर दिख रहा है लेकिन पैकेज नहीं मिला। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_03
+HIN_0184,"नमस्ते, ट्रैकिंग में डिलीवर दिख रहा है लेकिन पैकेज नहीं मिला।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_03
+HIN_0185,"नमस्ते, ट्रैकिंग में डिलीवर दिख रहा है लेकिन पैकेज नहीं मिला। कृपया इसे जल्दी हल करें।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_03
+HIN_0186,"नमस्ते, ट्रैकिंग में डिलीवर दिख रहा है लेकिन पैकेज नहीं मिला। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_03
+HIN_0187,"कृपया मदद करें, ट्रैकिंग में डिलीवर दिख रहा है लेकिन पैकेज नहीं मिला।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_03
+HIN_0188,"कृपया मदद करें, ट्रैकिंग में डिलीवर दिख रहा है लेकिन पैकेज नहीं मिला। कृपया इसे जल्दी हल करें।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_03
+HIN_0189,"कृपया मदद करें, ट्रैकिंग में डिलीवर दिख रहा है लेकिन पैकेज नहीं मिला। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_03
+HIN_0190,मुझे सहायता चाहिए क्योंकि ट्रैकिंग में डिलीवर दिख रहा है लेकिन पैकेज नहीं मिला।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_03
+HIN_0191,मुझे सहायता चाहिए क्योंकि ट्रैकिंग में डिलीवर दिख रहा है लेकिन पैकेज नहीं मिला। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_03
+HIN_0192,मुझे सहायता चाहिए क्योंकि ट्रैकिंग में डिलीवर दिख रहा है लेकिन पैकेज नहीं मिला। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_03
+HIN_0193,यह बहुत जरूरी है: ट्रैकिंग में डिलीवर दिख रहा है लेकिन पैकेज नहीं मिला।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_03
+HIN_0194,यह बहुत जरूरी है: ट्रैकिंग में डिलीवर दिख रहा है लेकिन पैकेज नहीं मिला। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_03
+HIN_0195,यह बहुत जरूरी है: ट्रैकिंग में डिलीवर दिख रहा है लेकिन पैकेज नहीं मिला। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_03
+HIN_0196,कूरियर वाले ने मुझसे संपर्क नहीं किया।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_04
+HIN_0197,कूरियर वाले ने मुझसे संपर्क नहीं किया। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_04
+HIN_0198,कूरियर वाले ने मुझसे संपर्क नहीं किया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_04
+HIN_0199,"नमस्ते, कूरियर वाले ने मुझसे संपर्क नहीं किया।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_04
+HIN_0200,"नमस्ते, कूरियर वाले ने मुझसे संपर्क नहीं किया। कृपया इसे जल्दी हल करें।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_04
+HIN_0201,"नमस्ते, कूरियर वाले ने मुझसे संपर्क नहीं किया। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_04
+HIN_0202,"कृपया मदद करें, कूरियर वाले ने मुझसे संपर्क नहीं किया।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_04
+HIN_0203,"कृपया मदद करें, कूरियर वाले ने मुझसे संपर्क नहीं किया। कृपया इसे जल्दी हल करें।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_04
+HIN_0204,"कृपया मदद करें, कूरियर वाले ने मुझसे संपर्क नहीं किया। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_04
+HIN_0205,मुझे सहायता चाहिए क्योंकि कूरियर वाले ने मुझसे संपर्क नहीं किया।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_04
+HIN_0206,मुझे सहायता चाहिए क्योंकि कूरियर वाले ने मुझसे संपर्क नहीं किया। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_04
+HIN_0207,मुझे सहायता चाहिए क्योंकि कूरियर वाले ने मुझसे संपर्क नहीं किया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_04
+HIN_0208,यह बहुत जरूरी है: कूरियर वाले ने मुझसे संपर्क नहीं किया।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_04
+HIN_0209,यह बहुत जरूरी है: कूरियर वाले ने मुझसे संपर्क नहीं किया। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_04
+HIN_0210,यह बहुत जरूरी है: कूरियर वाले ने मुझसे संपर्क नहीं किया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_04
+HIN_0211,मेरा पैकेज कई दिनों से एक ही जगह अटका है।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_05
+HIN_0212,मेरा पैकेज कई दिनों से एक ही जगह अटका है। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_05
+HIN_0213,मेरा पैकेज कई दिनों से एक ही जगह अटका है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_05
+HIN_0214,"नमस्ते, मेरा पैकेज कई दिनों से एक ही जगह अटका है।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_05
+HIN_0215,"नमस्ते, मेरा पैकेज कई दिनों से एक ही जगह अटका है। कृपया इसे जल्दी हल करें।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_05
+HIN_0216,"नमस्ते, मेरा पैकेज कई दिनों से एक ही जगह अटका है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_05
+HIN_0217,"कृपया मदद करें, मेरा पैकेज कई दिनों से एक ही जगह अटका है।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_05
+HIN_0218,"कृपया मदद करें, मेरा पैकेज कई दिनों से एक ही जगह अटका है। कृपया इसे जल्दी हल करें।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_05
+HIN_0219,"कृपया मदद करें, मेरा पैकेज कई दिनों से एक ही जगह अटका है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_05
+HIN_0220,मुझे सहायता चाहिए क्योंकि मेरा पैकेज कई दिनों से एक ही जगह अटका है।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_05
+HIN_0221,मुझे सहायता चाहिए क्योंकि मेरा पैकेज कई दिनों से एक ही जगह अटका है। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_05
+HIN_0222,मुझे सहायता चाहिए क्योंकि मेरा पैकेज कई दिनों से एक ही जगह अटका है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_05
+HIN_0223,यह बहुत जरूरी है: मेरा पैकेज कई दिनों से एक ही जगह अटका है।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_05
+HIN_0224,यह बहुत जरूरी है: मेरा पैकेज कई दिनों से एक ही जगह अटका है। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_05
+HIN_0225,यह बहुत जरूरी है: मेरा पैकेज कई दिनों से एक ही जगह अटका है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_05
+HIN_0226,डिलीवरी की तारीख बार-बार बदल रही है।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_06
+HIN_0227,डिलीवरी की तारीख बार-बार बदल रही है। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_06
+HIN_0228,डिलीवरी की तारीख बार-बार बदल रही है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_06
+HIN_0229,"नमस्ते, डिलीवरी की तारीख बार-बार बदल रही है।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_06
+HIN_0230,"नमस्ते, डिलीवरी की तारीख बार-बार बदल रही है। कृपया इसे जल्दी हल करें।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_06
+HIN_0231,"नमस्ते, डिलीवरी की तारीख बार-बार बदल रही है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_06
+HIN_0232,"कृपया मदद करें, डिलीवरी की तारीख बार-बार बदल रही है।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_06
+HIN_0233,"कृपया मदद करें, डिलीवरी की तारीख बार-बार बदल रही है। कृपया इसे जल्दी हल करें।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_06
+HIN_0234,"कृपया मदद करें, डिलीवरी की तारीख बार-बार बदल रही है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_06
+HIN_0235,मुझे सहायता चाहिए क्योंकि डिलीवरी की तारीख बार-बार बदल रही है।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_06
+HIN_0236,मुझे सहायता चाहिए क्योंकि डिलीवरी की तारीख बार-बार बदल रही है। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_06
+HIN_0237,मुझे सहायता चाहिए क्योंकि डिलीवरी की तारीख बार-बार बदल रही है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_06
+HIN_0238,यह बहुत जरूरी है: डिलीवरी की तारीख बार-बार बदल रही है।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_06
+HIN_0239,यह बहुत जरूरी है: डिलीवरी की तारीख बार-बार बदल रही है। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_06
+HIN_0240,यह बहुत जरूरी है: डिलीवरी की तारीख बार-बार बदल रही है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_06
+HIN_0241,मेरा ऑर्डर गलत पते पर भेज दिया गया।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_07
+HIN_0242,मेरा ऑर्डर गलत पते पर भेज दिया गया। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_07
+HIN_0243,मेरा ऑर्डर गलत पते पर भेज दिया गया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_07
+HIN_0244,"नमस्ते, मेरा ऑर्डर गलत पते पर भेज दिया गया।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_07
+HIN_0245,"नमस्ते, मेरा ऑर्डर गलत पते पर भेज दिया गया। कृपया इसे जल्दी हल करें।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_07
+HIN_0246,"नमस्ते, मेरा ऑर्डर गलत पते पर भेज दिया गया। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_07
+HIN_0247,"कृपया मदद करें, मेरा ऑर्डर गलत पते पर भेज दिया गया।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_07
+HIN_0248,"कृपया मदद करें, मेरा ऑर्डर गलत पते पर भेज दिया गया। कृपया इसे जल्दी हल करें।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_07
+HIN_0249,"कृपया मदद करें, मेरा ऑर्डर गलत पते पर भेज दिया गया। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_07
+HIN_0250,मुझे सहायता चाहिए क्योंकि मेरा ऑर्डर गलत पते पर भेज दिया गया।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_07
+HIN_0251,मुझे सहायता चाहिए क्योंकि मेरा ऑर्डर गलत पते पर भेज दिया गया। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_07
+HIN_0252,मुझे सहायता चाहिए क्योंकि मेरा ऑर्डर गलत पते पर भेज दिया गया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_07
+HIN_0253,यह बहुत जरूरी है: मेरा ऑर्डर गलत पते पर भेज दिया गया।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_07
+HIN_0254,यह बहुत जरूरी है: मेरा ऑर्डर गलत पते पर भेज दिया गया। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_07
+HIN_0255,यह बहुत जरूरी है: मेरा ऑर्डर गलत पते पर भेज दिया गया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_07
+HIN_0256,मेरे ऑर्डर का केवल एक हिस्सा मिला है।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_08
+HIN_0257,मेरे ऑर्डर का केवल एक हिस्सा मिला है। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_08
+HIN_0258,मेरे ऑर्डर का केवल एक हिस्सा मिला है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_08
+HIN_0259,"नमस्ते, मेरे ऑर्डर का केवल एक हिस्सा मिला है।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_08
+HIN_0260,"नमस्ते, मेरे ऑर्डर का केवल एक हिस्सा मिला है। कृपया इसे जल्दी हल करें।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_08
+HIN_0261,"नमस्ते, मेरे ऑर्डर का केवल एक हिस्सा मिला है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_08
+HIN_0262,"कृपया मदद करें, मेरे ऑर्डर का केवल एक हिस्सा मिला है।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_08
+HIN_0263,"कृपया मदद करें, मेरे ऑर्डर का केवल एक हिस्सा मिला है। कृपया इसे जल्दी हल करें।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_08
+HIN_0264,"कृपया मदद करें, मेरे ऑर्डर का केवल एक हिस्सा मिला है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_08
+HIN_0265,मुझे सहायता चाहिए क्योंकि मेरे ऑर्डर का केवल एक हिस्सा मिला है।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_08
+HIN_0266,मुझे सहायता चाहिए क्योंकि मेरे ऑर्डर का केवल एक हिस्सा मिला है। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_08
+HIN_0267,मुझे सहायता चाहिए क्योंकि मेरे ऑर्डर का केवल एक हिस्सा मिला है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_08
+HIN_0268,यह बहुत जरूरी है: मेरे ऑर्डर का केवल एक हिस्सा मिला है।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_08
+HIN_0269,यह बहुत जरूरी है: मेरे ऑर्डर का केवल एक हिस्सा मिला है। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_08
+HIN_0270,यह बहुत जरूरी है: मेरे ऑर्डर का केवल एक हिस्सा मिला है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_08
+HIN_0271,कूरियर वाले ने पैकेज देने से मना कर दिया।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_09
+HIN_0272,कूरियर वाले ने पैकेज देने से मना कर दिया। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_09
+HIN_0273,कूरियर वाले ने पैकेज देने से मना कर दिया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_09
+HIN_0274,"नमस्ते, कूरियर वाले ने पैकेज देने से मना कर दिया।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_09
+HIN_0275,"नमस्ते, कूरियर वाले ने पैकेज देने से मना कर दिया। कृपया इसे जल्दी हल करें।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_09
+HIN_0276,"नमस्ते, कूरियर वाले ने पैकेज देने से मना कर दिया। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_09
+HIN_0277,"कृपया मदद करें, कूरियर वाले ने पैकेज देने से मना कर दिया।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_09
+HIN_0278,"कृपया मदद करें, कूरियर वाले ने पैकेज देने से मना कर दिया। कृपया इसे जल्दी हल करें।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_09
+HIN_0279,"कृपया मदद करें, कूरियर वाले ने पैकेज देने से मना कर दिया। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_09
+HIN_0280,मुझे सहायता चाहिए क्योंकि कूरियर वाले ने पैकेज देने से मना कर दिया।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_09
+HIN_0281,मुझे सहायता चाहिए क्योंकि कूरियर वाले ने पैकेज देने से मना कर दिया। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_09
+HIN_0282,मुझे सहायता चाहिए क्योंकि कूरियर वाले ने पैकेज देने से मना कर दिया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_09
+HIN_0283,यह बहुत जरूरी है: कूरियर वाले ने पैकेज देने से मना कर दिया।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_09
+HIN_0284,यह बहुत जरूरी है: कूरियर वाले ने पैकेज देने से मना कर दिया। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_09
+HIN_0285,यह बहुत जरूरी है: कूरियर वाले ने पैकेज देने से मना कर दिया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_09
+HIN_0286,ट्रैकिंग की जानकारी अपडेट नहीं हो रही है।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_10
+HIN_0287,ट्रैकिंग की जानकारी अपडेट नहीं हो रही है। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_10
+HIN_0288,ट्रैकिंग की जानकारी अपडेट नहीं हो रही है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_10
+HIN_0289,"नमस्ते, ट्रैकिंग की जानकारी अपडेट नहीं हो रही है।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_10
+HIN_0290,"नमस्ते, ट्रैकिंग की जानकारी अपडेट नहीं हो रही है। कृपया इसे जल्दी हल करें।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_10
+HIN_0291,"नमस्ते, ट्रैकिंग की जानकारी अपडेट नहीं हो रही है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_10
+HIN_0292,"कृपया मदद करें, ट्रैकिंग की जानकारी अपडेट नहीं हो रही है।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_10
+HIN_0293,"कृपया मदद करें, ट्रैकिंग की जानकारी अपडेट नहीं हो रही है। कृपया इसे जल्दी हल करें।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_10
+HIN_0294,"कृपया मदद करें, ट्रैकिंग की जानकारी अपडेट नहीं हो रही है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_10
+HIN_0295,मुझे सहायता चाहिए क्योंकि ट्रैकिंग की जानकारी अपडेट नहीं हो रही है।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_10
+HIN_0296,मुझे सहायता चाहिए क्योंकि ट्रैकिंग की जानकारी अपडेट नहीं हो रही है। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_10
+HIN_0297,मुझे सहायता चाहिए क्योंकि ट्रैकिंग की जानकारी अपडेट नहीं हो रही है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_10
+HIN_0298,यह बहुत जरूरी है: ट्रैकिंग की जानकारी अपडेट नहीं हो रही है।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_10
+HIN_0299,यह बहुत जरूरी है: ट्रैकिंग की जानकारी अपडेट नहीं हो रही है। कृपया इसे जल्दी हल करें।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_10
+HIN_0300,यह बहुत जरूरी है: ट्रैकिंग की जानकारी अपडेट नहीं हो रही है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Delivery Issue,Logistics Team,Medium,Hindi_Delivery Issue_10
+HIN_0301,मैंने ऑर्डर रद्द किया लेकिन रिफंड नहीं मिला।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_01
+HIN_0302,मैंने ऑर्डर रद्द किया लेकिन रिफंड नहीं मिला। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_01
+HIN_0303,मैंने ऑर्डर रद्द किया लेकिन रिफंड नहीं मिला। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_01
+HIN_0304,"नमस्ते, मैंने ऑर्डर रद्द किया लेकिन रिफंड नहीं मिला।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_01
+HIN_0305,"नमस्ते, मैंने ऑर्डर रद्द किया लेकिन रिफंड नहीं मिला। कृपया इसे जल्दी हल करें।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_01
+HIN_0306,"नमस्ते, मैंने ऑर्डर रद्द किया लेकिन रिफंड नहीं मिला। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_01
+HIN_0307,"कृपया मदद करें, मैंने ऑर्डर रद्द किया लेकिन रिफंड नहीं मिला।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_01
+HIN_0308,"कृपया मदद करें, मैंने ऑर्डर रद्द किया लेकिन रिफंड नहीं मिला। कृपया इसे जल्दी हल करें।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_01
+HIN_0309,"कृपया मदद करें, मैंने ऑर्डर रद्द किया लेकिन रिफंड नहीं मिला। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_01
+HIN_0310,मुझे सहायता चाहिए क्योंकि मैंने ऑर्डर रद्द किया लेकिन रिफंड नहीं मिला।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_01
+HIN_0311,मुझे सहायता चाहिए क्योंकि मैंने ऑर्डर रद्द किया लेकिन रिफंड नहीं मिला। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_01
+HIN_0312,मुझे सहायता चाहिए क्योंकि मैंने ऑर्डर रद्द किया लेकिन रिफंड नहीं मिला। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_01
+HIN_0313,यह बहुत जरूरी है: मैंने ऑर्डर रद्द किया लेकिन रिफंड नहीं मिला।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_01
+HIN_0314,यह बहुत जरूरी है: मैंने ऑर्डर रद्द किया लेकिन रिफंड नहीं मिला। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_01
+HIN_0315,यह बहुत जरूरी है: मैंने ऑर्डर रद्द किया लेकिन रिफंड नहीं मिला। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_01
+HIN_0316,मेरा रिफंड अभी भी पेंडिंग है।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_02
+HIN_0317,मेरा रिफंड अभी भी पेंडिंग है। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_02
+HIN_0318,मेरा रिफंड अभी भी पेंडिंग है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_02
+HIN_0319,"नमस्ते, मेरा रिफंड अभी भी पेंडिंग है।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_02
+HIN_0320,"नमस्ते, मेरा रिफंड अभी भी पेंडिंग है। कृपया इसे जल्दी हल करें।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_02
+HIN_0321,"नमस्ते, मेरा रिफंड अभी भी पेंडिंग है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_02
+HIN_0322,"कृपया मदद करें, मेरा रिफंड अभी भी पेंडिंग है।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_02
+HIN_0323,"कृपया मदद करें, मेरा रिफंड अभी भी पेंडिंग है। कृपया इसे जल्दी हल करें।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_02
+HIN_0324,"कृपया मदद करें, मेरा रिफंड अभी भी पेंडिंग है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_02
+HIN_0325,मुझे सहायता चाहिए क्योंकि मेरा रिफंड अभी भी पेंडिंग है।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_02
+HIN_0326,मुझे सहायता चाहिए क्योंकि मेरा रिफंड अभी भी पेंडिंग है। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_02
+HIN_0327,मुझे सहायता चाहिए क्योंकि मेरा रिफंड अभी भी पेंडिंग है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_02
+HIN_0328,यह बहुत जरूरी है: मेरा रिफंड अभी भी पेंडिंग है।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_02
+HIN_0329,यह बहुत जरूरी है: मेरा रिफंड अभी भी पेंडिंग है। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_02
+HIN_0330,यह बहुत जरूरी है: मेरा रिफंड अभी भी पेंडिंग है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_02
+HIN_0331,मुझे रिफंड की केवल कुछ राशि मिली है।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_03
+HIN_0332,मुझे रिफंड की केवल कुछ राशि मिली है। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_03
+HIN_0333,मुझे रिफंड की केवल कुछ राशि मिली है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_03
+HIN_0334,"नमस्ते, मुझे रिफंड की केवल कुछ राशि मिली है।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_03
+HIN_0335,"नमस्ते, मुझे रिफंड की केवल कुछ राशि मिली है। कृपया इसे जल्दी हल करें।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_03
+HIN_0336,"नमस्ते, मुझे रिफंड की केवल कुछ राशि मिली है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_03
+HIN_0337,"कृपया मदद करें, मुझे रिफंड की केवल कुछ राशि मिली है।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_03
+HIN_0338,"कृपया मदद करें, मुझे रिफंड की केवल कुछ राशि मिली है। कृपया इसे जल्दी हल करें।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_03
+HIN_0339,"कृपया मदद करें, मुझे रिफंड की केवल कुछ राशि मिली है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_03
+HIN_0340,मुझे सहायता चाहिए क्योंकि मुझे रिफंड की केवल कुछ राशि मिली है।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_03
+HIN_0341,मुझे सहायता चाहिए क्योंकि मुझे रिफंड की केवल कुछ राशि मिली है। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_03
+HIN_0342,मुझे सहायता चाहिए क्योंकि मुझे रिफंड की केवल कुछ राशि मिली है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_03
+HIN_0343,यह बहुत जरूरी है: मुझे रिफंड की केवल कुछ राशि मिली है।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_03
+HIN_0344,यह बहुत जरूरी है: मुझे रिफंड की केवल कुछ राशि मिली है। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_03
+HIN_0345,यह बहुत जरूरी है: मुझे रिफंड की केवल कुछ राशि मिली है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_03
+HIN_0346,ऐप में रिफंड दिख रहा है लेकिन खाते में पैसे नहीं आए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_04
+HIN_0347,ऐप में रिफंड दिख रहा है लेकिन खाते में पैसे नहीं आए। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_04
+HIN_0348,ऐप में रिफंड दिख रहा है लेकिन खाते में पैसे नहीं आए। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_04
+HIN_0349,"नमस्ते, ऐप में रिफंड दिख रहा है लेकिन खाते में पैसे नहीं आए।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_04
+HIN_0350,"नमस्ते, ऐप में रिफंड दिख रहा है लेकिन खाते में पैसे नहीं आए। कृपया इसे जल्दी हल करें।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_04
+HIN_0351,"नमस्ते, ऐप में रिफंड दिख रहा है लेकिन खाते में पैसे नहीं आए। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_04
+HIN_0352,"कृपया मदद करें, ऐप में रिफंड दिख रहा है लेकिन खाते में पैसे नहीं आए।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_04
+HIN_0353,"कृपया मदद करें, ऐप में रिफंड दिख रहा है लेकिन खाते में पैसे नहीं आए। कृपया इसे जल्दी हल करें।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_04
+HIN_0354,"कृपया मदद करें, ऐप में रिफंड दिख रहा है लेकिन खाते में पैसे नहीं आए। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_04
+HIN_0355,मुझे सहायता चाहिए क्योंकि ऐप में रिफंड दिख रहा है लेकिन खाते में पैसे नहीं आए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_04
+HIN_0356,मुझे सहायता चाहिए क्योंकि ऐप में रिफंड दिख रहा है लेकिन खाते में पैसे नहीं आए। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_04
+HIN_0357,मुझे सहायता चाहिए क्योंकि ऐप में रिफंड दिख रहा है लेकिन खाते में पैसे नहीं आए। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_04
+HIN_0358,यह बहुत जरूरी है: ऐप में रिफंड दिख रहा है लेकिन खाते में पैसे नहीं आए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_04
+HIN_0359,यह बहुत जरूरी है: ऐप में रिफंड दिख रहा है लेकिन खाते में पैसे नहीं आए। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_04
+HIN_0360,यह बहुत जरूरी है: ऐप में रिफंड दिख रहा है लेकिन खाते में पैसे नहीं आए। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_04
+HIN_0361,रिटर्न स्वीकार होने के बाद भी रिफंड नहीं मिला।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_05
+HIN_0362,रिटर्न स्वीकार होने के बाद भी रिफंड नहीं मिला। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_05
+HIN_0363,रिटर्न स्वीकार होने के बाद भी रिफंड नहीं मिला। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_05
+HIN_0364,"नमस्ते, रिटर्न स्वीकार होने के बाद भी रिफंड नहीं मिला।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_05
+HIN_0365,"नमस्ते, रिटर्न स्वीकार होने के बाद भी रिफंड नहीं मिला। कृपया इसे जल्दी हल करें।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_05
+HIN_0366,"नमस्ते, रिटर्न स्वीकार होने के बाद भी रिफंड नहीं मिला। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_05
+HIN_0367,"कृपया मदद करें, रिटर्न स्वीकार होने के बाद भी रिफंड नहीं मिला।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_05
+HIN_0368,"कृपया मदद करें, रिटर्न स्वीकार होने के बाद भी रिफंड नहीं मिला। कृपया इसे जल्दी हल करें।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_05
+HIN_0369,"कृपया मदद करें, रिटर्न स्वीकार होने के बाद भी रिफंड नहीं मिला। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_05
+HIN_0370,मुझे सहायता चाहिए क्योंकि रिटर्न स्वीकार होने के बाद भी रिफंड नहीं मिला।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_05
+HIN_0371,मुझे सहायता चाहिए क्योंकि रिटर्न स्वीकार होने के बाद भी रिफंड नहीं मिला। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_05
+HIN_0372,मुझे सहायता चाहिए क्योंकि रिटर्न स्वीकार होने के बाद भी रिफंड नहीं मिला। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_05
+HIN_0373,यह बहुत जरूरी है: रिटर्न स्वीकार होने के बाद भी रिफंड नहीं मिला।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_05
+HIN_0374,यह बहुत जरूरी है: रिटर्न स्वीकार होने के बाद भी रिफंड नहीं मिला। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_05
+HIN_0375,यह बहुत जरूरी है: रिटर्न स्वीकार होने के बाद भी रिफंड नहीं मिला। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_05
+HIN_0376,रिफंड मिलने की समय सीमा निकल चुकी है।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_06
+HIN_0377,रिफंड मिलने की समय सीमा निकल चुकी है। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_06
+HIN_0378,रिफंड मिलने की समय सीमा निकल चुकी है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_06
+HIN_0379,"नमस्ते, रिफंड मिलने की समय सीमा निकल चुकी है।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_06
+HIN_0380,"नमस्ते, रिफंड मिलने की समय सीमा निकल चुकी है। कृपया इसे जल्दी हल करें।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_06
+HIN_0381,"नमस्ते, रिफंड मिलने की समय सीमा निकल चुकी है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_06
+HIN_0382,"कृपया मदद करें, रिफंड मिलने की समय सीमा निकल चुकी है।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_06
+HIN_0383,"कृपया मदद करें, रिफंड मिलने की समय सीमा निकल चुकी है। कृपया इसे जल्दी हल करें।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_06
+HIN_0384,"कृपया मदद करें, रिफंड मिलने की समय सीमा निकल चुकी है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_06
+HIN_0385,मुझे सहायता चाहिए क्योंकि रिफंड मिलने की समय सीमा निकल चुकी है।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_06
+HIN_0386,मुझे सहायता चाहिए क्योंकि रिफंड मिलने की समय सीमा निकल चुकी है। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_06
+HIN_0387,मुझे सहायता चाहिए क्योंकि रिफंड मिलने की समय सीमा निकल चुकी है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_06
+HIN_0388,यह बहुत जरूरी है: रिफंड मिलने की समय सीमा निकल चुकी है।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_06
+HIN_0389,यह बहुत जरूरी है: रिफंड मिलने की समय सीमा निकल चुकी है। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_06
+HIN_0390,यह बहुत जरूरी है: रिफंड मिलने की समय सीमा निकल चुकी है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_06
+HIN_0391,रिफंड गलत पेमेंट माध्यम में भेज दिया गया।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_07
+HIN_0392,रिफंड गलत पेमेंट माध्यम में भेज दिया गया। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_07
+HIN_0393,रिफंड गलत पेमेंट माध्यम में भेज दिया गया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_07
+HIN_0394,"नमस्ते, रिफंड गलत पेमेंट माध्यम में भेज दिया गया।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_07
+HIN_0395,"नमस्ते, रिफंड गलत पेमेंट माध्यम में भेज दिया गया। कृपया इसे जल्दी हल करें।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_07
+HIN_0396,"नमस्ते, रिफंड गलत पेमेंट माध्यम में भेज दिया गया। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_07
+HIN_0397,"कृपया मदद करें, रिफंड गलत पेमेंट माध्यम में भेज दिया गया।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_07
+HIN_0398,"कृपया मदद करें, रिफंड गलत पेमेंट माध्यम में भेज दिया गया। कृपया इसे जल्दी हल करें।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_07
+HIN_0399,"कृपया मदद करें, रिफंड गलत पेमेंट माध्यम में भेज दिया गया। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_07
+HIN_0400,मुझे सहायता चाहिए क्योंकि रिफंड गलत पेमेंट माध्यम में भेज दिया गया।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_07
+HIN_0401,मुझे सहायता चाहिए क्योंकि रिफंड गलत पेमेंट माध्यम में भेज दिया गया। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_07
+HIN_0402,मुझे सहायता चाहिए क्योंकि रिफंड गलत पेमेंट माध्यम में भेज दिया गया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_07
+HIN_0403,यह बहुत जरूरी है: रिफंड गलत पेमेंट माध्यम में भेज दिया गया।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_07
+HIN_0404,यह बहुत जरूरी है: रिफंड गलत पेमेंट माध्यम में भेज दिया गया। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_07
+HIN_0405,यह बहुत जरूरी है: रिफंड गलत पेमेंट माध्यम में भेज दिया गया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_07
+HIN_0406,मुझे अपेक्षा से कम रिफंड मिला।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_08
+HIN_0407,मुझे अपेक्षा से कम रिफंड मिला। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_08
+HIN_0408,मुझे अपेक्षा से कम रिफंड मिला। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_08
+HIN_0409,"नमस्ते, मुझे अपेक्षा से कम रिफंड मिला।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_08
+HIN_0410,"नमस्ते, मुझे अपेक्षा से कम रिफंड मिला। कृपया इसे जल्दी हल करें।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_08
+HIN_0411,"नमस्ते, मुझे अपेक्षा से कम रिफंड मिला। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_08
+HIN_0412,"कृपया मदद करें, मुझे अपेक्षा से कम रिफंड मिला।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_08
+HIN_0413,"कृपया मदद करें, मुझे अपेक्षा से कम रिफंड मिला। कृपया इसे जल्दी हल करें।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_08
+HIN_0414,"कृपया मदद करें, मुझे अपेक्षा से कम रिफंड मिला। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_08
+HIN_0415,मुझे सहायता चाहिए क्योंकि मुझे अपेक्षा से कम रिफंड मिला।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_08
+HIN_0416,मुझे सहायता चाहिए क्योंकि मुझे अपेक्षा से कम रिफंड मिला। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_08
+HIN_0417,मुझे सहायता चाहिए क्योंकि मुझे अपेक्षा से कम रिफंड मिला। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_08
+HIN_0418,यह बहुत जरूरी है: मुझे अपेक्षा से कम रिफंड मिला।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_08
+HIN_0419,यह बहुत जरूरी है: मुझे अपेक्षा से कम रिफंड मिला। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_08
+HIN_0420,यह बहुत जरूरी है: मुझे अपेक्षा से कम रिफंड मिला। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_08
+HIN_0421,कई दिनों से रिफंड की स्थिति नहीं बदली है।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_09
+HIN_0422,कई दिनों से रिफंड की स्थिति नहीं बदली है। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_09
+HIN_0423,कई दिनों से रिफंड की स्थिति नहीं बदली है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_09
+HIN_0424,"नमस्ते, कई दिनों से रिफंड की स्थिति नहीं बदली है।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_09
+HIN_0425,"नमस्ते, कई दिनों से रिफंड की स्थिति नहीं बदली है। कृपया इसे जल्दी हल करें।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_09
+HIN_0426,"नमस्ते, कई दिनों से रिफंड की स्थिति नहीं बदली है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_09
+HIN_0427,"कृपया मदद करें, कई दिनों से रिफंड की स्थिति नहीं बदली है।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_09
+HIN_0428,"कृपया मदद करें, कई दिनों से रिफंड की स्थिति नहीं बदली है। कृपया इसे जल्दी हल करें।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_09
+HIN_0429,"कृपया मदद करें, कई दिनों से रिफंड की स्थिति नहीं बदली है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_09
+HIN_0430,मुझे सहायता चाहिए क्योंकि कई दिनों से रिफंड की स्थिति नहीं बदली है।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_09
+HIN_0431,मुझे सहायता चाहिए क्योंकि कई दिनों से रिफंड की स्थिति नहीं बदली है। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_09
+HIN_0432,मुझे सहायता चाहिए क्योंकि कई दिनों से रिफंड की स्थिति नहीं बदली है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_09
+HIN_0433,यह बहुत जरूरी है: कई दिनों से रिफंड की स्थिति नहीं बदली है।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_09
+HIN_0434,यह बहुत जरूरी है: कई दिनों से रिफंड की स्थिति नहीं बदली है। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_09
+HIN_0435,यह बहुत जरूरी है: कई दिनों से रिफंड की स्थिति नहीं बदली है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_09
+HIN_0436,मेरे बैंक खाते में रिफंड नहीं आया है।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_10
+HIN_0437,मेरे बैंक खाते में रिफंड नहीं आया है। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_10
+HIN_0438,मेरे बैंक खाते में रिफंड नहीं आया है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_10
+HIN_0439,"नमस्ते, मेरे बैंक खाते में रिफंड नहीं आया है।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_10
+HIN_0440,"नमस्ते, मेरे बैंक खाते में रिफंड नहीं आया है। कृपया इसे जल्दी हल करें।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_10
+HIN_0441,"नमस्ते, मेरे बैंक खाते में रिफंड नहीं आया है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_10
+HIN_0442,"कृपया मदद करें, मेरे बैंक खाते में रिफंड नहीं आया है।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_10
+HIN_0443,"कृपया मदद करें, मेरे बैंक खाते में रिफंड नहीं आया है। कृपया इसे जल्दी हल करें।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_10
+HIN_0444,"कृपया मदद करें, मेरे बैंक खाते में रिफंड नहीं आया है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_10
+HIN_0445,मुझे सहायता चाहिए क्योंकि मेरे बैंक खाते में रिफंड नहीं आया है।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_10
+HIN_0446,मुझे सहायता चाहिए क्योंकि मेरे बैंक खाते में रिफंड नहीं आया है। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_10
+HIN_0447,मुझे सहायता चाहिए क्योंकि मेरे बैंक खाते में रिफंड नहीं आया है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_10
+HIN_0448,यह बहुत जरूरी है: मेरे बैंक खाते में रिफंड नहीं आया है।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_10
+HIN_0449,यह बहुत जरूरी है: मेरे बैंक खाते में रिफंड नहीं आया है। कृपया इसे जल्दी हल करें।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_10
+HIN_0450,यह बहुत जरूरी है: मेरे बैंक खाते में रिफंड नहीं आया है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Refund Issue,Refund Team,High,Hindi_Refund Issue_10
+HIN_0451,मैं अपना ऑर्डर रद्द नहीं कर पा रही हूँ।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_01
+HIN_0452,मैं अपना ऑर्डर रद्द नहीं कर पा रही हूँ। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_01
+HIN_0453,मैं अपना ऑर्डर रद्द नहीं कर पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_01
+HIN_0454,"नमस्ते, मैं अपना ऑर्डर रद्द नहीं कर पा रही हूँ।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_01
+HIN_0455,"नमस्ते, मैं अपना ऑर्डर रद्द नहीं कर पा रही हूँ। कृपया इसे जल्दी हल करें।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_01
+HIN_0456,"नमस्ते, मैं अपना ऑर्डर रद्द नहीं कर पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_01
+HIN_0457,"कृपया मदद करें, मैं अपना ऑर्डर रद्द नहीं कर पा रही हूँ।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_01
+HIN_0458,"कृपया मदद करें, मैं अपना ऑर्डर रद्द नहीं कर पा रही हूँ। कृपया इसे जल्दी हल करें।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_01
+HIN_0459,"कृपया मदद करें, मैं अपना ऑर्डर रद्द नहीं कर पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_01
+HIN_0460,मुझे सहायता चाहिए क्योंकि मैं अपना ऑर्डर रद्द नहीं कर पा रही हूँ।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_01
+HIN_0461,मुझे सहायता चाहिए क्योंकि मैं अपना ऑर्डर रद्द नहीं कर पा रही हूँ। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_01
+HIN_0462,मुझे सहायता चाहिए क्योंकि मैं अपना ऑर्डर रद्द नहीं कर पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_01
+HIN_0463,यह बहुत जरूरी है: मैं अपना ऑर्डर रद्द नहीं कर पा रही हूँ।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_01
+HIN_0464,यह बहुत जरूरी है: मैं अपना ऑर्डर रद्द नहीं कर पा रही हूँ। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_01
+HIN_0465,यह बहुत जरूरी है: मैं अपना ऑर्डर रद्द नहीं कर पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_01
+HIN_0466,ऑर्डर रद्द करने का बटन उपलब्ध नहीं है।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_02
+HIN_0467,ऑर्डर रद्द करने का बटन उपलब्ध नहीं है। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_02
+HIN_0468,ऑर्डर रद्द करने का बटन उपलब्ध नहीं है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_02
+HIN_0469,"नमस्ते, ऑर्डर रद्द करने का बटन उपलब्ध नहीं है।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_02
+HIN_0470,"नमस्ते, ऑर्डर रद्द करने का बटन उपलब्ध नहीं है। कृपया इसे जल्दी हल करें।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_02
+HIN_0471,"नमस्ते, ऑर्डर रद्द करने का बटन उपलब्ध नहीं है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_02
+HIN_0472,"कृपया मदद करें, ऑर्डर रद्द करने का बटन उपलब्ध नहीं है।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_02
+HIN_0473,"कृपया मदद करें, ऑर्डर रद्द करने का बटन उपलब्ध नहीं है। कृपया इसे जल्दी हल करें।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_02
+HIN_0474,"कृपया मदद करें, ऑर्डर रद्द करने का बटन उपलब्ध नहीं है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_02
+HIN_0475,मुझे सहायता चाहिए क्योंकि ऑर्डर रद्द करने का बटन उपलब्ध नहीं है।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_02
+HIN_0476,मुझे सहायता चाहिए क्योंकि ऑर्डर रद्द करने का बटन उपलब्ध नहीं है। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_02
+HIN_0477,मुझे सहायता चाहिए क्योंकि ऑर्डर रद्द करने का बटन उपलब्ध नहीं है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_02
+HIN_0478,यह बहुत जरूरी है: ऑर्डर रद्द करने का बटन उपलब्ध नहीं है।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_02
+HIN_0479,यह बहुत जरूरी है: ऑर्डर रद्द करने का बटन उपलब्ध नहीं है। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_02
+HIN_0480,यह बहुत जरूरी है: ऑर्डर रद्द करने का बटन उपलब्ध नहीं है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_02
+HIN_0481,कैंसलेशन अनुरोध बार-बार फेल हो रहा है।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_03
+HIN_0482,कैंसलेशन अनुरोध बार-बार फेल हो रहा है। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_03
+HIN_0483,कैंसलेशन अनुरोध बार-बार फेल हो रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_03
+HIN_0484,"नमस्ते, कैंसलेशन अनुरोध बार-बार फेल हो रहा है।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_03
+HIN_0485,"नमस्ते, कैंसलेशन अनुरोध बार-बार फेल हो रहा है। कृपया इसे जल्दी हल करें।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_03
+HIN_0486,"नमस्ते, कैंसलेशन अनुरोध बार-बार फेल हो रहा है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_03
+HIN_0487,"कृपया मदद करें, कैंसलेशन अनुरोध बार-बार फेल हो रहा है।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_03
+HIN_0488,"कृपया मदद करें, कैंसलेशन अनुरोध बार-बार फेल हो रहा है। कृपया इसे जल्दी हल करें।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_03
+HIN_0489,"कृपया मदद करें, कैंसलेशन अनुरोध बार-बार फेल हो रहा है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_03
+HIN_0490,मुझे सहायता चाहिए क्योंकि कैंसलेशन अनुरोध बार-बार फेल हो रहा है।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_03
+HIN_0491,मुझे सहायता चाहिए क्योंकि कैंसलेशन अनुरोध बार-बार फेल हो रहा है। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_03
+HIN_0492,मुझे सहायता चाहिए क्योंकि कैंसलेशन अनुरोध बार-बार फेल हो रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_03
+HIN_0493,यह बहुत जरूरी है: कैंसलेशन अनुरोध बार-बार फेल हो रहा है।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_03
+HIN_0494,यह बहुत जरूरी है: कैंसलेशन अनुरोध बार-बार फेल हो रहा है। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_03
+HIN_0495,यह बहुत जरूरी है: कैंसलेशन अनुरोध बार-बार फेल हो रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_03
+HIN_0496,कैंसलेशन के बाद भी ऑर्डर भेज दिया गया।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_04
+HIN_0497,कैंसलेशन के बाद भी ऑर्डर भेज दिया गया। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_04
+HIN_0498,कैंसलेशन के बाद भी ऑर्डर भेज दिया गया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_04
+HIN_0499,"नमस्ते, कैंसलेशन के बाद भी ऑर्डर भेज दिया गया।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_04
+HIN_0500,"नमस्ते, कैंसलेशन के बाद भी ऑर्डर भेज दिया गया। कृपया इसे जल्दी हल करें।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_04
+HIN_0501,"नमस्ते, कैंसलेशन के बाद भी ऑर्डर भेज दिया गया। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_04
+HIN_0502,"कृपया मदद करें, कैंसलेशन के बाद भी ऑर्डर भेज दिया गया।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_04
+HIN_0503,"कृपया मदद करें, कैंसलेशन के बाद भी ऑर्डर भेज दिया गया। कृपया इसे जल्दी हल करें।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_04
+HIN_0504,"कृपया मदद करें, कैंसलेशन के बाद भी ऑर्डर भेज दिया गया। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_04
+HIN_0505,मुझे सहायता चाहिए क्योंकि कैंसलेशन के बाद भी ऑर्डर भेज दिया गया।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_04
+HIN_0506,मुझे सहायता चाहिए क्योंकि कैंसलेशन के बाद भी ऑर्डर भेज दिया गया। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_04
+HIN_0507,मुझे सहायता चाहिए क्योंकि कैंसलेशन के बाद भी ऑर्डर भेज दिया गया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_04
+HIN_0508,यह बहुत जरूरी है: कैंसलेशन के बाद भी ऑर्डर भेज दिया गया।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_04
+HIN_0509,यह बहुत जरूरी है: कैंसलेशन के बाद भी ऑर्डर भेज दिया गया। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_04
+HIN_0510,यह बहुत जरूरी है: कैंसलेशन के बाद भी ऑर्डर भेज दिया गया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_04
+HIN_0511,गलती से किया गया ऑर्डर रद्द करना है।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_05
+HIN_0512,गलती से किया गया ऑर्डर रद्द करना है। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_05
+HIN_0513,गलती से किया गया ऑर्डर रद्द करना है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_05
+HIN_0514,"नमस्ते, गलती से किया गया ऑर्डर रद्द करना है।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_05
+HIN_0515,"नमस्ते, गलती से किया गया ऑर्डर रद्द करना है। कृपया इसे जल्दी हल करें।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_05
+HIN_0516,"नमस्ते, गलती से किया गया ऑर्डर रद्द करना है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_05
+HIN_0517,"कृपया मदद करें, गलती से किया गया ऑर्डर रद्द करना है।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_05
+HIN_0518,"कृपया मदद करें, गलती से किया गया ऑर्डर रद्द करना है। कृपया इसे जल्दी हल करें।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_05
+HIN_0519,"कृपया मदद करें, गलती से किया गया ऑर्डर रद्द करना है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_05
+HIN_0520,मुझे सहायता चाहिए क्योंकि गलती से किया गया ऑर्डर रद्द करना है।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_05
+HIN_0521,मुझे सहायता चाहिए क्योंकि गलती से किया गया ऑर्डर रद्द करना है। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_05
+HIN_0522,मुझे सहायता चाहिए क्योंकि गलती से किया गया ऑर्डर रद्द करना है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_05
+HIN_0523,यह बहुत जरूरी है: गलती से किया गया ऑर्डर रद्द करना है।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_05
+HIN_0524,यह बहुत जरूरी है: गलती से किया गया ऑर्डर रद्द करना है। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_05
+HIN_0525,यह बहुत जरूरी है: गलती से किया गया ऑर्डर रद्द करना है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_05
+HIN_0526,विक्रेता ने मेरा कैंसलेशन अनुरोध अस्वीकार कर दिया।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_06
+HIN_0527,विक्रेता ने मेरा कैंसलेशन अनुरोध अस्वीकार कर दिया। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_06
+HIN_0528,विक्रेता ने मेरा कैंसलेशन अनुरोध अस्वीकार कर दिया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_06
+HIN_0529,"नमस्ते, विक्रेता ने मेरा कैंसलेशन अनुरोध अस्वीकार कर दिया।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_06
+HIN_0530,"नमस्ते, विक्रेता ने मेरा कैंसलेशन अनुरोध अस्वीकार कर दिया। कृपया इसे जल्दी हल करें।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_06
+HIN_0531,"नमस्ते, विक्रेता ने मेरा कैंसलेशन अनुरोध अस्वीकार कर दिया। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_06
+HIN_0532,"कृपया मदद करें, विक्रेता ने मेरा कैंसलेशन अनुरोध अस्वीकार कर दिया।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_06
+HIN_0533,"कृपया मदद करें, विक्रेता ने मेरा कैंसलेशन अनुरोध अस्वीकार कर दिया। कृपया इसे जल्दी हल करें।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_06
+HIN_0534,"कृपया मदद करें, विक्रेता ने मेरा कैंसलेशन अनुरोध अस्वीकार कर दिया। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_06
+HIN_0535,मुझे सहायता चाहिए क्योंकि विक्रेता ने मेरा कैंसलेशन अनुरोध अस्वीकार कर दिया।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_06
+HIN_0536,मुझे सहायता चाहिए क्योंकि विक्रेता ने मेरा कैंसलेशन अनुरोध अस्वीकार कर दिया। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_06
+HIN_0537,मुझे सहायता चाहिए क्योंकि विक्रेता ने मेरा कैंसलेशन अनुरोध अस्वीकार कर दिया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_06
+HIN_0538,यह बहुत जरूरी है: विक्रेता ने मेरा कैंसलेशन अनुरोध अस्वीकार कर दिया।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_06
+HIN_0539,यह बहुत जरूरी है: विक्रेता ने मेरा कैंसलेशन अनुरोध अस्वीकार कर दिया। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_06
+HIN_0540,यह बहुत जरूरी है: विक्रेता ने मेरा कैंसलेशन अनुरोध अस्वीकार कर दिया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_06
+HIN_0541,ऐप में कैंसलेशन का विकल्प नहीं दिख रहा है।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_07
+HIN_0542,ऐप में कैंसलेशन का विकल्प नहीं दिख रहा है। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_07
+HIN_0543,ऐप में कैंसलेशन का विकल्प नहीं दिख रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_07
+HIN_0544,"नमस्ते, ऐप में कैंसलेशन का विकल्प नहीं दिख रहा है।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_07
+HIN_0545,"नमस्ते, ऐप में कैंसलेशन का विकल्प नहीं दिख रहा है। कृपया इसे जल्दी हल करें।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_07
+HIN_0546,"नमस्ते, ऐप में कैंसलेशन का विकल्प नहीं दिख रहा है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_07
+HIN_0547,"कृपया मदद करें, ऐप में कैंसलेशन का विकल्प नहीं दिख रहा है।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_07
+HIN_0548,"कृपया मदद करें, ऐप में कैंसलेशन का विकल्प नहीं दिख रहा है। कृपया इसे जल्दी हल करें।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_07
+HIN_0549,"कृपया मदद करें, ऐप में कैंसलेशन का विकल्प नहीं दिख रहा है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_07
+HIN_0550,मुझे सहायता चाहिए क्योंकि ऐप में कैंसलेशन का विकल्प नहीं दिख रहा है।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_07
+HIN_0551,मुझे सहायता चाहिए क्योंकि ऐप में कैंसलेशन का विकल्प नहीं दिख रहा है। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_07
+HIN_0552,मुझे सहायता चाहिए क्योंकि ऐप में कैंसलेशन का विकल्प नहीं दिख रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_07
+HIN_0553,यह बहुत जरूरी है: ऐप में कैंसलेशन का विकल्प नहीं दिख रहा है।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_07
+HIN_0554,यह बहुत जरूरी है: ऐप में कैंसलेशन का विकल्प नहीं दिख रहा है। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_07
+HIN_0555,यह बहुत जरूरी है: ऐप में कैंसलेशन का विकल्प नहीं दिख रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_07
+HIN_0556,मैं ऑर्डर में से एक सामान रद्द करना चाहती हूँ।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_08
+HIN_0557,मैं ऑर्डर में से एक सामान रद्द करना चाहती हूँ। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_08
+HIN_0558,मैं ऑर्डर में से एक सामान रद्द करना चाहती हूँ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_08
+HIN_0559,"नमस्ते, मैं ऑर्डर में से एक सामान रद्द करना चाहती हूँ।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_08
+HIN_0560,"नमस्ते, मैं ऑर्डर में से एक सामान रद्द करना चाहती हूँ। कृपया इसे जल्दी हल करें।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_08
+HIN_0561,"नमस्ते, मैं ऑर्डर में से एक सामान रद्द करना चाहती हूँ। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_08
+HIN_0562,"कृपया मदद करें, मैं ऑर्डर में से एक सामान रद्द करना चाहती हूँ।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_08
+HIN_0563,"कृपया मदद करें, मैं ऑर्डर में से एक सामान रद्द करना चाहती हूँ। कृपया इसे जल्दी हल करें।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_08
+HIN_0564,"कृपया मदद करें, मैं ऑर्डर में से एक सामान रद्द करना चाहती हूँ। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_08
+HIN_0565,मुझे सहायता चाहिए क्योंकि मैं ऑर्डर में से एक सामान रद्द करना चाहती हूँ।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_08
+HIN_0566,मुझे सहायता चाहिए क्योंकि मैं ऑर्डर में से एक सामान रद्द करना चाहती हूँ। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_08
+HIN_0567,मुझे सहायता चाहिए क्योंकि मैं ऑर्डर में से एक सामान रद्द करना चाहती हूँ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_08
+HIN_0568,यह बहुत जरूरी है: मैं ऑर्डर में से एक सामान रद्द करना चाहती हूँ।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_08
+HIN_0569,यह बहुत जरूरी है: मैं ऑर्डर में से एक सामान रद्द करना चाहती हूँ। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_08
+HIN_0570,यह बहुत जरूरी है: मैं ऑर्डर में से एक सामान रद्द करना चाहती हूँ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_08
+HIN_0571,रद्द करने के बाद भी ऑर्डर सक्रिय दिख रहा है।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_09
+HIN_0572,रद्द करने के बाद भी ऑर्डर सक्रिय दिख रहा है। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_09
+HIN_0573,रद्द करने के बाद भी ऑर्डर सक्रिय दिख रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_09
+HIN_0574,"नमस्ते, रद्द करने के बाद भी ऑर्डर सक्रिय दिख रहा है।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_09
+HIN_0575,"नमस्ते, रद्द करने के बाद भी ऑर्डर सक्रिय दिख रहा है। कृपया इसे जल्दी हल करें।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_09
+HIN_0576,"नमस्ते, रद्द करने के बाद भी ऑर्डर सक्रिय दिख रहा है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_09
+HIN_0577,"कृपया मदद करें, रद्द करने के बाद भी ऑर्डर सक्रिय दिख रहा है।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_09
+HIN_0578,"कृपया मदद करें, रद्द करने के बाद भी ऑर्डर सक्रिय दिख रहा है। कृपया इसे जल्दी हल करें।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_09
+HIN_0579,"कृपया मदद करें, रद्द करने के बाद भी ऑर्डर सक्रिय दिख रहा है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_09
+HIN_0580,मुझे सहायता चाहिए क्योंकि रद्द करने के बाद भी ऑर्डर सक्रिय दिख रहा है।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_09
+HIN_0581,मुझे सहायता चाहिए क्योंकि रद्द करने के बाद भी ऑर्डर सक्रिय दिख रहा है। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_09
+HIN_0582,मुझे सहायता चाहिए क्योंकि रद्द करने के बाद भी ऑर्डर सक्रिय दिख रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_09
+HIN_0583,यह बहुत जरूरी है: रद्द करने के बाद भी ऑर्डर सक्रिय दिख रहा है।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_09
+HIN_0584,यह बहुत जरूरी है: रद्द करने के बाद भी ऑर्डर सक्रिय दिख रहा है। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_09
+HIN_0585,यह बहुत जरूरी है: रद्द करने के बाद भी ऑर्डर सक्रिय दिख रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_09
+HIN_0586,ऑर्डर रद्द करने पर मुझसे शुल्क लिया गया।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_10
+HIN_0587,ऑर्डर रद्द करने पर मुझसे शुल्क लिया गया। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_10
+HIN_0588,ऑर्डर रद्द करने पर मुझसे शुल्क लिया गया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_10
+HIN_0589,"नमस्ते, ऑर्डर रद्द करने पर मुझसे शुल्क लिया गया।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_10
+HIN_0590,"नमस्ते, ऑर्डर रद्द करने पर मुझसे शुल्क लिया गया। कृपया इसे जल्दी हल करें।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_10
+HIN_0591,"नमस्ते, ऑर्डर रद्द करने पर मुझसे शुल्क लिया गया। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_10
+HIN_0592,"कृपया मदद करें, ऑर्डर रद्द करने पर मुझसे शुल्क लिया गया।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_10
+HIN_0593,"कृपया मदद करें, ऑर्डर रद्द करने पर मुझसे शुल्क लिया गया। कृपया इसे जल्दी हल करें।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_10
+HIN_0594,"कृपया मदद करें, ऑर्डर रद्द करने पर मुझसे शुल्क लिया गया। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_10
+HIN_0595,मुझे सहायता चाहिए क्योंकि ऑर्डर रद्द करने पर मुझसे शुल्क लिया गया।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_10
+HIN_0596,मुझे सहायता चाहिए क्योंकि ऑर्डर रद्द करने पर मुझसे शुल्क लिया गया। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_10
+HIN_0597,मुझे सहायता चाहिए क्योंकि ऑर्डर रद्द करने पर मुझसे शुल्क लिया गया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_10
+HIN_0598,यह बहुत जरूरी है: ऑर्डर रद्द करने पर मुझसे शुल्क लिया गया।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_10
+HIN_0599,यह बहुत जरूरी है: ऑर्डर रद्द करने पर मुझसे शुल्क लिया गया। कृपया इसे जल्दी हल करें।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_10
+HIN_0600,यह बहुत जरूरी है: ऑर्डर रद्द करने पर मुझसे शुल्क लिया गया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Cancellation Issue,Order Management,Medium,Hindi_Cancellation Issue_10
+HIN_0601,मुझे मिला हुआ उत्पाद खराब है।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_01
+HIN_0602,मुझे मिला हुआ उत्पाद खराब है। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_01
+HIN_0603,मुझे मिला हुआ उत्पाद खराब है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_01
+HIN_0604,"नमस्ते, मुझे मिला हुआ उत्पाद खराब है।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_01
+HIN_0605,"नमस्ते, मुझे मिला हुआ उत्पाद खराब है। कृपया इसे जल्दी हल करें।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_01
+HIN_0606,"नमस्ते, मुझे मिला हुआ उत्पाद खराब है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_01
+HIN_0607,"कृपया मदद करें, मुझे मिला हुआ उत्पाद खराब है।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_01
+HIN_0608,"कृपया मदद करें, मुझे मिला हुआ उत्पाद खराब है। कृपया इसे जल्दी हल करें।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_01
+HIN_0609,"कृपया मदद करें, मुझे मिला हुआ उत्पाद खराब है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_01
+HIN_0610,मुझे सहायता चाहिए क्योंकि मुझे मिला हुआ उत्पाद खराब है।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_01
+HIN_0611,मुझे सहायता चाहिए क्योंकि मुझे मिला हुआ उत्पाद खराब है। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_01
+HIN_0612,मुझे सहायता चाहिए क्योंकि मुझे मिला हुआ उत्पाद खराब है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_01
+HIN_0613,यह बहुत जरूरी है: मुझे मिला हुआ उत्पाद खराब है।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_01
+HIN_0614,यह बहुत जरूरी है: मुझे मिला हुआ उत्पाद खराब है। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_01
+HIN_0615,यह बहुत जरूरी है: मुझे मिला हुआ उत्पाद खराब है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_01
+HIN_0616,सामान काम नहीं कर रहा है।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_02
+HIN_0617,सामान काम नहीं कर रहा है। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_02
+HIN_0618,सामान काम नहीं कर रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_02
+HIN_0619,"नमस्ते, सामान काम नहीं कर रहा है।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_02
+HIN_0620,"नमस्ते, सामान काम नहीं कर रहा है। कृपया इसे जल्दी हल करें।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_02
+HIN_0621,"नमस्ते, सामान काम नहीं कर रहा है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_02
+HIN_0622,"कृपया मदद करें, सामान काम नहीं कर रहा है।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_02
+HIN_0623,"कृपया मदद करें, सामान काम नहीं कर रहा है। कृपया इसे जल्दी हल करें।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_02
+HIN_0624,"कृपया मदद करें, सामान काम नहीं कर रहा है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_02
+HIN_0625,मुझे सहायता चाहिए क्योंकि सामान काम नहीं कर रहा है।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_02
+HIN_0626,मुझे सहायता चाहिए क्योंकि सामान काम नहीं कर रहा है। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_02
+HIN_0627,मुझे सहायता चाहिए क्योंकि सामान काम नहीं कर रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_02
+HIN_0628,यह बहुत जरूरी है: सामान काम नहीं कर रहा है।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_02
+HIN_0629,यह बहुत जरूरी है: सामान काम नहीं कर रहा है। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_02
+HIN_0630,यह बहुत जरूरी है: सामान काम नहीं कर रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_02
+HIN_0631,मुझे गलत उत्पाद भेजा गया।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_03
+HIN_0632,मुझे गलत उत्पाद भेजा गया। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_03
+HIN_0633,मुझे गलत उत्पाद भेजा गया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_03
+HIN_0634,"नमस्ते, मुझे गलत उत्पाद भेजा गया।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_03
+HIN_0635,"नमस्ते, मुझे गलत उत्पाद भेजा गया। कृपया इसे जल्दी हल करें।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_03
+HIN_0636,"नमस्ते, मुझे गलत उत्पाद भेजा गया। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_03
+HIN_0637,"कृपया मदद करें, मुझे गलत उत्पाद भेजा गया।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_03
+HIN_0638,"कृपया मदद करें, मुझे गलत उत्पाद भेजा गया। कृपया इसे जल्दी हल करें।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_03
+HIN_0639,"कृपया मदद करें, मुझे गलत उत्पाद भेजा गया। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_03
+HIN_0640,मुझे सहायता चाहिए क्योंकि मुझे गलत उत्पाद भेजा गया।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_03
+HIN_0641,मुझे सहायता चाहिए क्योंकि मुझे गलत उत्पाद भेजा गया। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_03
+HIN_0642,मुझे सहायता चाहिए क्योंकि मुझे गलत उत्पाद भेजा गया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_03
+HIN_0643,यह बहुत जरूरी है: मुझे गलत उत्पाद भेजा गया।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_03
+HIN_0644,यह बहुत जरूरी है: मुझे गलत उत्पाद भेजा गया। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_03
+HIN_0645,यह बहुत जरूरी है: मुझे गलत उत्पाद भेजा गया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_03
+HIN_0646,उत्पाद उसके विवरण से मेल नहीं खाता।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_04
+HIN_0647,उत्पाद उसके विवरण से मेल नहीं खाता। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_04
+HIN_0648,उत्पाद उसके विवरण से मेल नहीं खाता। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_04
+HIN_0649,"नमस्ते, उत्पाद उसके विवरण से मेल नहीं खाता।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_04
+HIN_0650,"नमस्ते, उत्पाद उसके विवरण से मेल नहीं खाता। कृपया इसे जल्दी हल करें।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_04
+HIN_0651,"नमस्ते, उत्पाद उसके विवरण से मेल नहीं खाता। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_04
+HIN_0652,"कृपया मदद करें, उत्पाद उसके विवरण से मेल नहीं खाता।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_04
+HIN_0653,"कृपया मदद करें, उत्पाद उसके विवरण से मेल नहीं खाता। कृपया इसे जल्दी हल करें।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_04
+HIN_0654,"कृपया मदद करें, उत्पाद उसके विवरण से मेल नहीं खाता। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_04
+HIN_0655,मुझे सहायता चाहिए क्योंकि उत्पाद उसके विवरण से मेल नहीं खाता।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_04
+HIN_0656,मुझे सहायता चाहिए क्योंकि उत्पाद उसके विवरण से मेल नहीं खाता। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_04
+HIN_0657,मुझे सहायता चाहिए क्योंकि उत्पाद उसके विवरण से मेल नहीं खाता। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_04
+HIN_0658,यह बहुत जरूरी है: उत्पाद उसके विवरण से मेल नहीं खाता।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_04
+HIN_0659,यह बहुत जरूरी है: उत्पाद उसके विवरण से मेल नहीं खाता। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_04
+HIN_0660,यह बहुत जरूरी है: उत्पाद उसके विवरण से मेल नहीं खाता। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_04
+HIN_0661,पैकेज में एक जरूरी सामान गायब है।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_05
+HIN_0662,पैकेज में एक जरूरी सामान गायब है। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_05
+HIN_0663,पैकेज में एक जरूरी सामान गायब है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_05
+HIN_0664,"नमस्ते, पैकेज में एक जरूरी सामान गायब है।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_05
+HIN_0665,"नमस्ते, पैकेज में एक जरूरी सामान गायब है। कृपया इसे जल्दी हल करें।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_05
+HIN_0666,"नमस्ते, पैकेज में एक जरूरी सामान गायब है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_05
+HIN_0667,"कृपया मदद करें, पैकेज में एक जरूरी सामान गायब है।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_05
+HIN_0668,"कृपया मदद करें, पैकेज में एक जरूरी सामान गायब है। कृपया इसे जल्दी हल करें।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_05
+HIN_0669,"कृपया मदद करें, पैकेज में एक जरूरी सामान गायब है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_05
+HIN_0670,मुझे सहायता चाहिए क्योंकि पैकेज में एक जरूरी सामान गायब है।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_05
+HIN_0671,मुझे सहायता चाहिए क्योंकि पैकेज में एक जरूरी सामान गायब है। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_05
+HIN_0672,मुझे सहायता चाहिए क्योंकि पैकेज में एक जरूरी सामान गायब है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_05
+HIN_0673,यह बहुत जरूरी है: पैकेज में एक जरूरी सामान गायब है।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_05
+HIN_0674,यह बहुत जरूरी है: पैकेज में एक जरूरी सामान गायब है। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_05
+HIN_0675,यह बहुत जरूरी है: पैकेज में एक जरूरी सामान गायब है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_05
+HIN_0676,उत्पाद के कुछ हिस्से टूटे हुए हैं।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_06
+HIN_0677,उत्पाद के कुछ हिस्से टूटे हुए हैं। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_06
+HIN_0678,उत्पाद के कुछ हिस्से टूटे हुए हैं। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_06
+HIN_0679,"नमस्ते, उत्पाद के कुछ हिस्से टूटे हुए हैं।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_06
+HIN_0680,"नमस्ते, उत्पाद के कुछ हिस्से टूटे हुए हैं। कृपया इसे जल्दी हल करें।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_06
+HIN_0681,"नमस्ते, उत्पाद के कुछ हिस्से टूटे हुए हैं। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_06
+HIN_0682,"कृपया मदद करें, उत्पाद के कुछ हिस्से टूटे हुए हैं।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_06
+HIN_0683,"कृपया मदद करें, उत्पाद के कुछ हिस्से टूटे हुए हैं। कृपया इसे जल्दी हल करें।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_06
+HIN_0684,"कृपया मदद करें, उत्पाद के कुछ हिस्से टूटे हुए हैं। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_06
+HIN_0685,मुझे सहायता चाहिए क्योंकि उत्पाद के कुछ हिस्से टूटे हुए हैं।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_06
+HIN_0686,मुझे सहायता चाहिए क्योंकि उत्पाद के कुछ हिस्से टूटे हुए हैं। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_06
+HIN_0687,मुझे सहायता चाहिए क्योंकि उत्पाद के कुछ हिस्से टूटे हुए हैं। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_06
+HIN_0688,यह बहुत जरूरी है: उत्पाद के कुछ हिस्से टूटे हुए हैं।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_06
+HIN_0689,यह बहुत जरूरी है: उत्पाद के कुछ हिस्से टूटे हुए हैं। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_06
+HIN_0690,यह बहुत जरूरी है: उत्पाद के कुछ हिस्से टूटे हुए हैं। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_06
+HIN_0691,उत्पाद की गुणवत्ता बहुत खराब है।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_07
+HIN_0692,उत्पाद की गुणवत्ता बहुत खराब है। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_07
+HIN_0693,उत्पाद की गुणवत्ता बहुत खराब है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_07
+HIN_0694,"नमस्ते, उत्पाद की गुणवत्ता बहुत खराब है।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_07
+HIN_0695,"नमस्ते, उत्पाद की गुणवत्ता बहुत खराब है। कृपया इसे जल्दी हल करें।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_07
+HIN_0696,"नमस्ते, उत्पाद की गुणवत्ता बहुत खराब है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_07
+HIN_0697,"कृपया मदद करें, उत्पाद की गुणवत्ता बहुत खराब है।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_07
+HIN_0698,"कृपया मदद करें, उत्पाद की गुणवत्ता बहुत खराब है। कृपया इसे जल्दी हल करें।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_07
+HIN_0699,"कृपया मदद करें, उत्पाद की गुणवत्ता बहुत खराब है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_07
+HIN_0700,मुझे सहायता चाहिए क्योंकि उत्पाद की गुणवत्ता बहुत खराब है।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_07
+HIN_0701,मुझे सहायता चाहिए क्योंकि उत्पाद की गुणवत्ता बहुत खराब है। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_07
+HIN_0702,मुझे सहायता चाहिए क्योंकि उत्पाद की गुणवत्ता बहुत खराब है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_07
+HIN_0703,यह बहुत जरूरी है: उत्पाद की गुणवत्ता बहुत खराब है।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_07
+HIN_0704,यह बहुत जरूरी है: उत्पाद की गुणवत्ता बहुत खराब है। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_07
+HIN_0705,यह बहुत जरूरी है: उत्पाद की गुणवत्ता बहुत खराब है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_07
+HIN_0706,मुझे एक्सपायर हो चुका उत्पाद मिला।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_08
+HIN_0707,मुझे एक्सपायर हो चुका उत्पाद मिला। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_08
+HIN_0708,मुझे एक्सपायर हो चुका उत्पाद मिला। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_08
+HIN_0709,"नमस्ते, मुझे एक्सपायर हो चुका उत्पाद मिला।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_08
+HIN_0710,"नमस्ते, मुझे एक्सपायर हो चुका उत्पाद मिला। कृपया इसे जल्दी हल करें।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_08
+HIN_0711,"नमस्ते, मुझे एक्सपायर हो चुका उत्पाद मिला। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_08
+HIN_0712,"कृपया मदद करें, मुझे एक्सपायर हो चुका उत्पाद मिला।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_08
+HIN_0713,"कृपया मदद करें, मुझे एक्सपायर हो चुका उत्पाद मिला। कृपया इसे जल्दी हल करें।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_08
+HIN_0714,"कृपया मदद करें, मुझे एक्सपायर हो चुका उत्पाद मिला। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_08
+HIN_0715,मुझे सहायता चाहिए क्योंकि मुझे एक्सपायर हो चुका उत्पाद मिला।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_08
+HIN_0716,मुझे सहायता चाहिए क्योंकि मुझे एक्सपायर हो चुका उत्पाद मिला। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_08
+HIN_0717,मुझे सहायता चाहिए क्योंकि मुझे एक्सपायर हो चुका उत्पाद मिला। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_08
+HIN_0718,यह बहुत जरूरी है: मुझे एक्सपायर हो चुका उत्पाद मिला।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_08
+HIN_0719,यह बहुत जरूरी है: मुझे एक्सपायर हो चुका उत्पाद मिला। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_08
+HIN_0720,यह बहुत जरूरी है: मुझे एक्सपायर हो चुका उत्पाद मिला। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_08
+HIN_0721,उत्पाद का आकार या रंग मेरे ऑर्डर से अलग है।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_09
+HIN_0722,उत्पाद का आकार या रंग मेरे ऑर्डर से अलग है। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_09
+HIN_0723,उत्पाद का आकार या रंग मेरे ऑर्डर से अलग है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_09
+HIN_0724,"नमस्ते, उत्पाद का आकार या रंग मेरे ऑर्डर से अलग है।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_09
+HIN_0725,"नमस्ते, उत्पाद का आकार या रंग मेरे ऑर्डर से अलग है। कृपया इसे जल्दी हल करें।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_09
+HIN_0726,"नमस्ते, उत्पाद का आकार या रंग मेरे ऑर्डर से अलग है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_09
+HIN_0727,"कृपया मदद करें, उत्पाद का आकार या रंग मेरे ऑर्डर से अलग है।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_09
+HIN_0728,"कृपया मदद करें, उत्पाद का आकार या रंग मेरे ऑर्डर से अलग है। कृपया इसे जल्दी हल करें।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_09
+HIN_0729,"कृपया मदद करें, उत्पाद का आकार या रंग मेरे ऑर्डर से अलग है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_09
+HIN_0730,मुझे सहायता चाहिए क्योंकि उत्पाद का आकार या रंग मेरे ऑर्डर से अलग है।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_09
+HIN_0731,मुझे सहायता चाहिए क्योंकि उत्पाद का आकार या रंग मेरे ऑर्डर से अलग है। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_09
+HIN_0732,मुझे सहायता चाहिए क्योंकि उत्पाद का आकार या रंग मेरे ऑर्डर से अलग है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_09
+HIN_0733,यह बहुत जरूरी है: उत्पाद का आकार या रंग मेरे ऑर्डर से अलग है।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_09
+HIN_0734,यह बहुत जरूरी है: उत्पाद का आकार या रंग मेरे ऑर्डर से अलग है। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_09
+HIN_0735,यह बहुत जरूरी है: उत्पाद का आकार या रंग मेरे ऑर्डर से अलग है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_09
+HIN_0736,मुझे खाली पैकेज मिला है।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_10
+HIN_0737,मुझे खाली पैकेज मिला है। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_10
+HIN_0738,मुझे खाली पैकेज मिला है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_10
+HIN_0739,"नमस्ते, मुझे खाली पैकेज मिला है।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_10
+HIN_0740,"नमस्ते, मुझे खाली पैकेज मिला है। कृपया इसे जल्दी हल करें।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_10
+HIN_0741,"नमस्ते, मुझे खाली पैकेज मिला है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_10
+HIN_0742,"कृपया मदद करें, मुझे खाली पैकेज मिला है।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_10
+HIN_0743,"कृपया मदद करें, मुझे खाली पैकेज मिला है। कृपया इसे जल्दी हल करें।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_10
+HIN_0744,"कृपया मदद करें, मुझे खाली पैकेज मिला है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Product Issue,Product Support,High,Hindi_Product Issue_10
+HIN_0745,मुझे सहायता चाहिए क्योंकि मुझे खाली पैकेज मिला है।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_10
+HIN_0746,मुझे सहायता चाहिए क्योंकि मुझे खाली पैकेज मिला है। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_10
+HIN_0747,मुझे सहायता चाहिए क्योंकि मुझे खाली पैकेज मिला है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_10
+HIN_0748,यह बहुत जरूरी है: मुझे खाली पैकेज मिला है।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_10
+HIN_0749,यह बहुत जरूरी है: मुझे खाली पैकेज मिला है। कृपया इसे जल्दी हल करें।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_10
+HIN_0750,यह बहुत जरूरी है: मुझे खाली पैकेज मिला है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Product Issue,Product Support,High,Hindi_Product Issue_10
+HIN_0751,मैं इस उत्पाद को वापस करना चाहती हूँ।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_01
+HIN_0752,मैं इस उत्पाद को वापस करना चाहती हूँ। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_01
+HIN_0753,मैं इस उत्पाद को वापस करना चाहती हूँ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_01
+HIN_0754,"नमस्ते, मैं इस उत्पाद को वापस करना चाहती हूँ।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_01
+HIN_0755,"नमस्ते, मैं इस उत्पाद को वापस करना चाहती हूँ। कृपया इसे जल्दी हल करें।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_01
+HIN_0756,"नमस्ते, मैं इस उत्पाद को वापस करना चाहती हूँ। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_01
+HIN_0757,"कृपया मदद करें, मैं इस उत्पाद को वापस करना चाहती हूँ।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_01
+HIN_0758,"कृपया मदद करें, मैं इस उत्पाद को वापस करना चाहती हूँ। कृपया इसे जल्दी हल करें।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_01
+HIN_0759,"कृपया मदद करें, मैं इस उत्पाद को वापस करना चाहती हूँ। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_01
+HIN_0760,मुझे सहायता चाहिए क्योंकि मैं इस उत्पाद को वापस करना चाहती हूँ।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_01
+HIN_0761,मुझे सहायता चाहिए क्योंकि मैं इस उत्पाद को वापस करना चाहती हूँ। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_01
+HIN_0762,मुझे सहायता चाहिए क्योंकि मैं इस उत्पाद को वापस करना चाहती हूँ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_01
+HIN_0763,यह बहुत जरूरी है: मैं इस उत्पाद को वापस करना चाहती हूँ।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_01
+HIN_0764,यह बहुत जरूरी है: मैं इस उत्पाद को वापस करना चाहती हूँ। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_01
+HIN_0765,यह बहुत जरूरी है: मैं इस उत्पाद को वापस करना चाहती हूँ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_01
+HIN_0766,मुझे खराब सामान का रिप्लेसमेंट चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_02
+HIN_0767,मुझे खराब सामान का रिप्लेसमेंट चाहिए। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_02
+HIN_0768,मुझे खराब सामान का रिप्लेसमेंट चाहिए। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_02
+HIN_0769,"नमस्ते, मुझे खराब सामान का रिप्लेसमेंट चाहिए।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_02
+HIN_0770,"नमस्ते, मुझे खराब सामान का रिप्लेसमेंट चाहिए। कृपया इसे जल्दी हल करें।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_02
+HIN_0771,"नमस्ते, मुझे खराब सामान का रिप्लेसमेंट चाहिए। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_02
+HIN_0772,"कृपया मदद करें, मुझे खराब सामान का रिप्लेसमेंट चाहिए।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_02
+HIN_0773,"कृपया मदद करें, मुझे खराब सामान का रिप्लेसमेंट चाहिए। कृपया इसे जल्दी हल करें।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_02
+HIN_0774,"कृपया मदद करें, मुझे खराब सामान का रिप्लेसमेंट चाहिए। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_02
+HIN_0775,मुझे सहायता चाहिए क्योंकि मुझे खराब सामान का रिप्लेसमेंट चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_02
+HIN_0776,मुझे सहायता चाहिए क्योंकि मुझे खराब सामान का रिप्लेसमेंट चाहिए। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_02
+HIN_0777,मुझे सहायता चाहिए क्योंकि मुझे खराब सामान का रिप्लेसमेंट चाहिए। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_02
+HIN_0778,यह बहुत जरूरी है: मुझे खराब सामान का रिप्लेसमेंट चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_02
+HIN_0779,यह बहुत जरूरी है: मुझे खराब सामान का रिप्लेसमेंट चाहिए। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_02
+HIN_0780,यह बहुत जरूरी है: मुझे खराब सामान का रिप्लेसमेंट चाहिए। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_02
+HIN_0781,मेरा रिटर्न अनुरोध स्वीकार नहीं हो रहा है।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_03
+HIN_0782,मेरा रिटर्न अनुरोध स्वीकार नहीं हो रहा है। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_03
+HIN_0783,मेरा रिटर्न अनुरोध स्वीकार नहीं हो रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_03
+HIN_0784,"नमस्ते, मेरा रिटर्न अनुरोध स्वीकार नहीं हो रहा है।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_03
+HIN_0785,"नमस्ते, मेरा रिटर्न अनुरोध स्वीकार नहीं हो रहा है। कृपया इसे जल्दी हल करें।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_03
+HIN_0786,"नमस्ते, मेरा रिटर्न अनुरोध स्वीकार नहीं हो रहा है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_03
+HIN_0787,"कृपया मदद करें, मेरा रिटर्न अनुरोध स्वीकार नहीं हो रहा है।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_03
+HIN_0788,"कृपया मदद करें, मेरा रिटर्न अनुरोध स्वीकार नहीं हो रहा है। कृपया इसे जल्दी हल करें।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_03
+HIN_0789,"कृपया मदद करें, मेरा रिटर्न अनुरोध स्वीकार नहीं हो रहा है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_03
+HIN_0790,मुझे सहायता चाहिए क्योंकि मेरा रिटर्न अनुरोध स्वीकार नहीं हो रहा है।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_03
+HIN_0791,मुझे सहायता चाहिए क्योंकि मेरा रिटर्न अनुरोध स्वीकार नहीं हो रहा है। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_03
+HIN_0792,मुझे सहायता चाहिए क्योंकि मेरा रिटर्न अनुरोध स्वीकार नहीं हो रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_03
+HIN_0793,यह बहुत जरूरी है: मेरा रिटर्न अनुरोध स्वीकार नहीं हो रहा है।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_03
+HIN_0794,यह बहुत जरूरी है: मेरा रिटर्न अनुरोध स्वीकार नहीं हो रहा है। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_03
+HIN_0795,यह बहुत जरूरी है: मेरा रिटर्न अनुरोध स्वीकार नहीं हो रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_03
+HIN_0796,रिटर्न के लिए पिकअप अभी तक नहीं हुआ।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_04
+HIN_0797,रिटर्न के लिए पिकअप अभी तक नहीं हुआ। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_04
+HIN_0798,रिटर्न के लिए पिकअप अभी तक नहीं हुआ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_04
+HIN_0799,"नमस्ते, रिटर्न के लिए पिकअप अभी तक नहीं हुआ।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_04
+HIN_0800,"नमस्ते, रिटर्न के लिए पिकअप अभी तक नहीं हुआ। कृपया इसे जल्दी हल करें।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_04
+HIN_0801,"नमस्ते, रिटर्न के लिए पिकअप अभी तक नहीं हुआ। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_04
+HIN_0802,"कृपया मदद करें, रिटर्न के लिए पिकअप अभी तक नहीं हुआ।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_04
+HIN_0803,"कृपया मदद करें, रिटर्न के लिए पिकअप अभी तक नहीं हुआ। कृपया इसे जल्दी हल करें।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_04
+HIN_0804,"कृपया मदद करें, रिटर्न के लिए पिकअप अभी तक नहीं हुआ। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_04
+HIN_0805,मुझे सहायता चाहिए क्योंकि रिटर्न के लिए पिकअप अभी तक नहीं हुआ।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_04
+HIN_0806,मुझे सहायता चाहिए क्योंकि रिटर्न के लिए पिकअप अभी तक नहीं हुआ। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_04
+HIN_0807,मुझे सहायता चाहिए क्योंकि रिटर्न के लिए पिकअप अभी तक नहीं हुआ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_04
+HIN_0808,यह बहुत जरूरी है: रिटर्न के लिए पिकअप अभी तक नहीं हुआ।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_04
+HIN_0809,यह बहुत जरूरी है: रिटर्न के लिए पिकअप अभी तक नहीं हुआ। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_04
+HIN_0810,यह बहुत जरूरी है: रिटर्न के लिए पिकअप अभी तक नहीं हुआ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_04
+HIN_0811,मैं सामान को दूसरे आकार से बदलना चाहती हूँ।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_05
+HIN_0812,मैं सामान को दूसरे आकार से बदलना चाहती हूँ। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_05
+HIN_0813,मैं सामान को दूसरे आकार से बदलना चाहती हूँ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_05
+HIN_0814,"नमस्ते, मैं सामान को दूसरे आकार से बदलना चाहती हूँ।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_05
+HIN_0815,"नमस्ते, मैं सामान को दूसरे आकार से बदलना चाहती हूँ। कृपया इसे जल्दी हल करें।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_05
+HIN_0816,"नमस्ते, मैं सामान को दूसरे आकार से बदलना चाहती हूँ। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_05
+HIN_0817,"कृपया मदद करें, मैं सामान को दूसरे आकार से बदलना चाहती हूँ।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_05
+HIN_0818,"कृपया मदद करें, मैं सामान को दूसरे आकार से बदलना चाहती हूँ। कृपया इसे जल्दी हल करें।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_05
+HIN_0819,"कृपया मदद करें, मैं सामान को दूसरे आकार से बदलना चाहती हूँ। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_05
+HIN_0820,मुझे सहायता चाहिए क्योंकि मैं सामान को दूसरे आकार से बदलना चाहती हूँ।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_05
+HIN_0821,मुझे सहायता चाहिए क्योंकि मैं सामान को दूसरे आकार से बदलना चाहती हूँ। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_05
+HIN_0822,मुझे सहायता चाहिए क्योंकि मैं सामान को दूसरे आकार से बदलना चाहती हूँ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_05
+HIN_0823,यह बहुत जरूरी है: मैं सामान को दूसरे आकार से बदलना चाहती हूँ।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_05
+HIN_0824,यह बहुत जरूरी है: मैं सामान को दूसरे आकार से बदलना चाहती हूँ। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_05
+HIN_0825,यह बहुत जरूरी है: मैं सामान को दूसरे आकार से बदलना चाहती हूँ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_05
+HIN_0826,रिप्लेसमेंट ऑर्डर अभी तक भेजा नहीं गया।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_06
+HIN_0827,रिप्लेसमेंट ऑर्डर अभी तक भेजा नहीं गया। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_06
+HIN_0828,रिप्लेसमेंट ऑर्डर अभी तक भेजा नहीं गया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_06
+HIN_0829,"नमस्ते, रिप्लेसमेंट ऑर्डर अभी तक भेजा नहीं गया।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_06
+HIN_0830,"नमस्ते, रिप्लेसमेंट ऑर्डर अभी तक भेजा नहीं गया। कृपया इसे जल्दी हल करें।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_06
+HIN_0831,"नमस्ते, रिप्लेसमेंट ऑर्डर अभी तक भेजा नहीं गया। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_06
+HIN_0832,"कृपया मदद करें, रिप्लेसमेंट ऑर्डर अभी तक भेजा नहीं गया।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_06
+HIN_0833,"कृपया मदद करें, रिप्लेसमेंट ऑर्डर अभी तक भेजा नहीं गया। कृपया इसे जल्दी हल करें।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_06
+HIN_0834,"कृपया मदद करें, रिप्लेसमेंट ऑर्डर अभी तक भेजा नहीं गया। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_06
+HIN_0835,मुझे सहायता चाहिए क्योंकि रिप्लेसमेंट ऑर्डर अभी तक भेजा नहीं गया।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_06
+HIN_0836,मुझे सहायता चाहिए क्योंकि रिप्लेसमेंट ऑर्डर अभी तक भेजा नहीं गया। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_06
+HIN_0837,मुझे सहायता चाहिए क्योंकि रिप्लेसमेंट ऑर्डर अभी तक भेजा नहीं गया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_06
+HIN_0838,यह बहुत जरूरी है: रिप्लेसमेंट ऑर्डर अभी तक भेजा नहीं गया।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_06
+HIN_0839,यह बहुत जरूरी है: रिप्लेसमेंट ऑर्डर अभी तक भेजा नहीं गया। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_06
+HIN_0840,यह बहुत जरूरी है: रिप्लेसमेंट ऑर्डर अभी तक भेजा नहीं गया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_06
+HIN_0841,रिटर्न की समय सीमा गलत तरीके से बंद दिखाई जा रही है।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_07
+HIN_0842,रिटर्न की समय सीमा गलत तरीके से बंद दिखाई जा रही है। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_07
+HIN_0843,रिटर्न की समय सीमा गलत तरीके से बंद दिखाई जा रही है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_07
+HIN_0844,"नमस्ते, रिटर्न की समय सीमा गलत तरीके से बंद दिखाई जा रही है।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_07
+HIN_0845,"नमस्ते, रिटर्न की समय सीमा गलत तरीके से बंद दिखाई जा रही है। कृपया इसे जल्दी हल करें।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_07
+HIN_0846,"नमस्ते, रिटर्न की समय सीमा गलत तरीके से बंद दिखाई जा रही है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_07
+HIN_0847,"कृपया मदद करें, रिटर्न की समय सीमा गलत तरीके से बंद दिखाई जा रही है।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_07
+HIN_0848,"कृपया मदद करें, रिटर्न की समय सीमा गलत तरीके से बंद दिखाई जा रही है। कृपया इसे जल्दी हल करें।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_07
+HIN_0849,"कृपया मदद करें, रिटर्न की समय सीमा गलत तरीके से बंद दिखाई जा रही है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_07
+HIN_0850,मुझे सहायता चाहिए क्योंकि रिटर्न की समय सीमा गलत तरीके से बंद दिखाई जा रही है।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_07
+HIN_0851,मुझे सहायता चाहिए क्योंकि रिटर्न की समय सीमा गलत तरीके से बंद दिखाई जा रही है। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_07
+HIN_0852,मुझे सहायता चाहिए क्योंकि रिटर्न की समय सीमा गलत तरीके से बंद दिखाई जा रही है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_07
+HIN_0853,यह बहुत जरूरी है: रिटर्न की समय सीमा गलत तरीके से बंद दिखाई जा रही है।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_07
+HIN_0854,यह बहुत जरूरी है: रिटर्न की समय सीमा गलत तरीके से बंद दिखाई जा रही है। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_07
+HIN_0855,यह बहुत जरूरी है: रिटर्न की समय सीमा गलत तरीके से बंद दिखाई जा रही है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_07
+HIN_0856,कूरियर वाले ने रिटर्न लेने से मना कर दिया।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_08
+HIN_0857,कूरियर वाले ने रिटर्न लेने से मना कर दिया। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_08
+HIN_0858,कूरियर वाले ने रिटर्न लेने से मना कर दिया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_08
+HIN_0859,"नमस्ते, कूरियर वाले ने रिटर्न लेने से मना कर दिया।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_08
+HIN_0860,"नमस्ते, कूरियर वाले ने रिटर्न लेने से मना कर दिया। कृपया इसे जल्दी हल करें।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_08
+HIN_0861,"नमस्ते, कूरियर वाले ने रिटर्न लेने से मना कर दिया। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_08
+HIN_0862,"कृपया मदद करें, कूरियर वाले ने रिटर्न लेने से मना कर दिया।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_08
+HIN_0863,"कृपया मदद करें, कूरियर वाले ने रिटर्न लेने से मना कर दिया। कृपया इसे जल्दी हल करें।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_08
+HIN_0864,"कृपया मदद करें, कूरियर वाले ने रिटर्न लेने से मना कर दिया। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_08
+HIN_0865,मुझे सहायता चाहिए क्योंकि कूरियर वाले ने रिटर्न लेने से मना कर दिया।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_08
+HIN_0866,मुझे सहायता चाहिए क्योंकि कूरियर वाले ने रिटर्न लेने से मना कर दिया। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_08
+HIN_0867,मुझे सहायता चाहिए क्योंकि कूरियर वाले ने रिटर्न लेने से मना कर दिया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_08
+HIN_0868,यह बहुत जरूरी है: कूरियर वाले ने रिटर्न लेने से मना कर दिया।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_08
+HIN_0869,यह बहुत जरूरी है: कूरियर वाले ने रिटर्न लेने से मना कर दिया। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_08
+HIN_0870,यह बहुत जरूरी है: कूरियर वाले ने रिटर्न लेने से मना कर दिया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_08
+HIN_0871,मुझे गलत रिप्लेसमेंट उत्पाद मिला।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_09
+HIN_0872,मुझे गलत रिप्लेसमेंट उत्पाद मिला। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_09
+HIN_0873,मुझे गलत रिप्लेसमेंट उत्पाद मिला। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_09
+HIN_0874,"नमस्ते, मुझे गलत रिप्लेसमेंट उत्पाद मिला।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_09
+HIN_0875,"नमस्ते, मुझे गलत रिप्लेसमेंट उत्पाद मिला। कृपया इसे जल्दी हल करें।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_09
+HIN_0876,"नमस्ते, मुझे गलत रिप्लेसमेंट उत्पाद मिला। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_09
+HIN_0877,"कृपया मदद करें, मुझे गलत रिप्लेसमेंट उत्पाद मिला।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_09
+HIN_0878,"कृपया मदद करें, मुझे गलत रिप्लेसमेंट उत्पाद मिला। कृपया इसे जल्दी हल करें।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_09
+HIN_0879,"कृपया मदद करें, मुझे गलत रिप्लेसमेंट उत्पाद मिला। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_09
+HIN_0880,मुझे सहायता चाहिए क्योंकि मुझे गलत रिप्लेसमेंट उत्पाद मिला।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_09
+HIN_0881,मुझे सहायता चाहिए क्योंकि मुझे गलत रिप्लेसमेंट उत्पाद मिला। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_09
+HIN_0882,मुझे सहायता चाहिए क्योंकि मुझे गलत रिप्लेसमेंट उत्पाद मिला। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_09
+HIN_0883,यह बहुत जरूरी है: मुझे गलत रिप्लेसमेंट उत्पाद मिला।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_09
+HIN_0884,यह बहुत जरूरी है: मुझे गलत रिप्लेसमेंट उत्पाद मिला। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_09
+HIN_0885,यह बहुत जरूरी है: मुझे गलत रिप्लेसमेंट उत्पाद मिला। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_09
+HIN_0886,मेरा रिटर्न अनुरोध बिना कारण रद्द कर दिया गया।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_10
+HIN_0887,मेरा रिटर्न अनुरोध बिना कारण रद्द कर दिया गया। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_10
+HIN_0888,मेरा रिटर्न अनुरोध बिना कारण रद्द कर दिया गया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_10
+HIN_0889,"नमस्ते, मेरा रिटर्न अनुरोध बिना कारण रद्द कर दिया गया।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_10
+HIN_0890,"नमस्ते, मेरा रिटर्न अनुरोध बिना कारण रद्द कर दिया गया। कृपया इसे जल्दी हल करें।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_10
+HIN_0891,"नमस्ते, मेरा रिटर्न अनुरोध बिना कारण रद्द कर दिया गया। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_10
+HIN_0892,"कृपया मदद करें, मेरा रिटर्न अनुरोध बिना कारण रद्द कर दिया गया।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_10
+HIN_0893,"कृपया मदद करें, मेरा रिटर्न अनुरोध बिना कारण रद्द कर दिया गया। कृपया इसे जल्दी हल करें।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_10
+HIN_0894,"कृपया मदद करें, मेरा रिटर्न अनुरोध बिना कारण रद्द कर दिया गया। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_10
+HIN_0895,मुझे सहायता चाहिए क्योंकि मेरा रिटर्न अनुरोध बिना कारण रद्द कर दिया गया।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_10
+HIN_0896,मुझे सहायता चाहिए क्योंकि मेरा रिटर्न अनुरोध बिना कारण रद्द कर दिया गया। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_10
+HIN_0897,मुझे सहायता चाहिए क्योंकि मेरा रिटर्न अनुरोध बिना कारण रद्द कर दिया गया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_10
+HIN_0898,यह बहुत जरूरी है: मेरा रिटर्न अनुरोध बिना कारण रद्द कर दिया गया।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_10
+HIN_0899,यह बहुत जरूरी है: मेरा रिटर्न अनुरोध बिना कारण रद्द कर दिया गया। कृपया इसे जल्दी हल करें।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_10
+HIN_0900,यह बहुत जरूरी है: मेरा रिटर्न अनुरोध बिना कारण रद्द कर दिया गया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Return/Replacement,Returns Team,Medium,Hindi_Return/Replacement_10
+HIN_0901,मैं अपने अकाउंट में लॉग इन नहीं कर पा रही हूँ।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_01
+HIN_0902,मैं अपने अकाउंट में लॉग इन नहीं कर पा रही हूँ। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_01
+HIN_0903,मैं अपने अकाउंट में लॉग इन नहीं कर पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_01
+HIN_0904,"नमस्ते, मैं अपने अकाउंट में लॉग इन नहीं कर पा रही हूँ।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_01
+HIN_0905,"नमस्ते, मैं अपने अकाउंट में लॉग इन नहीं कर पा रही हूँ। कृपया इसे जल्दी हल करें।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_01
+HIN_0906,"नमस्ते, मैं अपने अकाउंट में लॉग इन नहीं कर पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_01
+HIN_0907,"कृपया मदद करें, मैं अपने अकाउंट में लॉग इन नहीं कर पा रही हूँ।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_01
+HIN_0908,"कृपया मदद करें, मैं अपने अकाउंट में लॉग इन नहीं कर पा रही हूँ। कृपया इसे जल्दी हल करें।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_01
+HIN_0909,"कृपया मदद करें, मैं अपने अकाउंट में लॉग इन नहीं कर पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_01
+HIN_0910,मुझे सहायता चाहिए क्योंकि मैं अपने अकाउंट में लॉग इन नहीं कर पा रही हूँ।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_01
+HIN_0911,मुझे सहायता चाहिए क्योंकि मैं अपने अकाउंट में लॉग इन नहीं कर पा रही हूँ। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_01
+HIN_0912,मुझे सहायता चाहिए क्योंकि मैं अपने अकाउंट में लॉग इन नहीं कर पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_01
+HIN_0913,यह बहुत जरूरी है: मैं अपने अकाउंट में लॉग इन नहीं कर पा रही हूँ।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_01
+HIN_0914,यह बहुत जरूरी है: मैं अपने अकाउंट में लॉग इन नहीं कर पा रही हूँ। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_01
+HIN_0915,यह बहुत जरूरी है: मैं अपने अकाउंट में लॉग इन नहीं कर पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_01
+HIN_0916,मुझे लॉगिन ओटीपी नहीं मिल रहा है।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_02
+HIN_0917,मुझे लॉगिन ओटीपी नहीं मिल रहा है। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_02
+HIN_0918,मुझे लॉगिन ओटीपी नहीं मिल रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_02
+HIN_0919,"नमस्ते, मुझे लॉगिन ओटीपी नहीं मिल रहा है।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_02
+HIN_0920,"नमस्ते, मुझे लॉगिन ओटीपी नहीं मिल रहा है। कृपया इसे जल्दी हल करें।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_02
+HIN_0921,"नमस्ते, मुझे लॉगिन ओटीपी नहीं मिल रहा है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_02
+HIN_0922,"कृपया मदद करें, मुझे लॉगिन ओटीपी नहीं मिल रहा है।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_02
+HIN_0923,"कृपया मदद करें, मुझे लॉगिन ओटीपी नहीं मिल रहा है। कृपया इसे जल्दी हल करें।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_02
+HIN_0924,"कृपया मदद करें, मुझे लॉगिन ओटीपी नहीं मिल रहा है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_02
+HIN_0925,मुझे सहायता चाहिए क्योंकि मुझे लॉगिन ओटीपी नहीं मिल रहा है।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_02
+HIN_0926,मुझे सहायता चाहिए क्योंकि मुझे लॉगिन ओटीपी नहीं मिल रहा है। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_02
+HIN_0927,मुझे सहायता चाहिए क्योंकि मुझे लॉगिन ओटीपी नहीं मिल रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_02
+HIN_0928,यह बहुत जरूरी है: मुझे लॉगिन ओटीपी नहीं मिल रहा है।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_02
+HIN_0929,यह बहुत जरूरी है: मुझे लॉगिन ओटीपी नहीं मिल रहा है। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_02
+HIN_0930,यह बहुत जरूरी है: मुझे लॉगिन ओटीपी नहीं मिल रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_02
+HIN_0931,मेरा अकाउंट लॉक हो गया है।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_03
+HIN_0932,मेरा अकाउंट लॉक हो गया है। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_03
+HIN_0933,मेरा अकाउंट लॉक हो गया है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_03
+HIN_0934,"नमस्ते, मेरा अकाउंट लॉक हो गया है।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_03
+HIN_0935,"नमस्ते, मेरा अकाउंट लॉक हो गया है। कृपया इसे जल्दी हल करें।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_03
+HIN_0936,"नमस्ते, मेरा अकाउंट लॉक हो गया है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_03
+HIN_0937,"कृपया मदद करें, मेरा अकाउंट लॉक हो गया है।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_03
+HIN_0938,"कृपया मदद करें, मेरा अकाउंट लॉक हो गया है। कृपया इसे जल्दी हल करें।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_03
+HIN_0939,"कृपया मदद करें, मेरा अकाउंट लॉक हो गया है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_03
+HIN_0940,मुझे सहायता चाहिए क्योंकि मेरा अकाउंट लॉक हो गया है।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_03
+HIN_0941,मुझे सहायता चाहिए क्योंकि मेरा अकाउंट लॉक हो गया है। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_03
+HIN_0942,मुझे सहायता चाहिए क्योंकि मेरा अकाउंट लॉक हो गया है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_03
+HIN_0943,यह बहुत जरूरी है: मेरा अकाउंट लॉक हो गया है।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_03
+HIN_0944,यह बहुत जरूरी है: मेरा अकाउंट लॉक हो गया है। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_03
+HIN_0945,यह बहुत जरूरी है: मेरा अकाउंट लॉक हो गया है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_03
+HIN_0946,मैं अपना फोन नंबर अपडेट नहीं कर पा रही हूँ।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_04
+HIN_0947,मैं अपना फोन नंबर अपडेट नहीं कर पा रही हूँ। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_04
+HIN_0948,मैं अपना फोन नंबर अपडेट नहीं कर पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_04
+HIN_0949,"नमस्ते, मैं अपना फोन नंबर अपडेट नहीं कर पा रही हूँ।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_04
+HIN_0950,"नमस्ते, मैं अपना फोन नंबर अपडेट नहीं कर पा रही हूँ। कृपया इसे जल्दी हल करें।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_04
+HIN_0951,"नमस्ते, मैं अपना फोन नंबर अपडेट नहीं कर पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_04
+HIN_0952,"कृपया मदद करें, मैं अपना फोन नंबर अपडेट नहीं कर पा रही हूँ।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_04
+HIN_0953,"कृपया मदद करें, मैं अपना फोन नंबर अपडेट नहीं कर पा रही हूँ। कृपया इसे जल्दी हल करें।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_04
+HIN_0954,"कृपया मदद करें, मैं अपना फोन नंबर अपडेट नहीं कर पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_04
+HIN_0955,मुझे सहायता चाहिए क्योंकि मैं अपना फोन नंबर अपडेट नहीं कर पा रही हूँ।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_04
+HIN_0956,मुझे सहायता चाहिए क्योंकि मैं अपना फोन नंबर अपडेट नहीं कर पा रही हूँ। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_04
+HIN_0957,मुझे सहायता चाहिए क्योंकि मैं अपना फोन नंबर अपडेट नहीं कर पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_04
+HIN_0958,यह बहुत जरूरी है: मैं अपना फोन नंबर अपडेट नहीं कर पा रही हूँ।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_04
+HIN_0959,यह बहुत जरूरी है: मैं अपना फोन नंबर अपडेट नहीं कर पा रही हूँ। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_04
+HIN_0960,यह बहुत जरूरी है: मैं अपना फोन नंबर अपडेट नहीं कर पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_04
+HIN_0961,मेरा सेव किया हुआ पता गायब हो गया है।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_05
+HIN_0962,मेरा सेव किया हुआ पता गायब हो गया है। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_05
+HIN_0963,मेरा सेव किया हुआ पता गायब हो गया है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_05
+HIN_0964,"नमस्ते, मेरा सेव किया हुआ पता गायब हो गया है।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_05
+HIN_0965,"नमस्ते, मेरा सेव किया हुआ पता गायब हो गया है। कृपया इसे जल्दी हल करें।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_05
+HIN_0966,"नमस्ते, मेरा सेव किया हुआ पता गायब हो गया है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_05
+HIN_0967,"कृपया मदद करें, मेरा सेव किया हुआ पता गायब हो गया है।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_05
+HIN_0968,"कृपया मदद करें, मेरा सेव किया हुआ पता गायब हो गया है। कृपया इसे जल्दी हल करें।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_05
+HIN_0969,"कृपया मदद करें, मेरा सेव किया हुआ पता गायब हो गया है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_05
+HIN_0970,मुझे सहायता चाहिए क्योंकि मेरा सेव किया हुआ पता गायब हो गया है।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_05
+HIN_0971,मुझे सहायता चाहिए क्योंकि मेरा सेव किया हुआ पता गायब हो गया है। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_05
+HIN_0972,मुझे सहायता चाहिए क्योंकि मेरा सेव किया हुआ पता गायब हो गया है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_05
+HIN_0973,यह बहुत जरूरी है: मेरा सेव किया हुआ पता गायब हो गया है।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_05
+HIN_0974,यह बहुत जरूरी है: मेरा सेव किया हुआ पता गायब हो गया है। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_05
+HIN_0975,यह बहुत जरूरी है: मेरा सेव किया हुआ पता गायब हो गया है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_05
+HIN_0976,मैं अपना पासवर्ड रीसेट नहीं कर पा रही हूँ।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_06
+HIN_0977,मैं अपना पासवर्ड रीसेट नहीं कर पा रही हूँ। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_06
+HIN_0978,मैं अपना पासवर्ड रीसेट नहीं कर पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_06
+HIN_0979,"नमस्ते, मैं अपना पासवर्ड रीसेट नहीं कर पा रही हूँ।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_06
+HIN_0980,"नमस्ते, मैं अपना पासवर्ड रीसेट नहीं कर पा रही हूँ। कृपया इसे जल्दी हल करें।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_06
+HIN_0981,"नमस्ते, मैं अपना पासवर्ड रीसेट नहीं कर पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_06
+HIN_0982,"कृपया मदद करें, मैं अपना पासवर्ड रीसेट नहीं कर पा रही हूँ।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_06
+HIN_0983,"कृपया मदद करें, मैं अपना पासवर्ड रीसेट नहीं कर पा रही हूँ। कृपया इसे जल्दी हल करें।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_06
+HIN_0984,"कृपया मदद करें, मैं अपना पासवर्ड रीसेट नहीं कर पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_06
+HIN_0985,मुझे सहायता चाहिए क्योंकि मैं अपना पासवर्ड रीसेट नहीं कर पा रही हूँ।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_06
+HIN_0986,मुझे सहायता चाहिए क्योंकि मैं अपना पासवर्ड रीसेट नहीं कर पा रही हूँ। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_06
+HIN_0987,मुझे सहायता चाहिए क्योंकि मैं अपना पासवर्ड रीसेट नहीं कर पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_06
+HIN_0988,यह बहुत जरूरी है: मैं अपना पासवर्ड रीसेट नहीं कर पा रही हूँ।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_06
+HIN_0989,यह बहुत जरूरी है: मैं अपना पासवर्ड रीसेट नहीं कर पा रही हूँ। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_06
+HIN_0990,यह बहुत जरूरी है: मैं अपना पासवर्ड रीसेट नहीं कर पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_06
+HIN_0991,ऐप मुझे बार-बार लॉग आउट कर रहा है।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_07
+HIN_0992,ऐप मुझे बार-बार लॉग आउट कर रहा है। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_07
+HIN_0993,ऐप मुझे बार-बार लॉग आउट कर रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_07
+HIN_0994,"नमस्ते, ऐप मुझे बार-बार लॉग आउट कर रहा है।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_07
+HIN_0995,"नमस्ते, ऐप मुझे बार-बार लॉग आउट कर रहा है। कृपया इसे जल्दी हल करें।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_07
+HIN_0996,"नमस्ते, ऐप मुझे बार-बार लॉग आउट कर रहा है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_07
+HIN_0997,"कृपया मदद करें, ऐप मुझे बार-बार लॉग आउट कर रहा है।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_07
+HIN_0998,"कृपया मदद करें, ऐप मुझे बार-बार लॉग आउट कर रहा है। कृपया इसे जल्दी हल करें।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_07
+HIN_0999,"कृपया मदद करें, ऐप मुझे बार-बार लॉग आउट कर रहा है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_07
+HIN_1000,मुझे सहायता चाहिए क्योंकि ऐप मुझे बार-बार लॉग आउट कर रहा है।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_07
+HIN_1001,मुझे सहायता चाहिए क्योंकि ऐप मुझे बार-बार लॉग आउट कर रहा है। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_07
+HIN_1002,मुझे सहायता चाहिए क्योंकि ऐप मुझे बार-बार लॉग आउट कर रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_07
+HIN_1003,यह बहुत जरूरी है: ऐप मुझे बार-बार लॉग आउट कर रहा है।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_07
+HIN_1004,यह बहुत जरूरी है: ऐप मुझे बार-बार लॉग आउट कर रहा है। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_07
+HIN_1005,यह बहुत जरूरी है: ऐप मुझे बार-बार लॉग आउट कर रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_07
+HIN_1006,मैं अकाउंट से जुड़ा ईमेल नहीं बदल पा रही हूँ।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_08
+HIN_1007,मैं अकाउंट से जुड़ा ईमेल नहीं बदल पा रही हूँ। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_08
+HIN_1008,मैं अकाउंट से जुड़ा ईमेल नहीं बदल पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_08
+HIN_1009,"नमस्ते, मैं अकाउंट से जुड़ा ईमेल नहीं बदल पा रही हूँ।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_08
+HIN_1010,"नमस्ते, मैं अकाउंट से जुड़ा ईमेल नहीं बदल पा रही हूँ। कृपया इसे जल्दी हल करें।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_08
+HIN_1011,"नमस्ते, मैं अकाउंट से जुड़ा ईमेल नहीं बदल पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_08
+HIN_1012,"कृपया मदद करें, मैं अकाउंट से जुड़ा ईमेल नहीं बदल पा रही हूँ।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_08
+HIN_1013,"कृपया मदद करें, मैं अकाउंट से जुड़ा ईमेल नहीं बदल पा रही हूँ। कृपया इसे जल्दी हल करें।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_08
+HIN_1014,"कृपया मदद करें, मैं अकाउंट से जुड़ा ईमेल नहीं बदल पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_08
+HIN_1015,मुझे सहायता चाहिए क्योंकि मैं अकाउंट से जुड़ा ईमेल नहीं बदल पा रही हूँ।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_08
+HIN_1016,मुझे सहायता चाहिए क्योंकि मैं अकाउंट से जुड़ा ईमेल नहीं बदल पा रही हूँ। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_08
+HIN_1017,मुझे सहायता चाहिए क्योंकि मैं अकाउंट से जुड़ा ईमेल नहीं बदल पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_08
+HIN_1018,यह बहुत जरूरी है: मैं अकाउंट से जुड़ा ईमेल नहीं बदल पा रही हूँ।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_08
+HIN_1019,यह बहुत जरूरी है: मैं अकाउंट से जुड़ा ईमेल नहीं बदल पा रही हूँ। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_08
+HIN_1020,यह बहुत जरूरी है: मैं अकाउंट से जुड़ा ईमेल नहीं बदल पा रही हूँ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_08
+HIN_1021,मेरी ऑर्डर हिस्ट्री दिखाई नहीं दे रही है।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_09
+HIN_1022,मेरी ऑर्डर हिस्ट्री दिखाई नहीं दे रही है। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_09
+HIN_1023,मेरी ऑर्डर हिस्ट्री दिखाई नहीं दे रही है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_09
+HIN_1024,"नमस्ते, मेरी ऑर्डर हिस्ट्री दिखाई नहीं दे रही है।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_09
+HIN_1025,"नमस्ते, मेरी ऑर्डर हिस्ट्री दिखाई नहीं दे रही है। कृपया इसे जल्दी हल करें।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_09
+HIN_1026,"नमस्ते, मेरी ऑर्डर हिस्ट्री दिखाई नहीं दे रही है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_09
+HIN_1027,"कृपया मदद करें, मेरी ऑर्डर हिस्ट्री दिखाई नहीं दे रही है।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_09
+HIN_1028,"कृपया मदद करें, मेरी ऑर्डर हिस्ट्री दिखाई नहीं दे रही है। कृपया इसे जल्दी हल करें।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_09
+HIN_1029,"कृपया मदद करें, मेरी ऑर्डर हिस्ट्री दिखाई नहीं दे रही है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_09
+HIN_1030,मुझे सहायता चाहिए क्योंकि मेरी ऑर्डर हिस्ट्री दिखाई नहीं दे रही है।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_09
+HIN_1031,मुझे सहायता चाहिए क्योंकि मेरी ऑर्डर हिस्ट्री दिखाई नहीं दे रही है। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_09
+HIN_1032,मुझे सहायता चाहिए क्योंकि मेरी ऑर्डर हिस्ट्री दिखाई नहीं दे रही है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_09
+HIN_1033,यह बहुत जरूरी है: मेरी ऑर्डर हिस्ट्री दिखाई नहीं दे रही है।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_09
+HIN_1034,यह बहुत जरूरी है: मेरी ऑर्डर हिस्ट्री दिखाई नहीं दे रही है। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_09
+HIN_1035,यह बहुत जरूरी है: मेरी ऑर्डर हिस्ट्री दिखाई नहीं दे रही है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_09
+HIN_1036,एक ही नंबर से गलती से दो अकाउंट बन गए हैं।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_10
+HIN_1037,एक ही नंबर से गलती से दो अकाउंट बन गए हैं। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_10
+HIN_1038,एक ही नंबर से गलती से दो अकाउंट बन गए हैं। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_10
+HIN_1039,"नमस्ते, एक ही नंबर से गलती से दो अकाउंट बन गए हैं।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_10
+HIN_1040,"नमस्ते, एक ही नंबर से गलती से दो अकाउंट बन गए हैं। कृपया इसे जल्दी हल करें।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_10
+HIN_1041,"नमस्ते, एक ही नंबर से गलती से दो अकाउंट बन गए हैं। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_10
+HIN_1042,"कृपया मदद करें, एक ही नंबर से गलती से दो अकाउंट बन गए हैं।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_10
+HIN_1043,"कृपया मदद करें, एक ही नंबर से गलती से दो अकाउंट बन गए हैं। कृपया इसे जल्दी हल करें।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_10
+HIN_1044,"कृपया मदद करें, एक ही नंबर से गलती से दो अकाउंट बन गए हैं। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_10
+HIN_1045,मुझे सहायता चाहिए क्योंकि एक ही नंबर से गलती से दो अकाउंट बन गए हैं।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_10
+HIN_1046,मुझे सहायता चाहिए क्योंकि एक ही नंबर से गलती से दो अकाउंट बन गए हैं। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_10
+HIN_1047,मुझे सहायता चाहिए क्योंकि एक ही नंबर से गलती से दो अकाउंट बन गए हैं। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_10
+HIN_1048,यह बहुत जरूरी है: एक ही नंबर से गलती से दो अकाउंट बन गए हैं।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_10
+HIN_1049,यह बहुत जरूरी है: एक ही नंबर से गलती से दो अकाउंट बन गए हैं। कृपया इसे जल्दी हल करें।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_10
+HIN_1050,यह बहुत जरूरी है: एक ही नंबर से गलती से दो अकाउंट बन गए हैं। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Account Issue,Account Support,Medium,Hindi_Account Issue_10
+HIN_1051,मेरे अकाउंट में एक अनजान लेन-देन हुआ है।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_01
+HIN_1052,मेरे अकाउंट में एक अनजान लेन-देन हुआ है। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_01
+HIN_1053,मेरे अकाउंट में एक अनजान लेन-देन हुआ है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_01
+HIN_1054,"नमस्ते, मेरे अकाउंट में एक अनजान लेन-देन हुआ है।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_01
+HIN_1055,"नमस्ते, मेरे अकाउंट में एक अनजान लेन-देन हुआ है। कृपया इसे जल्दी हल करें।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_01
+HIN_1056,"नमस्ते, मेरे अकाउंट में एक अनजान लेन-देन हुआ है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_01
+HIN_1057,"कृपया मदद करें, मेरे अकाउंट में एक अनजान लेन-देन हुआ है।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_01
+HIN_1058,"कृपया मदद करें, मेरे अकाउंट में एक अनजान लेन-देन हुआ है। कृपया इसे जल्दी हल करें।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_01
+HIN_1059,"कृपया मदद करें, मेरे अकाउंट में एक अनजान लेन-देन हुआ है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_01
+HIN_1060,मुझे सहायता चाहिए क्योंकि मेरे अकाउंट में एक अनजान लेन-देन हुआ है।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_01
+HIN_1061,मुझे सहायता चाहिए क्योंकि मेरे अकाउंट में एक अनजान लेन-देन हुआ है। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_01
+HIN_1062,मुझे सहायता चाहिए क्योंकि मेरे अकाउंट में एक अनजान लेन-देन हुआ है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_01
+HIN_1063,यह बहुत जरूरी है: मेरे अकाउंट में एक अनजान लेन-देन हुआ है।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_01
+HIN_1064,यह बहुत जरूरी है: मेरे अकाउंट में एक अनजान लेन-देन हुआ है। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_01
+HIN_1065,यह बहुत जरूरी है: मेरे अकाउंट में एक अनजान लेन-देन हुआ है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_01
+HIN_1066,किसी ने मेरे अकाउंट से ऑर्डर किया है।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_02
+HIN_1067,किसी ने मेरे अकाउंट से ऑर्डर किया है। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_02
+HIN_1068,किसी ने मेरे अकाउंट से ऑर्डर किया है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_02
+HIN_1069,"नमस्ते, किसी ने मेरे अकाउंट से ऑर्डर किया है।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_02
+HIN_1070,"नमस्ते, किसी ने मेरे अकाउंट से ऑर्डर किया है। कृपया इसे जल्दी हल करें।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_02
+HIN_1071,"नमस्ते, किसी ने मेरे अकाउंट से ऑर्डर किया है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_02
+HIN_1072,"कृपया मदद करें, किसी ने मेरे अकाउंट से ऑर्डर किया है।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_02
+HIN_1073,"कृपया मदद करें, किसी ने मेरे अकाउंट से ऑर्डर किया है। कृपया इसे जल्दी हल करें।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_02
+HIN_1074,"कृपया मदद करें, किसी ने मेरे अकाउंट से ऑर्डर किया है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_02
+HIN_1075,मुझे सहायता चाहिए क्योंकि किसी ने मेरे अकाउंट से ऑर्डर किया है।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_02
+HIN_1076,मुझे सहायता चाहिए क्योंकि किसी ने मेरे अकाउंट से ऑर्डर किया है। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_02
+HIN_1077,मुझे सहायता चाहिए क्योंकि किसी ने मेरे अकाउंट से ऑर्डर किया है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_02
+HIN_1078,यह बहुत जरूरी है: किसी ने मेरे अकाउंट से ऑर्डर किया है।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_02
+HIN_1079,यह बहुत जरूरी है: किसी ने मेरे अकाउंट से ऑर्डर किया है। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_02
+HIN_1080,यह बहुत जरूरी है: किसी ने मेरे अकाउंट से ऑर्डर किया है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_02
+HIN_1081,मेरा अकाउंट हैक हो गया है।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_03
+HIN_1082,मेरा अकाउंट हैक हो गया है। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_03
+HIN_1083,मेरा अकाउंट हैक हो गया है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_03
+HIN_1084,"नमस्ते, मेरा अकाउंट हैक हो गया है।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_03
+HIN_1085,"नमस्ते, मेरा अकाउंट हैक हो गया है। कृपया इसे जल्दी हल करें।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_03
+HIN_1086,"नमस्ते, मेरा अकाउंट हैक हो गया है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_03
+HIN_1087,"कृपया मदद करें, मेरा अकाउंट हैक हो गया है।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_03
+HIN_1088,"कृपया मदद करें, मेरा अकाउंट हैक हो गया है। कृपया इसे जल्दी हल करें।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_03
+HIN_1089,"कृपया मदद करें, मेरा अकाउंट हैक हो गया है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_03
+HIN_1090,मुझे सहायता चाहिए क्योंकि मेरा अकाउंट हैक हो गया है।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_03
+HIN_1091,मुझे सहायता चाहिए क्योंकि मेरा अकाउंट हैक हो गया है। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_03
+HIN_1092,मुझे सहायता चाहिए क्योंकि मेरा अकाउंट हैक हो गया है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_03
+HIN_1093,यह बहुत जरूरी है: मेरा अकाउंट हैक हो गया है।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_03
+HIN_1094,यह बहुत जरूरी है: मेरा अकाउंट हैक हो गया है। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_03
+HIN_1095,यह बहुत जरूरी है: मेरा अकाउंट हैक हो गया है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_03
+HIN_1096,मुझे ऐसी खरीदारी का ओटीपी मिला जो मैंने नहीं की।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_04
+HIN_1097,मुझे ऐसी खरीदारी का ओटीपी मिला जो मैंने नहीं की। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_04
+HIN_1098,मुझे ऐसी खरीदारी का ओटीपी मिला जो मैंने नहीं की। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_04
+HIN_1099,"नमस्ते, मुझे ऐसी खरीदारी का ओटीपी मिला जो मैंने नहीं की।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_04
+HIN_1100,"नमस्ते, मुझे ऐसी खरीदारी का ओटीपी मिला जो मैंने नहीं की। कृपया इसे जल्दी हल करें।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_04
+HIN_1101,"नमस्ते, मुझे ऐसी खरीदारी का ओटीपी मिला जो मैंने नहीं की। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_04
+HIN_1102,"कृपया मदद करें, मुझे ऐसी खरीदारी का ओटीपी मिला जो मैंने नहीं की।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_04
+HIN_1103,"कृपया मदद करें, मुझे ऐसी खरीदारी का ओटीपी मिला जो मैंने नहीं की। कृपया इसे जल्दी हल करें।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_04
+HIN_1104,"कृपया मदद करें, मुझे ऐसी खरीदारी का ओटीपी मिला जो मैंने नहीं की। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_04
+HIN_1105,मुझे सहायता चाहिए क्योंकि मुझे ऐसी खरीदारी का ओटीपी मिला जो मैंने नहीं की।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_04
+HIN_1106,मुझे सहायता चाहिए क्योंकि मुझे ऐसी खरीदारी का ओटीपी मिला जो मैंने नहीं की। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_04
+HIN_1107,मुझे सहायता चाहिए क्योंकि मुझे ऐसी खरीदारी का ओटीपी मिला जो मैंने नहीं की। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_04
+HIN_1108,यह बहुत जरूरी है: मुझे ऐसी खरीदारी का ओटीपी मिला जो मैंने नहीं की।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_04
+HIN_1109,यह बहुत जरूरी है: मुझे ऐसी खरीदारी का ओटीपी मिला जो मैंने नहीं की। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_04
+HIN_1110,यह बहुत जरूरी है: मुझे ऐसी खरीदारी का ओटीपी मिला जो मैंने नहीं की। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_04
+HIN_1111,मेरे सेव किए हुए कार्ड का बिना अनुमति उपयोग हुआ।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_05
+HIN_1112,मेरे सेव किए हुए कार्ड का बिना अनुमति उपयोग हुआ। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_05
+HIN_1113,मेरे सेव किए हुए कार्ड का बिना अनुमति उपयोग हुआ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_05
+HIN_1114,"नमस्ते, मेरे सेव किए हुए कार्ड का बिना अनुमति उपयोग हुआ।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_05
+HIN_1115,"नमस्ते, मेरे सेव किए हुए कार्ड का बिना अनुमति उपयोग हुआ। कृपया इसे जल्दी हल करें।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_05
+HIN_1116,"नमस्ते, मेरे सेव किए हुए कार्ड का बिना अनुमति उपयोग हुआ। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_05
+HIN_1117,"कृपया मदद करें, मेरे सेव किए हुए कार्ड का बिना अनुमति उपयोग हुआ।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_05
+HIN_1118,"कृपया मदद करें, मेरे सेव किए हुए कार्ड का बिना अनुमति उपयोग हुआ। कृपया इसे जल्दी हल करें।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_05
+HIN_1119,"कृपया मदद करें, मेरे सेव किए हुए कार्ड का बिना अनुमति उपयोग हुआ। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_05
+HIN_1120,मुझे सहायता चाहिए क्योंकि मेरे सेव किए हुए कार्ड का बिना अनुमति उपयोग हुआ।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_05
+HIN_1121,मुझे सहायता चाहिए क्योंकि मेरे सेव किए हुए कार्ड का बिना अनुमति उपयोग हुआ। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_05
+HIN_1122,मुझे सहायता चाहिए क्योंकि मेरे सेव किए हुए कार्ड का बिना अनुमति उपयोग हुआ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_05
+HIN_1123,यह बहुत जरूरी है: मेरे सेव किए हुए कार्ड का बिना अनुमति उपयोग हुआ।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_05
+HIN_1124,यह बहुत जरूरी है: मेरे सेव किए हुए कार्ड का बिना अनुमति उपयोग हुआ। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_05
+HIN_1125,यह बहुत जरूरी है: मेरे सेव किए हुए कार्ड का बिना अनुमति उपयोग हुआ। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_05
+HIN_1126,किसी ने मेरे अकाउंट का पासवर्ड बदल दिया।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_06
+HIN_1127,किसी ने मेरे अकाउंट का पासवर्ड बदल दिया। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_06
+HIN_1128,किसी ने मेरे अकाउंट का पासवर्ड बदल दिया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_06
+HIN_1129,"नमस्ते, किसी ने मेरे अकाउंट का पासवर्ड बदल दिया।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_06
+HIN_1130,"नमस्ते, किसी ने मेरे अकाउंट का पासवर्ड बदल दिया। कृपया इसे जल्दी हल करें।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_06
+HIN_1131,"नमस्ते, किसी ने मेरे अकाउंट का पासवर्ड बदल दिया। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_06
+HIN_1132,"कृपया मदद करें, किसी ने मेरे अकाउंट का पासवर्ड बदल दिया।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_06
+HIN_1133,"कृपया मदद करें, किसी ने मेरे अकाउंट का पासवर्ड बदल दिया। कृपया इसे जल्दी हल करें।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_06
+HIN_1134,"कृपया मदद करें, किसी ने मेरे अकाउंट का पासवर्ड बदल दिया। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_06
+HIN_1135,मुझे सहायता चाहिए क्योंकि किसी ने मेरे अकाउंट का पासवर्ड बदल दिया।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_06
+HIN_1136,मुझे सहायता चाहिए क्योंकि किसी ने मेरे अकाउंट का पासवर्ड बदल दिया। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_06
+HIN_1137,मुझे सहायता चाहिए क्योंकि किसी ने मेरे अकाउंट का पासवर्ड बदल दिया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_06
+HIN_1138,यह बहुत जरूरी है: किसी ने मेरे अकाउंट का पासवर्ड बदल दिया।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_06
+HIN_1139,यह बहुत जरूरी है: किसी ने मेरे अकाउंट का पासवर्ड बदल दिया। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_06
+HIN_1140,यह बहुत जरूरी है: किसी ने मेरे अकाउंट का पासवर्ड बदल दिया। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_06
+HIN_1141,मेरे अकाउंट में एक अनजान डिलीवरी पता दिखाई दे रहा है।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_07
+HIN_1142,मेरे अकाउंट में एक अनजान डिलीवरी पता दिखाई दे रहा है। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_07
+HIN_1143,मेरे अकाउंट में एक अनजान डिलीवरी पता दिखाई दे रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_07
+HIN_1144,"नमस्ते, मेरे अकाउंट में एक अनजान डिलीवरी पता दिखाई दे रहा है।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_07
+HIN_1145,"नमस्ते, मेरे अकाउंट में एक अनजान डिलीवरी पता दिखाई दे रहा है। कृपया इसे जल्दी हल करें।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_07
+HIN_1146,"नमस्ते, मेरे अकाउंट में एक अनजान डिलीवरी पता दिखाई दे रहा है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_07
+HIN_1147,"कृपया मदद करें, मेरे अकाउंट में एक अनजान डिलीवरी पता दिखाई दे रहा है।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_07
+HIN_1148,"कृपया मदद करें, मेरे अकाउंट में एक अनजान डिलीवरी पता दिखाई दे रहा है। कृपया इसे जल्दी हल करें।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_07
+HIN_1149,"कृपया मदद करें, मेरे अकाउंट में एक अनजान डिलीवरी पता दिखाई दे रहा है। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_07
+HIN_1150,मुझे सहायता चाहिए क्योंकि मेरे अकाउंट में एक अनजान डिलीवरी पता दिखाई दे रहा है।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_07
+HIN_1151,मुझे सहायता चाहिए क्योंकि मेरे अकाउंट में एक अनजान डिलीवरी पता दिखाई दे रहा है। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_07
+HIN_1152,मुझे सहायता चाहिए क्योंकि मेरे अकाउंट में एक अनजान डिलीवरी पता दिखाई दे रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_07
+HIN_1153,यह बहुत जरूरी है: मेरे अकाउंट में एक अनजान डिलीवरी पता दिखाई दे रहा है।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_07
+HIN_1154,यह बहुत जरूरी है: मेरे अकाउंट में एक अनजान डिलीवरी पता दिखाई दे रहा है। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_07
+HIN_1155,यह बहुत जरूरी है: मेरे अकाउंट में एक अनजान डिलीवरी पता दिखाई दे रहा है। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_07
+HIN_1156,मुझे पेमेंट मांगने वाला संदिग्ध संदेश मिला।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_08
+HIN_1157,मुझे पेमेंट मांगने वाला संदिग्ध संदेश मिला। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_08
+HIN_1158,मुझे पेमेंट मांगने वाला संदिग्ध संदेश मिला। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_08
+HIN_1159,"नमस्ते, मुझे पेमेंट मांगने वाला संदिग्ध संदेश मिला।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_08
+HIN_1160,"नमस्ते, मुझे पेमेंट मांगने वाला संदिग्ध संदेश मिला। कृपया इसे जल्दी हल करें।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_08
+HIN_1161,"नमस्ते, मुझे पेमेंट मांगने वाला संदिग्ध संदेश मिला। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_08
+HIN_1162,"कृपया मदद करें, मुझे पेमेंट मांगने वाला संदिग्ध संदेश मिला।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_08
+HIN_1163,"कृपया मदद करें, मुझे पेमेंट मांगने वाला संदिग्ध संदेश मिला। कृपया इसे जल्दी हल करें।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_08
+HIN_1164,"कृपया मदद करें, मुझे पेमेंट मांगने वाला संदिग्ध संदेश मिला। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_08
+HIN_1165,मुझे सहायता चाहिए क्योंकि मुझे पेमेंट मांगने वाला संदिग्ध संदेश मिला।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_08
+HIN_1166,मुझे सहायता चाहिए क्योंकि मुझे पेमेंट मांगने वाला संदिग्ध संदेश मिला। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_08
+HIN_1167,मुझे सहायता चाहिए क्योंकि मुझे पेमेंट मांगने वाला संदिग्ध संदेश मिला। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_08
+HIN_1168,यह बहुत जरूरी है: मुझे पेमेंट मांगने वाला संदिग्ध संदेश मिला।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_08
+HIN_1169,यह बहुत जरूरी है: मुझे पेमेंट मांगने वाला संदिग्ध संदेश मिला। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_08
+HIN_1170,यह बहुत जरूरी है: मुझे पेमेंट मांगने वाला संदिग्ध संदेश मिला। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_08
+HIN_1171,नकली कस्टमर केयर एजेंट ने बैंक की जानकारी मांगी।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_09
+HIN_1172,नकली कस्टमर केयर एजेंट ने बैंक की जानकारी मांगी। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_09
+HIN_1173,नकली कस्टमर केयर एजेंट ने बैंक की जानकारी मांगी। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_09
+HIN_1174,"नमस्ते, नकली कस्टमर केयर एजेंट ने बैंक की जानकारी मांगी।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_09
+HIN_1175,"नमस्ते, नकली कस्टमर केयर एजेंट ने बैंक की जानकारी मांगी। कृपया इसे जल्दी हल करें।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_09
+HIN_1176,"नमस्ते, नकली कस्टमर केयर एजेंट ने बैंक की जानकारी मांगी। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_09
+HIN_1177,"कृपया मदद करें, नकली कस्टमर केयर एजेंट ने बैंक की जानकारी मांगी।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_09
+HIN_1178,"कृपया मदद करें, नकली कस्टमर केयर एजेंट ने बैंक की जानकारी मांगी। कृपया इसे जल्दी हल करें।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_09
+HIN_1179,"कृपया मदद करें, नकली कस्टमर केयर एजेंट ने बैंक की जानकारी मांगी। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_09
+HIN_1180,मुझे सहायता चाहिए क्योंकि नकली कस्टमर केयर एजेंट ने बैंक की जानकारी मांगी।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_09
+HIN_1181,मुझे सहायता चाहिए क्योंकि नकली कस्टमर केयर एजेंट ने बैंक की जानकारी मांगी। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_09
+HIN_1182,मुझे सहायता चाहिए क्योंकि नकली कस्टमर केयर एजेंट ने बैंक की जानकारी मांगी। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_09
+HIN_1183,यह बहुत जरूरी है: नकली कस्टमर केयर एजेंट ने बैंक की जानकारी मांगी।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_09
+HIN_1184,यह बहुत जरूरी है: नकली कस्टमर केयर एजेंट ने बैंक की जानकारी मांगी। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_09
+HIN_1185,यह बहुत जरूरी है: नकली कस्टमर केयर एजेंट ने बैंक की जानकारी मांगी। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_09
+HIN_1186,मेरे अकाउंट से कई अनधिकृत खरीदारी हुई हैं।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_10
+HIN_1187,मेरे अकाउंट से कई अनधिकृत खरीदारी हुई हैं। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_10
+HIN_1188,मेरे अकाउंट से कई अनधिकृत खरीदारी हुई हैं। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_10
+HIN_1189,"नमस्ते, मेरे अकाउंट से कई अनधिकृत खरीदारी हुई हैं।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_10
+HIN_1190,"नमस्ते, मेरे अकाउंट से कई अनधिकृत खरीदारी हुई हैं। कृपया इसे जल्दी हल करें।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_10
+HIN_1191,"नमस्ते, मेरे अकाउंट से कई अनधिकृत खरीदारी हुई हैं। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_10
+HIN_1192,"कृपया मदद करें, मेरे अकाउंट से कई अनधिकृत खरीदारी हुई हैं।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_10
+HIN_1193,"कृपया मदद करें, मेरे अकाउंट से कई अनधिकृत खरीदारी हुई हैं। कृपया इसे जल्दी हल करें।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_10
+HIN_1194,"कृपया मदद करें, मेरे अकाउंट से कई अनधिकृत खरीदारी हुई हैं। मुझे जल्द से जल्द जानकारी चाहिए।",Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_10
+HIN_1195,मुझे सहायता चाहिए क्योंकि मेरे अकाउंट से कई अनधिकृत खरीदारी हुई हैं।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_10
+HIN_1196,मुझे सहायता चाहिए क्योंकि मेरे अकाउंट से कई अनधिकृत खरीदारी हुई हैं। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_10
+HIN_1197,मुझे सहायता चाहिए क्योंकि मेरे अकाउंट से कई अनधिकृत खरीदारी हुई हैं। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_10
+HIN_1198,यह बहुत जरूरी है: मेरे अकाउंट से कई अनधिकृत खरीदारी हुई हैं।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_10
+HIN_1199,यह बहुत जरूरी है: मेरे अकाउंट से कई अनधिकृत खरीदारी हुई हैं। कृपया इसे जल्दी हल करें।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_10
+HIN_1200,यह बहुत जरूरी है: मेरे अकाउंट से कई अनधिकृत खरीदारी हुई हैं। मुझे जल्द से जल्द जानकारी चाहिए।,Hindi,Fraud/Security,Security Team,Critical,Hindi_Fraud/Security_10

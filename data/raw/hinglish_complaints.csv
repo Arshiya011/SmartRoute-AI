@@ -1,0 +1,1201 @@
+﻿complaint_id,text,language,category,department,priority,template_group
+HGL_0001,Payment deduct ho gaya but order confirm nahi hua.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_01
+HGL_0002,Payment deduct ho gaya but order confirm nahi hua. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_01
+HGL_0003,Payment deduct ho gaya but order confirm nahi hua. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_01
+HGL_0004,"Hello, payment deduct ho gaya but order confirm nahi hua.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_01
+HGL_0005,"Hello, payment deduct ho gaya but order confirm nahi hua. Please jaldi resolve karo.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_01
+HGL_0006,"Hello, payment deduct ho gaya but order confirm nahi hua. Mujhe jaldi update chahiye.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_01
+HGL_0007,"Please help, payment deduct ho gaya but order confirm nahi hua.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_01
+HGL_0008,"Please help, payment deduct ho gaya but order confirm nahi hua. Please jaldi resolve karo.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_01
+HGL_0009,"Please help, payment deduct ho gaya but order confirm nahi hua. Mujhe jaldi update chahiye.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_01
+HGL_0010,Mujhe help chahiye kyunki payment deduct ho gaya but order confirm nahi hua.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_01
+HGL_0011,Mujhe help chahiye kyunki payment deduct ho gaya but order confirm nahi hua. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_01
+HGL_0012,Mujhe help chahiye kyunki payment deduct ho gaya but order confirm nahi hua. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_01
+HGL_0013,Ye urgent hai: payment deduct ho gaya but order confirm nahi hua.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_01
+HGL_0014,Ye urgent hai: payment deduct ho gaya but order confirm nahi hua. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_01
+HGL_0015,Ye urgent hai: payment deduct ho gaya but order confirm nahi hua. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_01
+HGL_0016,Same order ke liye do baar paise cut gaye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_02
+HGL_0017,Same order ke liye do baar paise cut gaye. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_02
+HGL_0018,Same order ke liye do baar paise cut gaye. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_02
+HGL_0019,"Hello, same order ke liye do baar paise cut gaye.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_02
+HGL_0020,"Hello, same order ke liye do baar paise cut gaye. Please jaldi resolve karo.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_02
+HGL_0021,"Hello, same order ke liye do baar paise cut gaye. Mujhe jaldi update chahiye.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_02
+HGL_0022,"Please help, same order ke liye do baar paise cut gaye.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_02
+HGL_0023,"Please help, same order ke liye do baar paise cut gaye. Please jaldi resolve karo.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_02
+HGL_0024,"Please help, same order ke liye do baar paise cut gaye. Mujhe jaldi update chahiye.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_02
+HGL_0025,Mujhe help chahiye kyunki same order ke liye do baar paise cut gaye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_02
+HGL_0026,Mujhe help chahiye kyunki same order ke liye do baar paise cut gaye. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_02
+HGL_0027,Mujhe help chahiye kyunki same order ke liye do baar paise cut gaye. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_02
+HGL_0028,Ye urgent hai: same order ke liye do baar paise cut gaye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_02
+HGL_0029,Ye urgent hai: same order ke liye do baar paise cut gaye. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_02
+HGL_0030,Ye urgent hai: same order ke liye do baar paise cut gaye. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_02
+HGL_0031,Payment fail hua but account se money deduct ho gayi.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_03
+HGL_0032,Payment fail hua but account se money deduct ho gayi. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_03
+HGL_0033,Payment fail hua but account se money deduct ho gayi. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_03
+HGL_0034,"Hello, payment fail hua but account se money deduct ho gayi.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_03
+HGL_0035,"Hello, payment fail hua but account se money deduct ho gayi. Please jaldi resolve karo.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_03
+HGL_0036,"Hello, payment fail hua but account se money deduct ho gayi. Mujhe jaldi update chahiye.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_03
+HGL_0037,"Please help, payment fail hua but account se money deduct ho gayi.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_03
+HGL_0038,"Please help, payment fail hua but account se money deduct ho gayi. Please jaldi resolve karo.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_03
+HGL_0039,"Please help, payment fail hua but account se money deduct ho gayi. Mujhe jaldi update chahiye.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_03
+HGL_0040,Mujhe help chahiye kyunki payment fail hua but account se money deduct ho gayi.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_03
+HGL_0041,Mujhe help chahiye kyunki payment fail hua but account se money deduct ho gayi. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_03
+HGL_0042,Mujhe help chahiye kyunki payment fail hua but account se money deduct ho gayi. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_03
+HGL_0043,Ye urgent hai: payment fail hua but account se money deduct ho gayi.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_03
+HGL_0044,Ye urgent hai: payment fail hua but account se money deduct ho gayi. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_03
+HGL_0045,Ye urgent hai: payment fail hua but account se money deduct ho gayi. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_03
+HGL_0046,Mera card payment processing mein stuck hai.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_04
+HGL_0047,Mera card payment processing mein stuck hai. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_04
+HGL_0048,Mera card payment processing mein stuck hai. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_04
+HGL_0049,"Hello, mera card payment processing mein stuck hai.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_04
+HGL_0050,"Hello, mera card payment processing mein stuck hai. Please jaldi resolve karo.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_04
+HGL_0051,"Hello, mera card payment processing mein stuck hai. Mujhe jaldi update chahiye.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_04
+HGL_0052,"Please help, mera card payment processing mein stuck hai.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_04
+HGL_0053,"Please help, mera card payment processing mein stuck hai. Please jaldi resolve karo.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_04
+HGL_0054,"Please help, mera card payment processing mein stuck hai. Mujhe jaldi update chahiye.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_04
+HGL_0055,Mujhe help chahiye kyunki mera card payment processing mein stuck hai.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_04
+HGL_0056,Mujhe help chahiye kyunki mera card payment processing mein stuck hai. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_04
+HGL_0057,Mujhe help chahiye kyunki mera card payment processing mein stuck hai. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_04
+HGL_0058,Ye urgent hai: mera card payment processing mein stuck hai.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_04
+HGL_0059,Ye urgent hai: mera card payment processing mein stuck hai. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_04
+HGL_0060,Ye urgent hai: mera card payment processing mein stuck hai. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_04
+HGL_0061,Checkout fail hua phir bhi amount debit ho gaya.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_05
+HGL_0062,Checkout fail hua phir bhi amount debit ho gaya. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_05
+HGL_0063,Checkout fail hua phir bhi amount debit ho gaya. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_05
+HGL_0064,"Hello, checkout fail hua phir bhi amount debit ho gaya.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_05
+HGL_0065,"Hello, checkout fail hua phir bhi amount debit ho gaya. Please jaldi resolve karo.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_05
+HGL_0066,"Hello, checkout fail hua phir bhi amount debit ho gaya. Mujhe jaldi update chahiye.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_05
+HGL_0067,"Please help, checkout fail hua phir bhi amount debit ho gaya.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_05
+HGL_0068,"Please help, checkout fail hua phir bhi amount debit ho gaya. Please jaldi resolve karo.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_05
+HGL_0069,"Please help, checkout fail hua phir bhi amount debit ho gaya. Mujhe jaldi update chahiye.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_05
+HGL_0070,Mujhe help chahiye kyunki checkout fail hua phir bhi amount debit ho gaya.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_05
+HGL_0071,Mujhe help chahiye kyunki checkout fail hua phir bhi amount debit ho gaya. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_05
+HGL_0072,Mujhe help chahiye kyunki checkout fail hua phir bhi amount debit ho gaya. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_05
+HGL_0073,Ye urgent hai: checkout fail hua phir bhi amount debit ho gaya.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_05
+HGL_0074,Ye urgent hai: checkout fail hua phir bhi amount debit ho gaya. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_05
+HGL_0075,Ye urgent hai: checkout fail hua phir bhi amount debit ho gaya. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_05
+HGL_0076,UPI payment successful tha but order place nahi hua.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_06
+HGL_0077,UPI payment successful tha but order place nahi hua. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_06
+HGL_0078,UPI payment successful tha but order place nahi hua. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_06
+HGL_0079,"Hello, UPI payment successful tha but order place nahi hua.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_06
+HGL_0080,"Hello, UPI payment successful tha but order place nahi hua. Please jaldi resolve karo.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_06
+HGL_0081,"Hello, UPI payment successful tha but order place nahi hua. Mujhe jaldi update chahiye.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_06
+HGL_0082,"Please help, UPI payment successful tha but order place nahi hua.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_06
+HGL_0083,"Please help, UPI payment successful tha but order place nahi hua. Please jaldi resolve karo.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_06
+HGL_0084,"Please help, UPI payment successful tha but order place nahi hua. Mujhe jaldi update chahiye.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_06
+HGL_0085,Mujhe help chahiye kyunki UPI payment successful tha but order place nahi hua.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_06
+HGL_0086,Mujhe help chahiye kyunki UPI payment successful tha but order place nahi hua. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_06
+HGL_0087,Mujhe help chahiye kyunki UPI payment successful tha but order place nahi hua. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_06
+HGL_0088,Ye urgent hai: UPI payment successful tha but order place nahi hua.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_06
+HGL_0089,Ye urgent hai: UPI payment successful tha but order place nahi hua. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_06
+HGL_0090,Ye urgent hai: UPI payment successful tha but order place nahi hua. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_06
+HGL_0091,Payment karne ke baad bhi order pending dikha raha hai.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_07
+HGL_0092,Payment karne ke baad bhi order pending dikha raha hai. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_07
+HGL_0093,Payment karne ke baad bhi order pending dikha raha hai. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_07
+HGL_0094,"Hello, payment karne ke baad bhi order pending dikha raha hai.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_07
+HGL_0095,"Hello, payment karne ke baad bhi order pending dikha raha hai. Please jaldi resolve karo.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_07
+HGL_0096,"Hello, payment karne ke baad bhi order pending dikha raha hai. Mujhe jaldi update chahiye.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_07
+HGL_0097,"Please help, payment karne ke baad bhi order pending dikha raha hai.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_07
+HGL_0098,"Please help, payment karne ke baad bhi order pending dikha raha hai. Please jaldi resolve karo.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_07
+HGL_0099,"Please help, payment karne ke baad bhi order pending dikha raha hai. Mujhe jaldi update chahiye.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_07
+HGL_0100,Mujhe help chahiye kyunki payment karne ke baad bhi order pending dikha raha hai.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_07
+HGL_0101,Mujhe help chahiye kyunki payment karne ke baad bhi order pending dikha raha hai. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_07
+HGL_0102,Mujhe help chahiye kyunki payment karne ke baad bhi order pending dikha raha hai. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_07
+HGL_0103,Ye urgent hai: payment karne ke baad bhi order pending dikha raha hai.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_07
+HGL_0104,Ye urgent hai: payment karne ke baad bhi order pending dikha raha hai. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_07
+HGL_0105,Ye urgent hai: payment karne ke baad bhi order pending dikha raha hai. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_07
+HGL_0106,Main apne order ka payment complete nahi kar pa rahi hoon.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_08
+HGL_0107,Main apne order ka payment complete nahi kar pa rahi hoon. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_08
+HGL_0108,Main apne order ka payment complete nahi kar pa rahi hoon. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_08
+HGL_0109,"Hello, main apne order ka payment complete nahi kar pa rahi hoon.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_08
+HGL_0110,"Hello, main apne order ka payment complete nahi kar pa rahi hoon. Please jaldi resolve karo.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_08
+HGL_0111,"Hello, main apne order ka payment complete nahi kar pa rahi hoon. Mujhe jaldi update chahiye.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_08
+HGL_0112,"Please help, main apne order ka payment complete nahi kar pa rahi hoon.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_08
+HGL_0113,"Please help, main apne order ka payment complete nahi kar pa rahi hoon. Please jaldi resolve karo.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_08
+HGL_0114,"Please help, main apne order ka payment complete nahi kar pa rahi hoon. Mujhe jaldi update chahiye.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_08
+HGL_0115,Mujhe help chahiye kyunki main apne order ka payment complete nahi kar pa rahi hoon.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_08
+HGL_0116,Mujhe help chahiye kyunki main apne order ka payment complete nahi kar pa rahi hoon. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_08
+HGL_0117,Mujhe help chahiye kyunki main apne order ka payment complete nahi kar pa rahi hoon. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_08
+HGL_0118,Ye urgent hai: main apne order ka payment complete nahi kar pa rahi hoon.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_08
+HGL_0119,Ye urgent hai: main apne order ka payment complete nahi kar pa rahi hoon. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_08
+HGL_0120,Ye urgent hai: main apne order ka payment complete nahi kar pa rahi hoon. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_08
+HGL_0121,Checkout ke time payment page baar baar fail ho raha hai.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_09
+HGL_0122,Checkout ke time payment page baar baar fail ho raha hai. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_09
+HGL_0123,Checkout ke time payment page baar baar fail ho raha hai. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_09
+HGL_0124,"Hello, checkout ke time payment page baar baar fail ho raha hai.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_09
+HGL_0125,"Hello, checkout ke time payment page baar baar fail ho raha hai. Please jaldi resolve karo.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_09
+HGL_0126,"Hello, checkout ke time payment page baar baar fail ho raha hai. Mujhe jaldi update chahiye.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_09
+HGL_0127,"Please help, checkout ke time payment page baar baar fail ho raha hai.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_09
+HGL_0128,"Please help, checkout ke time payment page baar baar fail ho raha hai. Please jaldi resolve karo.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_09
+HGL_0129,"Please help, checkout ke time payment page baar baar fail ho raha hai. Mujhe jaldi update chahiye.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_09
+HGL_0130,Mujhe help chahiye kyunki checkout ke time payment page baar baar fail ho raha hai.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_09
+HGL_0131,Mujhe help chahiye kyunki checkout ke time payment page baar baar fail ho raha hai. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_09
+HGL_0132,Mujhe help chahiye kyunki checkout ke time payment page baar baar fail ho raha hai. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_09
+HGL_0133,Ye urgent hai: checkout ke time payment page baar baar fail ho raha hai.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_09
+HGL_0134,Ye urgent hai: checkout ke time payment page baar baar fail ho raha hai. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_09
+HGL_0135,Ye urgent hai: checkout ke time payment page baar baar fail ho raha hai. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_09
+HGL_0136,Mere order ke liye wrong amount charge hua hai.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_10
+HGL_0137,Mere order ke liye wrong amount charge hua hai. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_10
+HGL_0138,Mere order ke liye wrong amount charge hua hai. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_10
+HGL_0139,"Hello, mere order ke liye wrong amount charge hua hai.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_10
+HGL_0140,"Hello, mere order ke liye wrong amount charge hua hai. Please jaldi resolve karo.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_10
+HGL_0141,"Hello, mere order ke liye wrong amount charge hua hai. Mujhe jaldi update chahiye.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_10
+HGL_0142,"Please help, mere order ke liye wrong amount charge hua hai.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_10
+HGL_0143,"Please help, mere order ke liye wrong amount charge hua hai. Please jaldi resolve karo.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_10
+HGL_0144,"Please help, mere order ke liye wrong amount charge hua hai. Mujhe jaldi update chahiye.",Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_10
+HGL_0145,Mujhe help chahiye kyunki mere order ke liye wrong amount charge hua hai.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_10
+HGL_0146,Mujhe help chahiye kyunki mere order ke liye wrong amount charge hua hai. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_10
+HGL_0147,Mujhe help chahiye kyunki mere order ke liye wrong amount charge hua hai. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_10
+HGL_0148,Ye urgent hai: mere order ke liye wrong amount charge hua hai.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_10
+HGL_0149,Ye urgent hai: mere order ke liye wrong amount charge hua hai. Please jaldi resolve karo.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_10
+HGL_0150,Ye urgent hai: mere order ke liye wrong amount charge hua hai. Mujhe jaldi update chahiye.,Hinglish,Payment Issue,Payments Team,High,Hinglish_Payment Issue_10
+HGL_0151,Mera order abhi tak deliver nahi hua.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_01
+HGL_0152,Mera order abhi tak deliver nahi hua. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_01
+HGL_0153,Mera order abhi tak deliver nahi hua. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_01
+HGL_0154,"Hello, mera order abhi tak deliver nahi hua.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_01
+HGL_0155,"Hello, mera order abhi tak deliver nahi hua. Please jaldi resolve karo.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_01
+HGL_0156,"Hello, mera order abhi tak deliver nahi hua. Mujhe jaldi update chahiye.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_01
+HGL_0157,"Please help, mera order abhi tak deliver nahi hua.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_01
+HGL_0158,"Please help, mera order abhi tak deliver nahi hua. Please jaldi resolve karo.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_01
+HGL_0159,"Please help, mera order abhi tak deliver nahi hua. Mujhe jaldi update chahiye.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_01
+HGL_0160,Mujhe help chahiye kyunki mera order abhi tak deliver nahi hua.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_01
+HGL_0161,Mujhe help chahiye kyunki mera order abhi tak deliver nahi hua. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_01
+HGL_0162,Mujhe help chahiye kyunki mera order abhi tak deliver nahi hua. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_01
+HGL_0163,Ye urgent hai: mera order abhi tak deliver nahi hua.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_01
+HGL_0164,Ye urgent hai: mera order abhi tak deliver nahi hua. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_01
+HGL_0165,Ye urgent hai: mera order abhi tak deliver nahi hua. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_01
+HGL_0166,Promised date ke baad bhi package nahi aaya.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_02
+HGL_0167,Promised date ke baad bhi package nahi aaya. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_02
+HGL_0168,Promised date ke baad bhi package nahi aaya. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_02
+HGL_0169,"Hello, promised date ke baad bhi package nahi aaya.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_02
+HGL_0170,"Hello, promised date ke baad bhi package nahi aaya. Please jaldi resolve karo.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_02
+HGL_0171,"Hello, promised date ke baad bhi package nahi aaya. Mujhe jaldi update chahiye.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_02
+HGL_0172,"Please help, promised date ke baad bhi package nahi aaya.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_02
+HGL_0173,"Please help, promised date ke baad bhi package nahi aaya. Please jaldi resolve karo.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_02
+HGL_0174,"Please help, promised date ke baad bhi package nahi aaya. Mujhe jaldi update chahiye.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_02
+HGL_0175,Mujhe help chahiye kyunki promised date ke baad bhi package nahi aaya.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_02
+HGL_0176,Mujhe help chahiye kyunki promised date ke baad bhi package nahi aaya. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_02
+HGL_0177,Mujhe help chahiye kyunki promised date ke baad bhi package nahi aaya. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_02
+HGL_0178,Ye urgent hai: promised date ke baad bhi package nahi aaya.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_02
+HGL_0179,Ye urgent hai: promised date ke baad bhi package nahi aaya. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_02
+HGL_0180,Ye urgent hai: promised date ke baad bhi package nahi aaya. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_02
+HGL_0181,Tracking delivered dikha raha hai but package nahi mila.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_03
+HGL_0182,Tracking delivered dikha raha hai but package nahi mila. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_03
+HGL_0183,Tracking delivered dikha raha hai but package nahi mila. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_03
+HGL_0184,"Hello, tracking delivered dikha raha hai but package nahi mila.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_03
+HGL_0185,"Hello, tracking delivered dikha raha hai but package nahi mila. Please jaldi resolve karo.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_03
+HGL_0186,"Hello, tracking delivered dikha raha hai but package nahi mila. Mujhe jaldi update chahiye.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_03
+HGL_0187,"Please help, tracking delivered dikha raha hai but package nahi mila.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_03
+HGL_0188,"Please help, tracking delivered dikha raha hai but package nahi mila. Please jaldi resolve karo.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_03
+HGL_0189,"Please help, tracking delivered dikha raha hai but package nahi mila. Mujhe jaldi update chahiye.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_03
+HGL_0190,Mujhe help chahiye kyunki tracking delivered dikha raha hai but package nahi mila.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_03
+HGL_0191,Mujhe help chahiye kyunki tracking delivered dikha raha hai but package nahi mila. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_03
+HGL_0192,Mujhe help chahiye kyunki tracking delivered dikha raha hai but package nahi mila. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_03
+HGL_0193,Ye urgent hai: tracking delivered dikha raha hai but package nahi mila.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_03
+HGL_0194,Ye urgent hai: tracking delivered dikha raha hai but package nahi mila. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_03
+HGL_0195,Ye urgent hai: tracking delivered dikha raha hai but package nahi mila. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_03
+HGL_0196,Courier person ne mujhse contact nahi kiya.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_04
+HGL_0197,Courier person ne mujhse contact nahi kiya. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_04
+HGL_0198,Courier person ne mujhse contact nahi kiya. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_04
+HGL_0199,"Hello, courier person ne mujhse contact nahi kiya.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_04
+HGL_0200,"Hello, courier person ne mujhse contact nahi kiya. Please jaldi resolve karo.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_04
+HGL_0201,"Hello, courier person ne mujhse contact nahi kiya. Mujhe jaldi update chahiye.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_04
+HGL_0202,"Please help, courier person ne mujhse contact nahi kiya.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_04
+HGL_0203,"Please help, courier person ne mujhse contact nahi kiya. Please jaldi resolve karo.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_04
+HGL_0204,"Please help, courier person ne mujhse contact nahi kiya. Mujhe jaldi update chahiye.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_04
+HGL_0205,Mujhe help chahiye kyunki courier person ne mujhse contact nahi kiya.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_04
+HGL_0206,Mujhe help chahiye kyunki courier person ne mujhse contact nahi kiya. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_04
+HGL_0207,Mujhe help chahiye kyunki courier person ne mujhse contact nahi kiya. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_04
+HGL_0208,Ye urgent hai: courier person ne mujhse contact nahi kiya.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_04
+HGL_0209,Ye urgent hai: courier person ne mujhse contact nahi kiya. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_04
+HGL_0210,Ye urgent hai: courier person ne mujhse contact nahi kiya. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_04
+HGL_0211,Mera package same location par stuck hai.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_05
+HGL_0212,Mera package same location par stuck hai. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_05
+HGL_0213,Mera package same location par stuck hai. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_05
+HGL_0214,"Hello, mera package same location par stuck hai.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_05
+HGL_0215,"Hello, mera package same location par stuck hai. Please jaldi resolve karo.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_05
+HGL_0216,"Hello, mera package same location par stuck hai. Mujhe jaldi update chahiye.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_05
+HGL_0217,"Please help, mera package same location par stuck hai.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_05
+HGL_0218,"Please help, mera package same location par stuck hai. Please jaldi resolve karo.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_05
+HGL_0219,"Please help, mera package same location par stuck hai. Mujhe jaldi update chahiye.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_05
+HGL_0220,Mujhe help chahiye kyunki mera package same location par stuck hai.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_05
+HGL_0221,Mujhe help chahiye kyunki mera package same location par stuck hai. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_05
+HGL_0222,Mujhe help chahiye kyunki mera package same location par stuck hai. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_05
+HGL_0223,Ye urgent hai: mera package same location par stuck hai.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_05
+HGL_0224,Ye urgent hai: mera package same location par stuck hai. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_05
+HGL_0225,Ye urgent hai: mera package same location par stuck hai. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_05
+HGL_0226,Delivery date baar baar change ho rahi hai.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_06
+HGL_0227,Delivery date baar baar change ho rahi hai. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_06
+HGL_0228,Delivery date baar baar change ho rahi hai. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_06
+HGL_0229,"Hello, delivery date baar baar change ho rahi hai.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_06
+HGL_0230,"Hello, delivery date baar baar change ho rahi hai. Please jaldi resolve karo.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_06
+HGL_0231,"Hello, delivery date baar baar change ho rahi hai. Mujhe jaldi update chahiye.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_06
+HGL_0232,"Please help, delivery date baar baar change ho rahi hai.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_06
+HGL_0233,"Please help, delivery date baar baar change ho rahi hai. Please jaldi resolve karo.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_06
+HGL_0234,"Please help, delivery date baar baar change ho rahi hai. Mujhe jaldi update chahiye.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_06
+HGL_0235,Mujhe help chahiye kyunki delivery date baar baar change ho rahi hai.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_06
+HGL_0236,Mujhe help chahiye kyunki delivery date baar baar change ho rahi hai. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_06
+HGL_0237,Mujhe help chahiye kyunki delivery date baar baar change ho rahi hai. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_06
+HGL_0238,Ye urgent hai: delivery date baar baar change ho rahi hai.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_06
+HGL_0239,Ye urgent hai: delivery date baar baar change ho rahi hai. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_06
+HGL_0240,Ye urgent hai: delivery date baar baar change ho rahi hai. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_06
+HGL_0241,Mera order wrong address par deliver hua.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_07
+HGL_0242,Mera order wrong address par deliver hua. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_07
+HGL_0243,Mera order wrong address par deliver hua. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_07
+HGL_0244,"Hello, mera order wrong address par deliver hua.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_07
+HGL_0245,"Hello, mera order wrong address par deliver hua. Please jaldi resolve karo.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_07
+HGL_0246,"Hello, mera order wrong address par deliver hua. Mujhe jaldi update chahiye.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_07
+HGL_0247,"Please help, mera order wrong address par deliver hua.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_07
+HGL_0248,"Please help, mera order wrong address par deliver hua. Please jaldi resolve karo.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_07
+HGL_0249,"Please help, mera order wrong address par deliver hua. Mujhe jaldi update chahiye.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_07
+HGL_0250,Mujhe help chahiye kyunki mera order wrong address par deliver hua.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_07
+HGL_0251,Mujhe help chahiye kyunki mera order wrong address par deliver hua. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_07
+HGL_0252,Mujhe help chahiye kyunki mera order wrong address par deliver hua. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_07
+HGL_0253,Ye urgent hai: mera order wrong address par deliver hua.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_07
+HGL_0254,Ye urgent hai: mera order wrong address par deliver hua. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_07
+HGL_0255,Ye urgent hai: mera order wrong address par deliver hua. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_07
+HGL_0256,Mere order ka sirf ek part deliver hua.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_08
+HGL_0257,Mere order ka sirf ek part deliver hua. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_08
+HGL_0258,Mere order ka sirf ek part deliver hua. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_08
+HGL_0259,"Hello, mere order ka sirf ek part deliver hua.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_08
+HGL_0260,"Hello, mere order ka sirf ek part deliver hua. Please jaldi resolve karo.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_08
+HGL_0261,"Hello, mere order ka sirf ek part deliver hua. Mujhe jaldi update chahiye.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_08
+HGL_0262,"Please help, mere order ka sirf ek part deliver hua.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_08
+HGL_0263,"Please help, mere order ka sirf ek part deliver hua. Please jaldi resolve karo.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_08
+HGL_0264,"Please help, mere order ka sirf ek part deliver hua. Mujhe jaldi update chahiye.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_08
+HGL_0265,Mujhe help chahiye kyunki mere order ka sirf ek part deliver hua.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_08
+HGL_0266,Mujhe help chahiye kyunki mere order ka sirf ek part deliver hua. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_08
+HGL_0267,Mujhe help chahiye kyunki mere order ka sirf ek part deliver hua. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_08
+HGL_0268,Ye urgent hai: mere order ka sirf ek part deliver hua.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_08
+HGL_0269,Ye urgent hai: mere order ka sirf ek part deliver hua. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_08
+HGL_0270,Ye urgent hai: mere order ka sirf ek part deliver hua. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_08
+HGL_0271,Courier person ne package deliver karne se mana kiya.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_09
+HGL_0272,Courier person ne package deliver karne se mana kiya. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_09
+HGL_0273,Courier person ne package deliver karne se mana kiya. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_09
+HGL_0274,"Hello, courier person ne package deliver karne se mana kiya.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_09
+HGL_0275,"Hello, courier person ne package deliver karne se mana kiya. Please jaldi resolve karo.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_09
+HGL_0276,"Hello, courier person ne package deliver karne se mana kiya. Mujhe jaldi update chahiye.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_09
+HGL_0277,"Please help, courier person ne package deliver karne se mana kiya.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_09
+HGL_0278,"Please help, courier person ne package deliver karne se mana kiya. Please jaldi resolve karo.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_09
+HGL_0279,"Please help, courier person ne package deliver karne se mana kiya. Mujhe jaldi update chahiye.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_09
+HGL_0280,Mujhe help chahiye kyunki courier person ne package deliver karne se mana kiya.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_09
+HGL_0281,Mujhe help chahiye kyunki courier person ne package deliver karne se mana kiya. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_09
+HGL_0282,Mujhe help chahiye kyunki courier person ne package deliver karne se mana kiya. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_09
+HGL_0283,Ye urgent hai: courier person ne package deliver karne se mana kiya.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_09
+HGL_0284,Ye urgent hai: courier person ne package deliver karne se mana kiya. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_09
+HGL_0285,Ye urgent hai: courier person ne package deliver karne se mana kiya. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_09
+HGL_0286,Tracking information update nahi ho rahi hai.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_10
+HGL_0287,Tracking information update nahi ho rahi hai. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_10
+HGL_0288,Tracking information update nahi ho rahi hai. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_10
+HGL_0289,"Hello, tracking information update nahi ho rahi hai.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_10
+HGL_0290,"Hello, tracking information update nahi ho rahi hai. Please jaldi resolve karo.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_10
+HGL_0291,"Hello, tracking information update nahi ho rahi hai. Mujhe jaldi update chahiye.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_10
+HGL_0292,"Please help, tracking information update nahi ho rahi hai.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_10
+HGL_0293,"Please help, tracking information update nahi ho rahi hai. Please jaldi resolve karo.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_10
+HGL_0294,"Please help, tracking information update nahi ho rahi hai. Mujhe jaldi update chahiye.",Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_10
+HGL_0295,Mujhe help chahiye kyunki tracking information update nahi ho rahi hai.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_10
+HGL_0296,Mujhe help chahiye kyunki tracking information update nahi ho rahi hai. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_10
+HGL_0297,Mujhe help chahiye kyunki tracking information update nahi ho rahi hai. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_10
+HGL_0298,Ye urgent hai: tracking information update nahi ho rahi hai.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_10
+HGL_0299,Ye urgent hai: tracking information update nahi ho rahi hai. Please jaldi resolve karo.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_10
+HGL_0300,Ye urgent hai: tracking information update nahi ho rahi hai. Mujhe jaldi update chahiye.,Hinglish,Delivery Issue,Logistics Team,Medium,Hinglish_Delivery Issue_10
+HGL_0301,Order cancel kiya but refund abhi tak nahi mila.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_01
+HGL_0302,Order cancel kiya but refund abhi tak nahi mila. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_01
+HGL_0303,Order cancel kiya but refund abhi tak nahi mila. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_01
+HGL_0304,"Hello, order cancel kiya but refund abhi tak nahi mila.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_01
+HGL_0305,"Hello, order cancel kiya but refund abhi tak nahi mila. Please jaldi resolve karo.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_01
+HGL_0306,"Hello, order cancel kiya but refund abhi tak nahi mila. Mujhe jaldi update chahiye.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_01
+HGL_0307,"Please help, order cancel kiya but refund abhi tak nahi mila.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_01
+HGL_0308,"Please help, order cancel kiya but refund abhi tak nahi mila. Please jaldi resolve karo.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_01
+HGL_0309,"Please help, order cancel kiya but refund abhi tak nahi mila. Mujhe jaldi update chahiye.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_01
+HGL_0310,Mujhe help chahiye kyunki order cancel kiya but refund abhi tak nahi mila.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_01
+HGL_0311,Mujhe help chahiye kyunki order cancel kiya but refund abhi tak nahi mila. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_01
+HGL_0312,Mujhe help chahiye kyunki order cancel kiya but refund abhi tak nahi mila. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_01
+HGL_0313,Ye urgent hai: order cancel kiya but refund abhi tak nahi mila.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_01
+HGL_0314,Ye urgent hai: order cancel kiya but refund abhi tak nahi mila. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_01
+HGL_0315,Ye urgent hai: order cancel kiya but refund abhi tak nahi mila. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_01
+HGL_0316,Mera refund abhi bhi pending hai.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_02
+HGL_0317,Mera refund abhi bhi pending hai. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_02
+HGL_0318,Mera refund abhi bhi pending hai. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_02
+HGL_0319,"Hello, mera refund abhi bhi pending hai.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_02
+HGL_0320,"Hello, mera refund abhi bhi pending hai. Please jaldi resolve karo.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_02
+HGL_0321,"Hello, mera refund abhi bhi pending hai. Mujhe jaldi update chahiye.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_02
+HGL_0322,"Please help, mera refund abhi bhi pending hai.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_02
+HGL_0323,"Please help, mera refund abhi bhi pending hai. Please jaldi resolve karo.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_02
+HGL_0324,"Please help, mera refund abhi bhi pending hai. Mujhe jaldi update chahiye.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_02
+HGL_0325,Mujhe help chahiye kyunki mera refund abhi bhi pending hai.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_02
+HGL_0326,Mujhe help chahiye kyunki mera refund abhi bhi pending hai. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_02
+HGL_0327,Mujhe help chahiye kyunki mera refund abhi bhi pending hai. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_02
+HGL_0328,Ye urgent hai: mera refund abhi bhi pending hai.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_02
+HGL_0329,Ye urgent hai: mera refund abhi bhi pending hai. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_02
+HGL_0330,Ye urgent hai: mera refund abhi bhi pending hai. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_02
+HGL_0331,Mujhe sirf partial refund mila hai.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_03
+HGL_0332,Mujhe sirf partial refund mila hai. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_03
+HGL_0333,Mujhe sirf partial refund mila hai. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_03
+HGL_0334,"Hello, mujhe sirf partial refund mila hai.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_03
+HGL_0335,"Hello, mujhe sirf partial refund mila hai. Please jaldi resolve karo.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_03
+HGL_0336,"Hello, mujhe sirf partial refund mila hai. Mujhe jaldi update chahiye.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_03
+HGL_0337,"Please help, mujhe sirf partial refund mila hai.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_03
+HGL_0338,"Please help, mujhe sirf partial refund mila hai. Please jaldi resolve karo.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_03
+HGL_0339,"Please help, mujhe sirf partial refund mila hai. Mujhe jaldi update chahiye.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_03
+HGL_0340,Mujhe help chahiye kyunki mujhe sirf partial refund mila hai.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_03
+HGL_0341,Mujhe help chahiye kyunki mujhe sirf partial refund mila hai. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_03
+HGL_0342,Mujhe help chahiye kyunki mujhe sirf partial refund mila hai. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_03
+HGL_0343,Ye urgent hai: mujhe sirf partial refund mila hai.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_03
+HGL_0344,Ye urgent hai: mujhe sirf partial refund mila hai. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_03
+HGL_0345,Ye urgent hai: mujhe sirf partial refund mila hai. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_03
+HGL_0346,App refunded dikha raha hai but account mein paise nahi aaye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_04
+HGL_0347,App refunded dikha raha hai but account mein paise nahi aaye. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_04
+HGL_0348,App refunded dikha raha hai but account mein paise nahi aaye. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_04
+HGL_0349,"Hello, app refunded dikha raha hai but account mein paise nahi aaye.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_04
+HGL_0350,"Hello, app refunded dikha raha hai but account mein paise nahi aaye. Please jaldi resolve karo.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_04
+HGL_0351,"Hello, app refunded dikha raha hai but account mein paise nahi aaye. Mujhe jaldi update chahiye.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_04
+HGL_0352,"Please help, app refunded dikha raha hai but account mein paise nahi aaye.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_04
+HGL_0353,"Please help, app refunded dikha raha hai but account mein paise nahi aaye. Please jaldi resolve karo.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_04
+HGL_0354,"Please help, app refunded dikha raha hai but account mein paise nahi aaye. Mujhe jaldi update chahiye.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_04
+HGL_0355,Mujhe help chahiye kyunki app refunded dikha raha hai but account mein paise nahi aaye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_04
+HGL_0356,Mujhe help chahiye kyunki app refunded dikha raha hai but account mein paise nahi aaye. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_04
+HGL_0357,Mujhe help chahiye kyunki app refunded dikha raha hai but account mein paise nahi aaye. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_04
+HGL_0358,Ye urgent hai: app refunded dikha raha hai but account mein paise nahi aaye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_04
+HGL_0359,Ye urgent hai: app refunded dikha raha hai but account mein paise nahi aaye. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_04
+HGL_0360,Ye urgent hai: app refunded dikha raha hai but account mein paise nahi aaye. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_04
+HGL_0361,Return accept hua but refund process nahi hua.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_05
+HGL_0362,Return accept hua but refund process nahi hua. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_05
+HGL_0363,Return accept hua but refund process nahi hua. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_05
+HGL_0364,"Hello, return accept hua but refund process nahi hua.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_05
+HGL_0365,"Hello, return accept hua but refund process nahi hua. Please jaldi resolve karo.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_05
+HGL_0366,"Hello, return accept hua but refund process nahi hua. Mujhe jaldi update chahiye.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_05
+HGL_0367,"Please help, return accept hua but refund process nahi hua.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_05
+HGL_0368,"Please help, return accept hua but refund process nahi hua. Please jaldi resolve karo.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_05
+HGL_0369,"Please help, return accept hua but refund process nahi hua. Mujhe jaldi update chahiye.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_05
+HGL_0370,Mujhe help chahiye kyunki return accept hua but refund process nahi hua.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_05
+HGL_0371,Mujhe help chahiye kyunki return accept hua but refund process nahi hua. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_05
+HGL_0372,Mujhe help chahiye kyunki return accept hua but refund process nahi hua. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_05
+HGL_0373,Ye urgent hai: return accept hua but refund process nahi hua.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_05
+HGL_0374,Ye urgent hai: return accept hua but refund process nahi hua. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_05
+HGL_0375,Ye urgent hai: return accept hua but refund process nahi hua. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_05
+HGL_0376,Refund ki deadline already cross ho gayi.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_06
+HGL_0377,Refund ki deadline already cross ho gayi. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_06
+HGL_0378,Refund ki deadline already cross ho gayi. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_06
+HGL_0379,"Hello, refund ki deadline already cross ho gayi.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_06
+HGL_0380,"Hello, refund ki deadline already cross ho gayi. Please jaldi resolve karo.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_06
+HGL_0381,"Hello, refund ki deadline already cross ho gayi. Mujhe jaldi update chahiye.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_06
+HGL_0382,"Please help, refund ki deadline already cross ho gayi.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_06
+HGL_0383,"Please help, refund ki deadline already cross ho gayi. Please jaldi resolve karo.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_06
+HGL_0384,"Please help, refund ki deadline already cross ho gayi. Mujhe jaldi update chahiye.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_06
+HGL_0385,Mujhe help chahiye kyunki refund ki deadline already cross ho gayi.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_06
+HGL_0386,Mujhe help chahiye kyunki refund ki deadline already cross ho gayi. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_06
+HGL_0387,Mujhe help chahiye kyunki refund ki deadline already cross ho gayi. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_06
+HGL_0388,Ye urgent hai: refund ki deadline already cross ho gayi.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_06
+HGL_0389,Ye urgent hai: refund ki deadline already cross ho gayi. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_06
+HGL_0390,Ye urgent hai: refund ki deadline already cross ho gayi. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_06
+HGL_0391,Refund wrong payment method mein bheja gaya.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_07
+HGL_0392,Refund wrong payment method mein bheja gaya. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_07
+HGL_0393,Refund wrong payment method mein bheja gaya. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_07
+HGL_0394,"Hello, refund wrong payment method mein bheja gaya.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_07
+HGL_0395,"Hello, refund wrong payment method mein bheja gaya. Please jaldi resolve karo.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_07
+HGL_0396,"Hello, refund wrong payment method mein bheja gaya. Mujhe jaldi update chahiye.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_07
+HGL_0397,"Please help, refund wrong payment method mein bheja gaya.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_07
+HGL_0398,"Please help, refund wrong payment method mein bheja gaya. Please jaldi resolve karo.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_07
+HGL_0399,"Please help, refund wrong payment method mein bheja gaya. Mujhe jaldi update chahiye.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_07
+HGL_0400,Mujhe help chahiye kyunki refund wrong payment method mein bheja gaya.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_07
+HGL_0401,Mujhe help chahiye kyunki refund wrong payment method mein bheja gaya. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_07
+HGL_0402,Mujhe help chahiye kyunki refund wrong payment method mein bheja gaya. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_07
+HGL_0403,Ye urgent hai: refund wrong payment method mein bheja gaya.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_07
+HGL_0404,Ye urgent hai: refund wrong payment method mein bheja gaya. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_07
+HGL_0405,Ye urgent hai: refund wrong payment method mein bheja gaya. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_07
+HGL_0406,Mujhe expected amount se kam refund mila.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_08
+HGL_0407,Mujhe expected amount se kam refund mila. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_08
+HGL_0408,Mujhe expected amount se kam refund mila. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_08
+HGL_0409,"Hello, mujhe expected amount se kam refund mila.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_08
+HGL_0410,"Hello, mujhe expected amount se kam refund mila. Please jaldi resolve karo.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_08
+HGL_0411,"Hello, mujhe expected amount se kam refund mila. Mujhe jaldi update chahiye.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_08
+HGL_0412,"Please help, mujhe expected amount se kam refund mila.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_08
+HGL_0413,"Please help, mujhe expected amount se kam refund mila. Please jaldi resolve karo.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_08
+HGL_0414,"Please help, mujhe expected amount se kam refund mila. Mujhe jaldi update chahiye.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_08
+HGL_0415,Mujhe help chahiye kyunki mujhe expected amount se kam refund mila.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_08
+HGL_0416,Mujhe help chahiye kyunki mujhe expected amount se kam refund mila. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_08
+HGL_0417,Mujhe help chahiye kyunki mujhe expected amount se kam refund mila. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_08
+HGL_0418,Ye urgent hai: mujhe expected amount se kam refund mila.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_08
+HGL_0419,Ye urgent hai: mujhe expected amount se kam refund mila. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_08
+HGL_0420,Ye urgent hai: mujhe expected amount se kam refund mila. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_08
+HGL_0421,Refund status kai din se change nahi hua.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_09
+HGL_0422,Refund status kai din se change nahi hua. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_09
+HGL_0423,Refund status kai din se change nahi hua. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_09
+HGL_0424,"Hello, refund status kai din se change nahi hua.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_09
+HGL_0425,"Hello, refund status kai din se change nahi hua. Please jaldi resolve karo.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_09
+HGL_0426,"Hello, refund status kai din se change nahi hua. Mujhe jaldi update chahiye.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_09
+HGL_0427,"Please help, refund status kai din se change nahi hua.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_09
+HGL_0428,"Please help, refund status kai din se change nahi hua. Please jaldi resolve karo.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_09
+HGL_0429,"Please help, refund status kai din se change nahi hua. Mujhe jaldi update chahiye.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_09
+HGL_0430,Mujhe help chahiye kyunki refund status kai din se change nahi hua.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_09
+HGL_0431,Mujhe help chahiye kyunki refund status kai din se change nahi hua. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_09
+HGL_0432,Mujhe help chahiye kyunki refund status kai din se change nahi hua. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_09
+HGL_0433,Ye urgent hai: refund status kai din se change nahi hua.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_09
+HGL_0434,Ye urgent hai: refund status kai din se change nahi hua. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_09
+HGL_0435,Ye urgent hai: refund status kai din se change nahi hua. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_09
+HGL_0436,Mere bank account mein promised refund nahi aaya.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_10
+HGL_0437,Mere bank account mein promised refund nahi aaya. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_10
+HGL_0438,Mere bank account mein promised refund nahi aaya. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_10
+HGL_0439,"Hello, mere bank account mein promised refund nahi aaya.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_10
+HGL_0440,"Hello, mere bank account mein promised refund nahi aaya. Please jaldi resolve karo.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_10
+HGL_0441,"Hello, mere bank account mein promised refund nahi aaya. Mujhe jaldi update chahiye.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_10
+HGL_0442,"Please help, mere bank account mein promised refund nahi aaya.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_10
+HGL_0443,"Please help, mere bank account mein promised refund nahi aaya. Please jaldi resolve karo.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_10
+HGL_0444,"Please help, mere bank account mein promised refund nahi aaya. Mujhe jaldi update chahiye.",Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_10
+HGL_0445,Mujhe help chahiye kyunki mere bank account mein promised refund nahi aaya.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_10
+HGL_0446,Mujhe help chahiye kyunki mere bank account mein promised refund nahi aaya. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_10
+HGL_0447,Mujhe help chahiye kyunki mere bank account mein promised refund nahi aaya. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_10
+HGL_0448,Ye urgent hai: mere bank account mein promised refund nahi aaya.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_10
+HGL_0449,Ye urgent hai: mere bank account mein promised refund nahi aaya. Please jaldi resolve karo.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_10
+HGL_0450,Ye urgent hai: mere bank account mein promised refund nahi aaya. Mujhe jaldi update chahiye.,Hinglish,Refund Issue,Refund Team,High,Hinglish_Refund Issue_10
+HGL_0451,Main apna order cancel nahi kar pa rahi hoon.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_01
+HGL_0452,Main apna order cancel nahi kar pa rahi hoon. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_01
+HGL_0453,Main apna order cancel nahi kar pa rahi hoon. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_01
+HGL_0454,"Hello, main apna order cancel nahi kar pa rahi hoon.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_01
+HGL_0455,"Hello, main apna order cancel nahi kar pa rahi hoon. Please jaldi resolve karo.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_01
+HGL_0456,"Hello, main apna order cancel nahi kar pa rahi hoon. Mujhe jaldi update chahiye.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_01
+HGL_0457,"Please help, main apna order cancel nahi kar pa rahi hoon.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_01
+HGL_0458,"Please help, main apna order cancel nahi kar pa rahi hoon. Please jaldi resolve karo.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_01
+HGL_0459,"Please help, main apna order cancel nahi kar pa rahi hoon. Mujhe jaldi update chahiye.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_01
+HGL_0460,Mujhe help chahiye kyunki main apna order cancel nahi kar pa rahi hoon.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_01
+HGL_0461,Mujhe help chahiye kyunki main apna order cancel nahi kar pa rahi hoon. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_01
+HGL_0462,Mujhe help chahiye kyunki main apna order cancel nahi kar pa rahi hoon. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_01
+HGL_0463,Ye urgent hai: main apna order cancel nahi kar pa rahi hoon.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_01
+HGL_0464,Ye urgent hai: main apna order cancel nahi kar pa rahi hoon. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_01
+HGL_0465,Ye urgent hai: main apna order cancel nahi kar pa rahi hoon. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_01
+HGL_0466,Cancel button available nahi hai.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_02
+HGL_0467,Cancel button available nahi hai. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_02
+HGL_0468,Cancel button available nahi hai. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_02
+HGL_0469,"Hello, cancel button available nahi hai.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_02
+HGL_0470,"Hello, cancel button available nahi hai. Please jaldi resolve karo.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_02
+HGL_0471,"Hello, cancel button available nahi hai. Mujhe jaldi update chahiye.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_02
+HGL_0472,"Please help, cancel button available nahi hai.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_02
+HGL_0473,"Please help, cancel button available nahi hai. Please jaldi resolve karo.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_02
+HGL_0474,"Please help, cancel button available nahi hai. Mujhe jaldi update chahiye.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_02
+HGL_0475,Mujhe help chahiye kyunki cancel button available nahi hai.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_02
+HGL_0476,Mujhe help chahiye kyunki cancel button available nahi hai. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_02
+HGL_0477,Mujhe help chahiye kyunki cancel button available nahi hai. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_02
+HGL_0478,Ye urgent hai: cancel button available nahi hai.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_02
+HGL_0479,Ye urgent hai: cancel button available nahi hai. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_02
+HGL_0480,Ye urgent hai: cancel button available nahi hai. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_02
+HGL_0481,Cancellation request baar baar fail ho rahi hai.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_03
+HGL_0482,Cancellation request baar baar fail ho rahi hai. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_03
+HGL_0483,Cancellation request baar baar fail ho rahi hai. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_03
+HGL_0484,"Hello, cancellation request baar baar fail ho rahi hai.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_03
+HGL_0485,"Hello, cancellation request baar baar fail ho rahi hai. Please jaldi resolve karo.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_03
+HGL_0486,"Hello, cancellation request baar baar fail ho rahi hai. Mujhe jaldi update chahiye.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_03
+HGL_0487,"Please help, cancellation request baar baar fail ho rahi hai.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_03
+HGL_0488,"Please help, cancellation request baar baar fail ho rahi hai. Please jaldi resolve karo.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_03
+HGL_0489,"Please help, cancellation request baar baar fail ho rahi hai. Mujhe jaldi update chahiye.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_03
+HGL_0490,Mujhe help chahiye kyunki cancellation request baar baar fail ho rahi hai.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_03
+HGL_0491,Mujhe help chahiye kyunki cancellation request baar baar fail ho rahi hai. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_03
+HGL_0492,Mujhe help chahiye kyunki cancellation request baar baar fail ho rahi hai. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_03
+HGL_0493,Ye urgent hai: cancellation request baar baar fail ho rahi hai.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_03
+HGL_0494,Ye urgent hai: cancellation request baar baar fail ho rahi hai. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_03
+HGL_0495,Ye urgent hai: cancellation request baar baar fail ho rahi hai. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_03
+HGL_0496,Cancel karne ke baad bhi order ship ho gaya.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_04
+HGL_0497,Cancel karne ke baad bhi order ship ho gaya. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_04
+HGL_0498,Cancel karne ke baad bhi order ship ho gaya. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_04
+HGL_0499,"Hello, cancel karne ke baad bhi order ship ho gaya.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_04
+HGL_0500,"Hello, cancel karne ke baad bhi order ship ho gaya. Please jaldi resolve karo.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_04
+HGL_0501,"Hello, cancel karne ke baad bhi order ship ho gaya. Mujhe jaldi update chahiye.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_04
+HGL_0502,"Please help, cancel karne ke baad bhi order ship ho gaya.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_04
+HGL_0503,"Please help, cancel karne ke baad bhi order ship ho gaya. Please jaldi resolve karo.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_04
+HGL_0504,"Please help, cancel karne ke baad bhi order ship ho gaya. Mujhe jaldi update chahiye.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_04
+HGL_0505,Mujhe help chahiye kyunki cancel karne ke baad bhi order ship ho gaya.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_04
+HGL_0506,Mujhe help chahiye kyunki cancel karne ke baad bhi order ship ho gaya. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_04
+HGL_0507,Mujhe help chahiye kyunki cancel karne ke baad bhi order ship ho gaya. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_04
+HGL_0508,Ye urgent hai: cancel karne ke baad bhi order ship ho gaya.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_04
+HGL_0509,Ye urgent hai: cancel karne ke baad bhi order ship ho gaya. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_04
+HGL_0510,Ye urgent hai: cancel karne ke baad bhi order ship ho gaya. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_04
+HGL_0511,Galti se order place hua aur mujhe cancel karna hai.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_05
+HGL_0512,Galti se order place hua aur mujhe cancel karna hai. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_05
+HGL_0513,Galti se order place hua aur mujhe cancel karna hai. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_05
+HGL_0514,"Hello, galti se order place hua aur mujhe cancel karna hai.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_05
+HGL_0515,"Hello, galti se order place hua aur mujhe cancel karna hai. Please jaldi resolve karo.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_05
+HGL_0516,"Hello, galti se order place hua aur mujhe cancel karna hai. Mujhe jaldi update chahiye.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_05
+HGL_0517,"Please help, galti se order place hua aur mujhe cancel karna hai.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_05
+HGL_0518,"Please help, galti se order place hua aur mujhe cancel karna hai. Please jaldi resolve karo.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_05
+HGL_0519,"Please help, galti se order place hua aur mujhe cancel karna hai. Mujhe jaldi update chahiye.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_05
+HGL_0520,Mujhe help chahiye kyunki galti se order place hua aur mujhe cancel karna hai.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_05
+HGL_0521,Mujhe help chahiye kyunki galti se order place hua aur mujhe cancel karna hai. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_05
+HGL_0522,Mujhe help chahiye kyunki galti se order place hua aur mujhe cancel karna hai. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_05
+HGL_0523,Ye urgent hai: galti se order place hua aur mujhe cancel karna hai.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_05
+HGL_0524,Ye urgent hai: galti se order place hua aur mujhe cancel karna hai. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_05
+HGL_0525,Ye urgent hai: galti se order place hua aur mujhe cancel karna hai. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_05
+HGL_0526,Seller ne meri cancellation request reject kar di.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_06
+HGL_0527,Seller ne meri cancellation request reject kar di. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_06
+HGL_0528,Seller ne meri cancellation request reject kar di. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_06
+HGL_0529,"Hello, seller ne meri cancellation request reject kar di.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_06
+HGL_0530,"Hello, seller ne meri cancellation request reject kar di. Please jaldi resolve karo.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_06
+HGL_0531,"Hello, seller ne meri cancellation request reject kar di. Mujhe jaldi update chahiye.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_06
+HGL_0532,"Please help, seller ne meri cancellation request reject kar di.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_06
+HGL_0533,"Please help, seller ne meri cancellation request reject kar di. Please jaldi resolve karo.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_06
+HGL_0534,"Please help, seller ne meri cancellation request reject kar di. Mujhe jaldi update chahiye.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_06
+HGL_0535,Mujhe help chahiye kyunki seller ne meri cancellation request reject kar di.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_06
+HGL_0536,Mujhe help chahiye kyunki seller ne meri cancellation request reject kar di. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_06
+HGL_0537,Mujhe help chahiye kyunki seller ne meri cancellation request reject kar di. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_06
+HGL_0538,Ye urgent hai: seller ne meri cancellation request reject kar di.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_06
+HGL_0539,Ye urgent hai: seller ne meri cancellation request reject kar di. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_06
+HGL_0540,Ye urgent hai: seller ne meri cancellation request reject kar di. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_06
+HGL_0541,App mein cancellation option show nahi ho raha.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_07
+HGL_0542,App mein cancellation option show nahi ho raha. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_07
+HGL_0543,App mein cancellation option show nahi ho raha. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_07
+HGL_0544,"Hello, app mein cancellation option show nahi ho raha.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_07
+HGL_0545,"Hello, app mein cancellation option show nahi ho raha. Please jaldi resolve karo.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_07
+HGL_0546,"Hello, app mein cancellation option show nahi ho raha. Mujhe jaldi update chahiye.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_07
+HGL_0547,"Please help, app mein cancellation option show nahi ho raha.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_07
+HGL_0548,"Please help, app mein cancellation option show nahi ho raha. Please jaldi resolve karo.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_07
+HGL_0549,"Please help, app mein cancellation option show nahi ho raha. Mujhe jaldi update chahiye.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_07
+HGL_0550,Mujhe help chahiye kyunki app mein cancellation option show nahi ho raha.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_07
+HGL_0551,Mujhe help chahiye kyunki app mein cancellation option show nahi ho raha. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_07
+HGL_0552,Mujhe help chahiye kyunki app mein cancellation option show nahi ho raha. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_07
+HGL_0553,Ye urgent hai: app mein cancellation option show nahi ho raha.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_07
+HGL_0554,Ye urgent hai: app mein cancellation option show nahi ho raha. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_07
+HGL_0555,Ye urgent hai: app mein cancellation option show nahi ho raha. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_07
+HGL_0556,Mujhe order ka ek item cancel karna hai.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_08
+HGL_0557,Mujhe order ka ek item cancel karna hai. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_08
+HGL_0558,Mujhe order ka ek item cancel karna hai. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_08
+HGL_0559,"Hello, mujhe order ka ek item cancel karna hai.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_08
+HGL_0560,"Hello, mujhe order ka ek item cancel karna hai. Please jaldi resolve karo.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_08
+HGL_0561,"Hello, mujhe order ka ek item cancel karna hai. Mujhe jaldi update chahiye.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_08
+HGL_0562,"Please help, mujhe order ka ek item cancel karna hai.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_08
+HGL_0563,"Please help, mujhe order ka ek item cancel karna hai. Please jaldi resolve karo.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_08
+HGL_0564,"Please help, mujhe order ka ek item cancel karna hai. Mujhe jaldi update chahiye.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_08
+HGL_0565,Mujhe help chahiye kyunki mujhe order ka ek item cancel karna hai.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_08
+HGL_0566,Mujhe help chahiye kyunki mujhe order ka ek item cancel karna hai. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_08
+HGL_0567,Mujhe help chahiye kyunki mujhe order ka ek item cancel karna hai. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_08
+HGL_0568,Ye urgent hai: mujhe order ka ek item cancel karna hai.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_08
+HGL_0569,Ye urgent hai: mujhe order ka ek item cancel karna hai. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_08
+HGL_0570,Ye urgent hai: mujhe order ka ek item cancel karna hai. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_08
+HGL_0571,Cancel karne ke baad bhi order active dikha raha hai.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_09
+HGL_0572,Cancel karne ke baad bhi order active dikha raha hai. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_09
+HGL_0573,Cancel karne ke baad bhi order active dikha raha hai. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_09
+HGL_0574,"Hello, cancel karne ke baad bhi order active dikha raha hai.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_09
+HGL_0575,"Hello, cancel karne ke baad bhi order active dikha raha hai. Please jaldi resolve karo.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_09
+HGL_0576,"Hello, cancel karne ke baad bhi order active dikha raha hai. Mujhe jaldi update chahiye.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_09
+HGL_0577,"Please help, cancel karne ke baad bhi order active dikha raha hai.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_09
+HGL_0578,"Please help, cancel karne ke baad bhi order active dikha raha hai. Please jaldi resolve karo.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_09
+HGL_0579,"Please help, cancel karne ke baad bhi order active dikha raha hai. Mujhe jaldi update chahiye.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_09
+HGL_0580,Mujhe help chahiye kyunki cancel karne ke baad bhi order active dikha raha hai.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_09
+HGL_0581,Mujhe help chahiye kyunki cancel karne ke baad bhi order active dikha raha hai. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_09
+HGL_0582,Mujhe help chahiye kyunki cancel karne ke baad bhi order active dikha raha hai. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_09
+HGL_0583,Ye urgent hai: cancel karne ke baad bhi order active dikha raha hai.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_09
+HGL_0584,Ye urgent hai: cancel karne ke baad bhi order active dikha raha hai. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_09
+HGL_0585,Ye urgent hai: cancel karne ke baad bhi order active dikha raha hai. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_09
+HGL_0586,Order cancel karne par extra fee charge hui.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_10
+HGL_0587,Order cancel karne par extra fee charge hui. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_10
+HGL_0588,Order cancel karne par extra fee charge hui. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_10
+HGL_0589,"Hello, order cancel karne par extra fee charge hui.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_10
+HGL_0590,"Hello, order cancel karne par extra fee charge hui. Please jaldi resolve karo.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_10
+HGL_0591,"Hello, order cancel karne par extra fee charge hui. Mujhe jaldi update chahiye.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_10
+HGL_0592,"Please help, order cancel karne par extra fee charge hui.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_10
+HGL_0593,"Please help, order cancel karne par extra fee charge hui. Please jaldi resolve karo.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_10
+HGL_0594,"Please help, order cancel karne par extra fee charge hui. Mujhe jaldi update chahiye.",Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_10
+HGL_0595,Mujhe help chahiye kyunki order cancel karne par extra fee charge hui.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_10
+HGL_0596,Mujhe help chahiye kyunki order cancel karne par extra fee charge hui. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_10
+HGL_0597,Mujhe help chahiye kyunki order cancel karne par extra fee charge hui. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_10
+HGL_0598,Ye urgent hai: order cancel karne par extra fee charge hui.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_10
+HGL_0599,Ye urgent hai: order cancel karne par extra fee charge hui. Please jaldi resolve karo.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_10
+HGL_0600,Ye urgent hai: order cancel karne par extra fee charge hui. Mujhe jaldi update chahiye.,Hinglish,Cancellation Issue,Order Management,Medium,Hinglish_Cancellation Issue_10
+HGL_0601,Mujhe damaged product mila hai.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_01
+HGL_0602,Mujhe damaged product mila hai. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_01
+HGL_0603,Mujhe damaged product mila hai. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_01
+HGL_0604,"Hello, mujhe damaged product mila hai.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_01
+HGL_0605,"Hello, mujhe damaged product mila hai. Please jaldi resolve karo.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_01
+HGL_0606,"Hello, mujhe damaged product mila hai. Mujhe jaldi update chahiye.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_01
+HGL_0607,"Please help, mujhe damaged product mila hai.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_01
+HGL_0608,"Please help, mujhe damaged product mila hai. Please jaldi resolve karo.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_01
+HGL_0609,"Please help, mujhe damaged product mila hai. Mujhe jaldi update chahiye.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_01
+HGL_0610,Mujhe help chahiye kyunki mujhe damaged product mila hai.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_01
+HGL_0611,Mujhe help chahiye kyunki mujhe damaged product mila hai. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_01
+HGL_0612,Mujhe help chahiye kyunki mujhe damaged product mila hai. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_01
+HGL_0613,Ye urgent hai: mujhe damaged product mila hai.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_01
+HGL_0614,Ye urgent hai: mujhe damaged product mila hai. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_01
+HGL_0615,Ye urgent hai: mujhe damaged product mila hai. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_01
+HGL_0616,Item defective hai aur work nahi kar raha.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_02
+HGL_0617,Item defective hai aur work nahi kar raha. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_02
+HGL_0618,Item defective hai aur work nahi kar raha. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_02
+HGL_0619,"Hello, item defective hai aur work nahi kar raha.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_02
+HGL_0620,"Hello, item defective hai aur work nahi kar raha. Please jaldi resolve karo.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_02
+HGL_0621,"Hello, item defective hai aur work nahi kar raha. Mujhe jaldi update chahiye.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_02
+HGL_0622,"Please help, item defective hai aur work nahi kar raha.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_02
+HGL_0623,"Please help, item defective hai aur work nahi kar raha. Please jaldi resolve karo.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_02
+HGL_0624,"Please help, item defective hai aur work nahi kar raha. Mujhe jaldi update chahiye.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_02
+HGL_0625,Mujhe help chahiye kyunki item defective hai aur work nahi kar raha.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_02
+HGL_0626,Mujhe help chahiye kyunki item defective hai aur work nahi kar raha. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_02
+HGL_0627,Mujhe help chahiye kyunki item defective hai aur work nahi kar raha. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_02
+HGL_0628,Ye urgent hai: item defective hai aur work nahi kar raha.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_02
+HGL_0629,Ye urgent hai: item defective hai aur work nahi kar raha. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_02
+HGL_0630,Ye urgent hai: item defective hai aur work nahi kar raha. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_02
+HGL_0631,Mujhe wrong product deliver hua.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_03
+HGL_0632,Mujhe wrong product deliver hua. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_03
+HGL_0633,Mujhe wrong product deliver hua. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_03
+HGL_0634,"Hello, mujhe wrong product deliver hua.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_03
+HGL_0635,"Hello, mujhe wrong product deliver hua. Please jaldi resolve karo.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_03
+HGL_0636,"Hello, mujhe wrong product deliver hua. Mujhe jaldi update chahiye.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_03
+HGL_0637,"Please help, mujhe wrong product deliver hua.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_03
+HGL_0638,"Please help, mujhe wrong product deliver hua. Please jaldi resolve karo.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_03
+HGL_0639,"Please help, mujhe wrong product deliver hua. Mujhe jaldi update chahiye.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_03
+HGL_0640,Mujhe help chahiye kyunki mujhe wrong product deliver hua.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_03
+HGL_0641,Mujhe help chahiye kyunki mujhe wrong product deliver hua. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_03
+HGL_0642,Mujhe help chahiye kyunki mujhe wrong product deliver hua. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_03
+HGL_0643,Ye urgent hai: mujhe wrong product deliver hua.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_03
+HGL_0644,Ye urgent hai: mujhe wrong product deliver hua. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_03
+HGL_0645,Ye urgent hai: mujhe wrong product deliver hua. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_03
+HGL_0646,Product description ke according nahi hai.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_04
+HGL_0647,Product description ke according nahi hai. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_04
+HGL_0648,Product description ke according nahi hai. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_04
+HGL_0649,"Hello, product description ke according nahi hai.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_04
+HGL_0650,"Hello, product description ke according nahi hai. Please jaldi resolve karo.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_04
+HGL_0651,"Hello, product description ke according nahi hai. Mujhe jaldi update chahiye.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_04
+HGL_0652,"Please help, product description ke according nahi hai.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_04
+HGL_0653,"Please help, product description ke according nahi hai. Please jaldi resolve karo.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_04
+HGL_0654,"Please help, product description ke according nahi hai. Mujhe jaldi update chahiye.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_04
+HGL_0655,Mujhe help chahiye kyunki product description ke according nahi hai.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_04
+HGL_0656,Mujhe help chahiye kyunki product description ke according nahi hai. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_04
+HGL_0657,Mujhe help chahiye kyunki product description ke according nahi hai. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_04
+HGL_0658,Ye urgent hai: product description ke according nahi hai.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_04
+HGL_0659,Ye urgent hai: product description ke according nahi hai. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_04
+HGL_0660,Ye urgent hai: product description ke according nahi hai. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_04
+HGL_0661,Package mein ek accessory missing hai.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_05
+HGL_0662,Package mein ek accessory missing hai. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_05
+HGL_0663,Package mein ek accessory missing hai. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_05
+HGL_0664,"Hello, package mein ek accessory missing hai.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_05
+HGL_0665,"Hello, package mein ek accessory missing hai. Please jaldi resolve karo.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_05
+HGL_0666,"Hello, package mein ek accessory missing hai. Mujhe jaldi update chahiye.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_05
+HGL_0667,"Please help, package mein ek accessory missing hai.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_05
+HGL_0668,"Please help, package mein ek accessory missing hai. Please jaldi resolve karo.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_05
+HGL_0669,"Please help, package mein ek accessory missing hai. Mujhe jaldi update chahiye.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_05
+HGL_0670,Mujhe help chahiye kyunki package mein ek accessory missing hai.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_05
+HGL_0671,Mujhe help chahiye kyunki package mein ek accessory missing hai. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_05
+HGL_0672,Mujhe help chahiye kyunki package mein ek accessory missing hai. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_05
+HGL_0673,Ye urgent hai: package mein ek accessory missing hai.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_05
+HGL_0674,Ye urgent hai: package mein ek accessory missing hai. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_05
+HGL_0675,Ye urgent hai: package mein ek accessory missing hai. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_05
+HGL_0676,Item ke parts broken hain.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_06
+HGL_0677,Item ke parts broken hain. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_06
+HGL_0678,Item ke parts broken hain. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_06
+HGL_0679,"Hello, item ke parts broken hain.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_06
+HGL_0680,"Hello, item ke parts broken hain. Please jaldi resolve karo.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_06
+HGL_0681,"Hello, item ke parts broken hain. Mujhe jaldi update chahiye.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_06
+HGL_0682,"Please help, item ke parts broken hain.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_06
+HGL_0683,"Please help, item ke parts broken hain. Please jaldi resolve karo.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_06
+HGL_0684,"Please help, item ke parts broken hain. Mujhe jaldi update chahiye.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_06
+HGL_0685,Mujhe help chahiye kyunki item ke parts broken hain.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_06
+HGL_0686,Mujhe help chahiye kyunki item ke parts broken hain. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_06
+HGL_0687,Mujhe help chahiye kyunki item ke parts broken hain. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_06
+HGL_0688,Ye urgent hai: item ke parts broken hain.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_06
+HGL_0689,Ye urgent hai: item ke parts broken hain. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_06
+HGL_0690,Ye urgent hai: item ke parts broken hain. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_06
+HGL_0691,Product ki quality bahut poor hai.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_07
+HGL_0692,Product ki quality bahut poor hai. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_07
+HGL_0693,Product ki quality bahut poor hai. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_07
+HGL_0694,"Hello, product ki quality bahut poor hai.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_07
+HGL_0695,"Hello, product ki quality bahut poor hai. Please jaldi resolve karo.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_07
+HGL_0696,"Hello, product ki quality bahut poor hai. Mujhe jaldi update chahiye.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_07
+HGL_0697,"Please help, product ki quality bahut poor hai.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_07
+HGL_0698,"Please help, product ki quality bahut poor hai. Please jaldi resolve karo.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_07
+HGL_0699,"Please help, product ki quality bahut poor hai. Mujhe jaldi update chahiye.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_07
+HGL_0700,Mujhe help chahiye kyunki product ki quality bahut poor hai.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_07
+HGL_0701,Mujhe help chahiye kyunki product ki quality bahut poor hai. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_07
+HGL_0702,Mujhe help chahiye kyunki product ki quality bahut poor hai. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_07
+HGL_0703,Ye urgent hai: product ki quality bahut poor hai.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_07
+HGL_0704,Ye urgent hai: product ki quality bahut poor hai. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_07
+HGL_0705,Ye urgent hai: product ki quality bahut poor hai. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_07
+HGL_0706,Mujhe expired product mila hai.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_08
+HGL_0707,Mujhe expired product mila hai. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_08
+HGL_0708,Mujhe expired product mila hai. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_08
+HGL_0709,"Hello, mujhe expired product mila hai.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_08
+HGL_0710,"Hello, mujhe expired product mila hai. Please jaldi resolve karo.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_08
+HGL_0711,"Hello, mujhe expired product mila hai. Mujhe jaldi update chahiye.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_08
+HGL_0712,"Please help, mujhe expired product mila hai.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_08
+HGL_0713,"Please help, mujhe expired product mila hai. Please jaldi resolve karo.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_08
+HGL_0714,"Please help, mujhe expired product mila hai. Mujhe jaldi update chahiye.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_08
+HGL_0715,Mujhe help chahiye kyunki mujhe expired product mila hai.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_08
+HGL_0716,Mujhe help chahiye kyunki mujhe expired product mila hai. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_08
+HGL_0717,Mujhe help chahiye kyunki mujhe expired product mila hai. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_08
+HGL_0718,Ye urgent hai: mujhe expired product mila hai.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_08
+HGL_0719,Ye urgent hai: mujhe expired product mila hai. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_08
+HGL_0720,Ye urgent hai: mujhe expired product mila hai. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_08
+HGL_0721,Product ka size ya colour order se different hai.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_09
+HGL_0722,Product ka size ya colour order se different hai. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_09
+HGL_0723,Product ka size ya colour order se different hai. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_09
+HGL_0724,"Hello, product ka size ya colour order se different hai.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_09
+HGL_0725,"Hello, product ka size ya colour order se different hai. Please jaldi resolve karo.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_09
+HGL_0726,"Hello, product ka size ya colour order se different hai. Mujhe jaldi update chahiye.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_09
+HGL_0727,"Please help, product ka size ya colour order se different hai.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_09
+HGL_0728,"Please help, product ka size ya colour order se different hai. Please jaldi resolve karo.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_09
+HGL_0729,"Please help, product ka size ya colour order se different hai. Mujhe jaldi update chahiye.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_09
+HGL_0730,Mujhe help chahiye kyunki product ka size ya colour order se different hai.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_09
+HGL_0731,Mujhe help chahiye kyunki product ka size ya colour order se different hai. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_09
+HGL_0732,Mujhe help chahiye kyunki product ka size ya colour order se different hai. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_09
+HGL_0733,Ye urgent hai: product ka size ya colour order se different hai.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_09
+HGL_0734,Ye urgent hai: product ka size ya colour order se different hai. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_09
+HGL_0735,Ye urgent hai: product ka size ya colour order se different hai. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_09
+HGL_0736,Delivery mein empty package mila hai.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_10
+HGL_0737,Delivery mein empty package mila hai. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_10
+HGL_0738,Delivery mein empty package mila hai. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_10
+HGL_0739,"Hello, delivery mein empty package mila hai.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_10
+HGL_0740,"Hello, delivery mein empty package mila hai. Please jaldi resolve karo.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_10
+HGL_0741,"Hello, delivery mein empty package mila hai. Mujhe jaldi update chahiye.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_10
+HGL_0742,"Please help, delivery mein empty package mila hai.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_10
+HGL_0743,"Please help, delivery mein empty package mila hai. Please jaldi resolve karo.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_10
+HGL_0744,"Please help, delivery mein empty package mila hai. Mujhe jaldi update chahiye.",Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_10
+HGL_0745,Mujhe help chahiye kyunki delivery mein empty package mila hai.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_10
+HGL_0746,Mujhe help chahiye kyunki delivery mein empty package mila hai. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_10
+HGL_0747,Mujhe help chahiye kyunki delivery mein empty package mila hai. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_10
+HGL_0748,Ye urgent hai: delivery mein empty package mila hai.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_10
+HGL_0749,Ye urgent hai: delivery mein empty package mila hai. Please jaldi resolve karo.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_10
+HGL_0750,Ye urgent hai: delivery mein empty package mila hai. Mujhe jaldi update chahiye.,Hinglish,Product Issue,Product Support,High,Hinglish_Product Issue_10
+HGL_0751,Mujhe ye product return karna hai.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_01
+HGL_0752,Mujhe ye product return karna hai. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_01
+HGL_0753,Mujhe ye product return karna hai. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_01
+HGL_0754,"Hello, mujhe ye product return karna hai.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_01
+HGL_0755,"Hello, mujhe ye product return karna hai. Please jaldi resolve karo.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_01
+HGL_0756,"Hello, mujhe ye product return karna hai. Mujhe jaldi update chahiye.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_01
+HGL_0757,"Please help, mujhe ye product return karna hai.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_01
+HGL_0758,"Please help, mujhe ye product return karna hai. Please jaldi resolve karo.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_01
+HGL_0759,"Please help, mujhe ye product return karna hai. Mujhe jaldi update chahiye.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_01
+HGL_0760,Mujhe help chahiye kyunki mujhe ye product return karna hai.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_01
+HGL_0761,Mujhe help chahiye kyunki mujhe ye product return karna hai. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_01
+HGL_0762,Mujhe help chahiye kyunki mujhe ye product return karna hai. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_01
+HGL_0763,Ye urgent hai: mujhe ye product return karna hai.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_01
+HGL_0764,Ye urgent hai: mujhe ye product return karna hai. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_01
+HGL_0765,Ye urgent hai: mujhe ye product return karna hai. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_01
+HGL_0766,Damaged item ka replacement chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_02
+HGL_0767,Damaged item ka replacement chahiye. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_02
+HGL_0768,Damaged item ka replacement chahiye. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_02
+HGL_0769,"Hello, damaged item ka replacement chahiye.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_02
+HGL_0770,"Hello, damaged item ka replacement chahiye. Please jaldi resolve karo.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_02
+HGL_0771,"Hello, damaged item ka replacement chahiye. Mujhe jaldi update chahiye.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_02
+HGL_0772,"Please help, damaged item ka replacement chahiye.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_02
+HGL_0773,"Please help, damaged item ka replacement chahiye. Please jaldi resolve karo.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_02
+HGL_0774,"Please help, damaged item ka replacement chahiye. Mujhe jaldi update chahiye.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_02
+HGL_0775,Mujhe help chahiye kyunki damaged item ka replacement chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_02
+HGL_0776,Mujhe help chahiye kyunki damaged item ka replacement chahiye. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_02
+HGL_0777,Mujhe help chahiye kyunki damaged item ka replacement chahiye. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_02
+HGL_0778,Ye urgent hai: damaged item ka replacement chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_02
+HGL_0779,Ye urgent hai: damaged item ka replacement chahiye. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_02
+HGL_0780,Ye urgent hai: damaged item ka replacement chahiye. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_02
+HGL_0781,Meri return request accept nahi ho rahi.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_03
+HGL_0782,Meri return request accept nahi ho rahi. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_03
+HGL_0783,Meri return request accept nahi ho rahi. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_03
+HGL_0784,"Hello, meri return request accept nahi ho rahi.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_03
+HGL_0785,"Hello, meri return request accept nahi ho rahi. Please jaldi resolve karo.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_03
+HGL_0786,"Hello, meri return request accept nahi ho rahi. Mujhe jaldi update chahiye.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_03
+HGL_0787,"Please help, meri return request accept nahi ho rahi.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_03
+HGL_0788,"Please help, meri return request accept nahi ho rahi. Please jaldi resolve karo.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_03
+HGL_0789,"Please help, meri return request accept nahi ho rahi. Mujhe jaldi update chahiye.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_03
+HGL_0790,Mujhe help chahiye kyunki meri return request accept nahi ho rahi.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_03
+HGL_0791,Mujhe help chahiye kyunki meri return request accept nahi ho rahi. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_03
+HGL_0792,Mujhe help chahiye kyunki meri return request accept nahi ho rahi. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_03
+HGL_0793,Ye urgent hai: meri return request accept nahi ho rahi.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_03
+HGL_0794,Ye urgent hai: meri return request accept nahi ho rahi. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_03
+HGL_0795,Ye urgent hai: meri return request accept nahi ho rahi. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_03
+HGL_0796,Return pickup abhi tak nahi hua.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_04
+HGL_0797,Return pickup abhi tak nahi hua. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_04
+HGL_0798,Return pickup abhi tak nahi hua. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_04
+HGL_0799,"Hello, return pickup abhi tak nahi hua.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_04
+HGL_0800,"Hello, return pickup abhi tak nahi hua. Please jaldi resolve karo.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_04
+HGL_0801,"Hello, return pickup abhi tak nahi hua. Mujhe jaldi update chahiye.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_04
+HGL_0802,"Please help, return pickup abhi tak nahi hua.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_04
+HGL_0803,"Please help, return pickup abhi tak nahi hua. Please jaldi resolve karo.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_04
+HGL_0804,"Please help, return pickup abhi tak nahi hua. Mujhe jaldi update chahiye.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_04
+HGL_0805,Mujhe help chahiye kyunki return pickup abhi tak nahi hua.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_04
+HGL_0806,Mujhe help chahiye kyunki return pickup abhi tak nahi hua. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_04
+HGL_0807,Mujhe help chahiye kyunki return pickup abhi tak nahi hua. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_04
+HGL_0808,Ye urgent hai: return pickup abhi tak nahi hua.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_04
+HGL_0809,Ye urgent hai: return pickup abhi tak nahi hua. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_04
+HGL_0810,Ye urgent hai: return pickup abhi tak nahi hua. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_04
+HGL_0811,Mujhe item ko different size se exchange karna hai.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_05
+HGL_0812,Mujhe item ko different size se exchange karna hai. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_05
+HGL_0813,Mujhe item ko different size se exchange karna hai. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_05
+HGL_0814,"Hello, mujhe item ko different size se exchange karna hai.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_05
+HGL_0815,"Hello, mujhe item ko different size se exchange karna hai. Please jaldi resolve karo.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_05
+HGL_0816,"Hello, mujhe item ko different size se exchange karna hai. Mujhe jaldi update chahiye.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_05
+HGL_0817,"Please help, mujhe item ko different size se exchange karna hai.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_05
+HGL_0818,"Please help, mujhe item ko different size se exchange karna hai. Please jaldi resolve karo.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_05
+HGL_0819,"Please help, mujhe item ko different size se exchange karna hai. Mujhe jaldi update chahiye.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_05
+HGL_0820,Mujhe help chahiye kyunki mujhe item ko different size se exchange karna hai.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_05
+HGL_0821,Mujhe help chahiye kyunki mujhe item ko different size se exchange karna hai. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_05
+HGL_0822,Mujhe help chahiye kyunki mujhe item ko different size se exchange karna hai. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_05
+HGL_0823,Ye urgent hai: mujhe item ko different size se exchange karna hai.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_05
+HGL_0824,Ye urgent hai: mujhe item ko different size se exchange karna hai. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_05
+HGL_0825,Ye urgent hai: mujhe item ko different size se exchange karna hai. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_05
+HGL_0826,Replacement order abhi tak ship nahi hua.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_06
+HGL_0827,Replacement order abhi tak ship nahi hua. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_06
+HGL_0828,Replacement order abhi tak ship nahi hua. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_06
+HGL_0829,"Hello, replacement order abhi tak ship nahi hua.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_06
+HGL_0830,"Hello, replacement order abhi tak ship nahi hua. Please jaldi resolve karo.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_06
+HGL_0831,"Hello, replacement order abhi tak ship nahi hua. Mujhe jaldi update chahiye.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_06
+HGL_0832,"Please help, replacement order abhi tak ship nahi hua.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_06
+HGL_0833,"Please help, replacement order abhi tak ship nahi hua. Please jaldi resolve karo.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_06
+HGL_0834,"Please help, replacement order abhi tak ship nahi hua. Mujhe jaldi update chahiye.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_06
+HGL_0835,Mujhe help chahiye kyunki replacement order abhi tak ship nahi hua.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_06
+HGL_0836,Mujhe help chahiye kyunki replacement order abhi tak ship nahi hua. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_06
+HGL_0837,Mujhe help chahiye kyunki replacement order abhi tak ship nahi hua. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_06
+HGL_0838,Ye urgent hai: replacement order abhi tak ship nahi hua.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_06
+HGL_0839,Ye urgent hai: replacement order abhi tak ship nahi hua. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_06
+HGL_0840,Ye urgent hai: replacement order abhi tak ship nahi hua. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_06
+HGL_0841,Return window galat closed show ho rahi hai.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_07
+HGL_0842,Return window galat closed show ho rahi hai. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_07
+HGL_0843,Return window galat closed show ho rahi hai. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_07
+HGL_0844,"Hello, return window galat closed show ho rahi hai.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_07
+HGL_0845,"Hello, return window galat closed show ho rahi hai. Please jaldi resolve karo.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_07
+HGL_0846,"Hello, return window galat closed show ho rahi hai. Mujhe jaldi update chahiye.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_07
+HGL_0847,"Please help, return window galat closed show ho rahi hai.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_07
+HGL_0848,"Please help, return window galat closed show ho rahi hai. Please jaldi resolve karo.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_07
+HGL_0849,"Please help, return window galat closed show ho rahi hai. Mujhe jaldi update chahiye.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_07
+HGL_0850,Mujhe help chahiye kyunki return window galat closed show ho rahi hai.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_07
+HGL_0851,Mujhe help chahiye kyunki return window galat closed show ho rahi hai. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_07
+HGL_0852,Mujhe help chahiye kyunki return window galat closed show ho rahi hai. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_07
+HGL_0853,Ye urgent hai: return window galat closed show ho rahi hai.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_07
+HGL_0854,Ye urgent hai: return window galat closed show ho rahi hai. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_07
+HGL_0855,Ye urgent hai: return window galat closed show ho rahi hai. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_07
+HGL_0856,Courier person ne return collect karne se mana kiya.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_08
+HGL_0857,Courier person ne return collect karne se mana kiya. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_08
+HGL_0858,Courier person ne return collect karne se mana kiya. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_08
+HGL_0859,"Hello, courier person ne return collect karne se mana kiya.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_08
+HGL_0860,"Hello, courier person ne return collect karne se mana kiya. Please jaldi resolve karo.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_08
+HGL_0861,"Hello, courier person ne return collect karne se mana kiya. Mujhe jaldi update chahiye.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_08
+HGL_0862,"Please help, courier person ne return collect karne se mana kiya.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_08
+HGL_0863,"Please help, courier person ne return collect karne se mana kiya. Please jaldi resolve karo.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_08
+HGL_0864,"Please help, courier person ne return collect karne se mana kiya. Mujhe jaldi update chahiye.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_08
+HGL_0865,Mujhe help chahiye kyunki courier person ne return collect karne se mana kiya.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_08
+HGL_0866,Mujhe help chahiye kyunki courier person ne return collect karne se mana kiya. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_08
+HGL_0867,Mujhe help chahiye kyunki courier person ne return collect karne se mana kiya. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_08
+HGL_0868,Ye urgent hai: courier person ne return collect karne se mana kiya.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_08
+HGL_0869,Ye urgent hai: courier person ne return collect karne se mana kiya. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_08
+HGL_0870,Ye urgent hai: courier person ne return collect karne se mana kiya. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_08
+HGL_0871,Mujhe wrong replacement product mila.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_09
+HGL_0872,Mujhe wrong replacement product mila. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_09
+HGL_0873,Mujhe wrong replacement product mila. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_09
+HGL_0874,"Hello, mujhe wrong replacement product mila.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_09
+HGL_0875,"Hello, mujhe wrong replacement product mila. Please jaldi resolve karo.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_09
+HGL_0876,"Hello, mujhe wrong replacement product mila. Mujhe jaldi update chahiye.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_09
+HGL_0877,"Please help, mujhe wrong replacement product mila.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_09
+HGL_0878,"Please help, mujhe wrong replacement product mila. Please jaldi resolve karo.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_09
+HGL_0879,"Please help, mujhe wrong replacement product mila. Mujhe jaldi update chahiye.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_09
+HGL_0880,Mujhe help chahiye kyunki mujhe wrong replacement product mila.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_09
+HGL_0881,Mujhe help chahiye kyunki mujhe wrong replacement product mila. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_09
+HGL_0882,Mujhe help chahiye kyunki mujhe wrong replacement product mila. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_09
+HGL_0883,Ye urgent hai: mujhe wrong replacement product mila.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_09
+HGL_0884,Ye urgent hai: mujhe wrong replacement product mila. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_09
+HGL_0885,Ye urgent hai: mujhe wrong replacement product mila. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_09
+HGL_0886,Meri return request bina reason cancel ho gayi.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_10
+HGL_0887,Meri return request bina reason cancel ho gayi. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_10
+HGL_0888,Meri return request bina reason cancel ho gayi. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_10
+HGL_0889,"Hello, meri return request bina reason cancel ho gayi.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_10
+HGL_0890,"Hello, meri return request bina reason cancel ho gayi. Please jaldi resolve karo.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_10
+HGL_0891,"Hello, meri return request bina reason cancel ho gayi. Mujhe jaldi update chahiye.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_10
+HGL_0892,"Please help, meri return request bina reason cancel ho gayi.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_10
+HGL_0893,"Please help, meri return request bina reason cancel ho gayi. Please jaldi resolve karo.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_10
+HGL_0894,"Please help, meri return request bina reason cancel ho gayi. Mujhe jaldi update chahiye.",Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_10
+HGL_0895,Mujhe help chahiye kyunki meri return request bina reason cancel ho gayi.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_10
+HGL_0896,Mujhe help chahiye kyunki meri return request bina reason cancel ho gayi. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_10
+HGL_0897,Mujhe help chahiye kyunki meri return request bina reason cancel ho gayi. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_10
+HGL_0898,Ye urgent hai: meri return request bina reason cancel ho gayi.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_10
+HGL_0899,Ye urgent hai: meri return request bina reason cancel ho gayi. Please jaldi resolve karo.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_10
+HGL_0900,Ye urgent hai: meri return request bina reason cancel ho gayi. Mujhe jaldi update chahiye.,Hinglish,Return/Replacement,Returns Team,Medium,Hinglish_Return/Replacement_10
+HGL_0901,Main apne account mein login nahi kar pa rahi hoon.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_01
+HGL_0902,Main apne account mein login nahi kar pa rahi hoon. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_01
+HGL_0903,Main apne account mein login nahi kar pa rahi hoon. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_01
+HGL_0904,"Hello, main apne account mein login nahi kar pa rahi hoon.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_01
+HGL_0905,"Hello, main apne account mein login nahi kar pa rahi hoon. Please jaldi resolve karo.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_01
+HGL_0906,"Hello, main apne account mein login nahi kar pa rahi hoon. Mujhe jaldi update chahiye.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_01
+HGL_0907,"Please help, main apne account mein login nahi kar pa rahi hoon.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_01
+HGL_0908,"Please help, main apne account mein login nahi kar pa rahi hoon. Please jaldi resolve karo.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_01
+HGL_0909,"Please help, main apne account mein login nahi kar pa rahi hoon. Mujhe jaldi update chahiye.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_01
+HGL_0910,Mujhe help chahiye kyunki main apne account mein login nahi kar pa rahi hoon.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_01
+HGL_0911,Mujhe help chahiye kyunki main apne account mein login nahi kar pa rahi hoon. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_01
+HGL_0912,Mujhe help chahiye kyunki main apne account mein login nahi kar pa rahi hoon. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_01
+HGL_0913,Ye urgent hai: main apne account mein login nahi kar pa rahi hoon.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_01
+HGL_0914,Ye urgent hai: main apne account mein login nahi kar pa rahi hoon. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_01
+HGL_0915,Ye urgent hai: main apne account mein login nahi kar pa rahi hoon. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_01
+HGL_0916,Mujhe login OTP receive nahi ho raha.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_02
+HGL_0917,Mujhe login OTP receive nahi ho raha. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_02
+HGL_0918,Mujhe login OTP receive nahi ho raha. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_02
+HGL_0919,"Hello, mujhe login OTP receive nahi ho raha.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_02
+HGL_0920,"Hello, mujhe login OTP receive nahi ho raha. Please jaldi resolve karo.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_02
+HGL_0921,"Hello, mujhe login OTP receive nahi ho raha. Mujhe jaldi update chahiye.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_02
+HGL_0922,"Please help, mujhe login OTP receive nahi ho raha.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_02
+HGL_0923,"Please help, mujhe login OTP receive nahi ho raha. Please jaldi resolve karo.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_02
+HGL_0924,"Please help, mujhe login OTP receive nahi ho raha. Mujhe jaldi update chahiye.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_02
+HGL_0925,Mujhe help chahiye kyunki mujhe login OTP receive nahi ho raha.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_02
+HGL_0926,Mujhe help chahiye kyunki mujhe login OTP receive nahi ho raha. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_02
+HGL_0927,Mujhe help chahiye kyunki mujhe login OTP receive nahi ho raha. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_02
+HGL_0928,Ye urgent hai: mujhe login OTP receive nahi ho raha.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_02
+HGL_0929,Ye urgent hai: mujhe login OTP receive nahi ho raha. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_02
+HGL_0930,Ye urgent hai: mujhe login OTP receive nahi ho raha. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_02
+HGL_0931,Mera account lock ho gaya hai.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_03
+HGL_0932,Mera account lock ho gaya hai. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_03
+HGL_0933,Mera account lock ho gaya hai. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_03
+HGL_0934,"Hello, mera account lock ho gaya hai.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_03
+HGL_0935,"Hello, mera account lock ho gaya hai. Please jaldi resolve karo.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_03
+HGL_0936,"Hello, mera account lock ho gaya hai. Mujhe jaldi update chahiye.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_03
+HGL_0937,"Please help, mera account lock ho gaya hai.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_03
+HGL_0938,"Please help, mera account lock ho gaya hai. Please jaldi resolve karo.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_03
+HGL_0939,"Please help, mera account lock ho gaya hai. Mujhe jaldi update chahiye.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_03
+HGL_0940,Mujhe help chahiye kyunki mera account lock ho gaya hai.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_03
+HGL_0941,Mujhe help chahiye kyunki mera account lock ho gaya hai. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_03
+HGL_0942,Mujhe help chahiye kyunki mera account lock ho gaya hai. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_03
+HGL_0943,Ye urgent hai: mera account lock ho gaya hai.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_03
+HGL_0944,Ye urgent hai: mera account lock ho gaya hai. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_03
+HGL_0945,Ye urgent hai: mera account lock ho gaya hai. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_03
+HGL_0946,Main apna phone number update nahi kar pa rahi hoon.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_04
+HGL_0947,Main apna phone number update nahi kar pa rahi hoon. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_04
+HGL_0948,Main apna phone number update nahi kar pa rahi hoon. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_04
+HGL_0949,"Hello, main apna phone number update nahi kar pa rahi hoon.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_04
+HGL_0950,"Hello, main apna phone number update nahi kar pa rahi hoon. Please jaldi resolve karo.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_04
+HGL_0951,"Hello, main apna phone number update nahi kar pa rahi hoon. Mujhe jaldi update chahiye.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_04
+HGL_0952,"Please help, main apna phone number update nahi kar pa rahi hoon.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_04
+HGL_0953,"Please help, main apna phone number update nahi kar pa rahi hoon. Please jaldi resolve karo.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_04
+HGL_0954,"Please help, main apna phone number update nahi kar pa rahi hoon. Mujhe jaldi update chahiye.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_04
+HGL_0955,Mujhe help chahiye kyunki main apna phone number update nahi kar pa rahi hoon.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_04
+HGL_0956,Mujhe help chahiye kyunki main apna phone number update nahi kar pa rahi hoon. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_04
+HGL_0957,Mujhe help chahiye kyunki main apna phone number update nahi kar pa rahi hoon. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_04
+HGL_0958,Ye urgent hai: main apna phone number update nahi kar pa rahi hoon.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_04
+HGL_0959,Ye urgent hai: main apna phone number update nahi kar pa rahi hoon. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_04
+HGL_0960,Ye urgent hai: main apna phone number update nahi kar pa rahi hoon. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_04
+HGL_0961,Mera saved address disappear ho gaya.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_05
+HGL_0962,Mera saved address disappear ho gaya. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_05
+HGL_0963,Mera saved address disappear ho gaya. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_05
+HGL_0964,"Hello, mera saved address disappear ho gaya.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_05
+HGL_0965,"Hello, mera saved address disappear ho gaya. Please jaldi resolve karo.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_05
+HGL_0966,"Hello, mera saved address disappear ho gaya. Mujhe jaldi update chahiye.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_05
+HGL_0967,"Please help, mera saved address disappear ho gaya.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_05
+HGL_0968,"Please help, mera saved address disappear ho gaya. Please jaldi resolve karo.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_05
+HGL_0969,"Please help, mera saved address disappear ho gaya. Mujhe jaldi update chahiye.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_05
+HGL_0970,Mujhe help chahiye kyunki mera saved address disappear ho gaya.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_05
+HGL_0971,Mujhe help chahiye kyunki mera saved address disappear ho gaya. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_05
+HGL_0972,Mujhe help chahiye kyunki mera saved address disappear ho gaya. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_05
+HGL_0973,Ye urgent hai: mera saved address disappear ho gaya.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_05
+HGL_0974,Ye urgent hai: mera saved address disappear ho gaya. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_05
+HGL_0975,Ye urgent hai: mera saved address disappear ho gaya. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_05
+HGL_0976,Main password reset nahi kar pa rahi hoon.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_06
+HGL_0977,Main password reset nahi kar pa rahi hoon. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_06
+HGL_0978,Main password reset nahi kar pa rahi hoon. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_06
+HGL_0979,"Hello, main password reset nahi kar pa rahi hoon.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_06
+HGL_0980,"Hello, main password reset nahi kar pa rahi hoon. Please jaldi resolve karo.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_06
+HGL_0981,"Hello, main password reset nahi kar pa rahi hoon. Mujhe jaldi update chahiye.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_06
+HGL_0982,"Please help, main password reset nahi kar pa rahi hoon.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_06
+HGL_0983,"Please help, main password reset nahi kar pa rahi hoon. Please jaldi resolve karo.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_06
+HGL_0984,"Please help, main password reset nahi kar pa rahi hoon. Mujhe jaldi update chahiye.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_06
+HGL_0985,Mujhe help chahiye kyunki main password reset nahi kar pa rahi hoon.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_06
+HGL_0986,Mujhe help chahiye kyunki main password reset nahi kar pa rahi hoon. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_06
+HGL_0987,Mujhe help chahiye kyunki main password reset nahi kar pa rahi hoon. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_06
+HGL_0988,Ye urgent hai: main password reset nahi kar pa rahi hoon.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_06
+HGL_0989,Ye urgent hai: main password reset nahi kar pa rahi hoon. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_06
+HGL_0990,Ye urgent hai: main password reset nahi kar pa rahi hoon. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_06
+HGL_0991,App mujhe baar baar logout kar raha hai.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_07
+HGL_0992,App mujhe baar baar logout kar raha hai. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_07
+HGL_0993,App mujhe baar baar logout kar raha hai. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_07
+HGL_0994,"Hello, app mujhe baar baar logout kar raha hai.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_07
+HGL_0995,"Hello, app mujhe baar baar logout kar raha hai. Please jaldi resolve karo.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_07
+HGL_0996,"Hello, app mujhe baar baar logout kar raha hai. Mujhe jaldi update chahiye.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_07
+HGL_0997,"Please help, app mujhe baar baar logout kar raha hai.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_07
+HGL_0998,"Please help, app mujhe baar baar logout kar raha hai. Please jaldi resolve karo.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_07
+HGL_0999,"Please help, app mujhe baar baar logout kar raha hai. Mujhe jaldi update chahiye.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_07
+HGL_1000,Mujhe help chahiye kyunki app mujhe baar baar logout kar raha hai.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_07
+HGL_1001,Mujhe help chahiye kyunki app mujhe baar baar logout kar raha hai. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_07
+HGL_1002,Mujhe help chahiye kyunki app mujhe baar baar logout kar raha hai. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_07
+HGL_1003,Ye urgent hai: app mujhe baar baar logout kar raha hai.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_07
+HGL_1004,Ye urgent hai: app mujhe baar baar logout kar raha hai. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_07
+HGL_1005,Ye urgent hai: app mujhe baar baar logout kar raha hai. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_07
+HGL_1006,Main linked email change nahi kar pa rahi hoon.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_08
+HGL_1007,Main linked email change nahi kar pa rahi hoon. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_08
+HGL_1008,Main linked email change nahi kar pa rahi hoon. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_08
+HGL_1009,"Hello, main linked email change nahi kar pa rahi hoon.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_08
+HGL_1010,"Hello, main linked email change nahi kar pa rahi hoon. Please jaldi resolve karo.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_08
+HGL_1011,"Hello, main linked email change nahi kar pa rahi hoon. Mujhe jaldi update chahiye.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_08
+HGL_1012,"Please help, main linked email change nahi kar pa rahi hoon.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_08
+HGL_1013,"Please help, main linked email change nahi kar pa rahi hoon. Please jaldi resolve karo.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_08
+HGL_1014,"Please help, main linked email change nahi kar pa rahi hoon. Mujhe jaldi update chahiye.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_08
+HGL_1015,Mujhe help chahiye kyunki main linked email change nahi kar pa rahi hoon.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_08
+HGL_1016,Mujhe help chahiye kyunki main linked email change nahi kar pa rahi hoon. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_08
+HGL_1017,Mujhe help chahiye kyunki main linked email change nahi kar pa rahi hoon. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_08
+HGL_1018,Ye urgent hai: main linked email change nahi kar pa rahi hoon.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_08
+HGL_1019,Ye urgent hai: main linked email change nahi kar pa rahi hoon. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_08
+HGL_1020,Ye urgent hai: main linked email change nahi kar pa rahi hoon. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_08
+HGL_1021,Meri order history missing hai.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_09
+HGL_1022,Meri order history missing hai. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_09
+HGL_1023,Meri order history missing hai. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_09
+HGL_1024,"Hello, meri order history missing hai.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_09
+HGL_1025,"Hello, meri order history missing hai. Please jaldi resolve karo.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_09
+HGL_1026,"Hello, meri order history missing hai. Mujhe jaldi update chahiye.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_09
+HGL_1027,"Please help, meri order history missing hai.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_09
+HGL_1028,"Please help, meri order history missing hai. Please jaldi resolve karo.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_09
+HGL_1029,"Please help, meri order history missing hai. Mujhe jaldi update chahiye.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_09
+HGL_1030,Mujhe help chahiye kyunki meri order history missing hai.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_09
+HGL_1031,Mujhe help chahiye kyunki meri order history missing hai. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_09
+HGL_1032,Mujhe help chahiye kyunki meri order history missing hai. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_09
+HGL_1033,Ye urgent hai: meri order history missing hai.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_09
+HGL_1034,Ye urgent hai: meri order history missing hai. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_09
+HGL_1035,Ye urgent hai: meri order history missing hai. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_09
+HGL_1036,Same number se accidentally do accounts create ho gaye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_10
+HGL_1037,Same number se accidentally do accounts create ho gaye. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_10
+HGL_1038,Same number se accidentally do accounts create ho gaye. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_10
+HGL_1039,"Hello, same number se accidentally do accounts create ho gaye.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_10
+HGL_1040,"Hello, same number se accidentally do accounts create ho gaye. Please jaldi resolve karo.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_10
+HGL_1041,"Hello, same number se accidentally do accounts create ho gaye. Mujhe jaldi update chahiye.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_10
+HGL_1042,"Please help, same number se accidentally do accounts create ho gaye.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_10
+HGL_1043,"Please help, same number se accidentally do accounts create ho gaye. Please jaldi resolve karo.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_10
+HGL_1044,"Please help, same number se accidentally do accounts create ho gaye. Mujhe jaldi update chahiye.",Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_10
+HGL_1045,Mujhe help chahiye kyunki same number se accidentally do accounts create ho gaye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_10
+HGL_1046,Mujhe help chahiye kyunki same number se accidentally do accounts create ho gaye. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_10
+HGL_1047,Mujhe help chahiye kyunki same number se accidentally do accounts create ho gaye. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_10
+HGL_1048,Ye urgent hai: same number se accidentally do accounts create ho gaye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_10
+HGL_1049,Ye urgent hai: same number se accidentally do accounts create ho gaye. Please jaldi resolve karo.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_10
+HGL_1050,Ye urgent hai: same number se accidentally do accounts create ho gaye. Mujhe jaldi update chahiye.,Hinglish,Account Issue,Account Support,Medium,Hinglish_Account Issue_10
+HGL_1051,Mere account mein unknown transaction hua hai.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_01
+HGL_1052,Mere account mein unknown transaction hua hai. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_01
+HGL_1053,Mere account mein unknown transaction hua hai. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_01
+HGL_1054,"Hello, mere account mein unknown transaction hua hai.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_01
+HGL_1055,"Hello, mere account mein unknown transaction hua hai. Please jaldi resolve karo.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_01
+HGL_1056,"Hello, mere account mein unknown transaction hua hai. Mujhe jaldi update chahiye.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_01
+HGL_1057,"Please help, mere account mein unknown transaction hua hai.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_01
+HGL_1058,"Please help, mere account mein unknown transaction hua hai. Please jaldi resolve karo.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_01
+HGL_1059,"Please help, mere account mein unknown transaction hua hai. Mujhe jaldi update chahiye.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_01
+HGL_1060,Mujhe help chahiye kyunki mere account mein unknown transaction hua hai.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_01
+HGL_1061,Mujhe help chahiye kyunki mere account mein unknown transaction hua hai. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_01
+HGL_1062,Mujhe help chahiye kyunki mere account mein unknown transaction hua hai. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_01
+HGL_1063,Ye urgent hai: mere account mein unknown transaction hua hai.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_01
+HGL_1064,Ye urgent hai: mere account mein unknown transaction hua hai. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_01
+HGL_1065,Ye urgent hai: mere account mein unknown transaction hua hai. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_01
+HGL_1066,Kisi ne mere account se order place kiya.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_02
+HGL_1067,Kisi ne mere account se order place kiya. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_02
+HGL_1068,Kisi ne mere account se order place kiya. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_02
+HGL_1069,"Hello, kisi ne mere account se order place kiya.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_02
+HGL_1070,"Hello, kisi ne mere account se order place kiya. Please jaldi resolve karo.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_02
+HGL_1071,"Hello, kisi ne mere account se order place kiya. Mujhe jaldi update chahiye.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_02
+HGL_1072,"Please help, kisi ne mere account se order place kiya.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_02
+HGL_1073,"Please help, kisi ne mere account se order place kiya. Please jaldi resolve karo.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_02
+HGL_1074,"Please help, kisi ne mere account se order place kiya. Mujhe jaldi update chahiye.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_02
+HGL_1075,Mujhe help chahiye kyunki kisi ne mere account se order place kiya.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_02
+HGL_1076,Mujhe help chahiye kyunki kisi ne mere account se order place kiya. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_02
+HGL_1077,Mujhe help chahiye kyunki kisi ne mere account se order place kiya. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_02
+HGL_1078,Ye urgent hai: kisi ne mere account se order place kiya.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_02
+HGL_1079,Ye urgent hai: kisi ne mere account se order place kiya. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_02
+HGL_1080,Ye urgent hai: kisi ne mere account se order place kiya. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_02
+HGL_1081,Lagta hai mera account hack ho gaya hai.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_03
+HGL_1082,Lagta hai mera account hack ho gaya hai. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_03
+HGL_1083,Lagta hai mera account hack ho gaya hai. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_03
+HGL_1084,"Hello, lagta hai mera account hack ho gaya hai.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_03
+HGL_1085,"Hello, lagta hai mera account hack ho gaya hai. Please jaldi resolve karo.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_03
+HGL_1086,"Hello, lagta hai mera account hack ho gaya hai. Mujhe jaldi update chahiye.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_03
+HGL_1087,"Please help, lagta hai mera account hack ho gaya hai.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_03
+HGL_1088,"Please help, lagta hai mera account hack ho gaya hai. Please jaldi resolve karo.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_03
+HGL_1089,"Please help, lagta hai mera account hack ho gaya hai. Mujhe jaldi update chahiye.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_03
+HGL_1090,Mujhe help chahiye kyunki lagta hai mera account hack ho gaya hai.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_03
+HGL_1091,Mujhe help chahiye kyunki lagta hai mera account hack ho gaya hai. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_03
+HGL_1092,Mujhe help chahiye kyunki lagta hai mera account hack ho gaya hai. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_03
+HGL_1093,Ye urgent hai: lagta hai mera account hack ho gaya hai.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_03
+HGL_1094,Ye urgent hai: lagta hai mera account hack ho gaya hai. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_03
+HGL_1095,Ye urgent hai: lagta hai mera account hack ho gaya hai. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_03
+HGL_1096,Mujhe aisi purchase ka OTP mila jo maine nahi ki.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_04
+HGL_1097,Mujhe aisi purchase ka OTP mila jo maine nahi ki. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_04
+HGL_1098,Mujhe aisi purchase ka OTP mila jo maine nahi ki. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_04
+HGL_1099,"Hello, mujhe aisi purchase ka OTP mila jo maine nahi ki.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_04
+HGL_1100,"Hello, mujhe aisi purchase ka OTP mila jo maine nahi ki. Please jaldi resolve karo.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_04
+HGL_1101,"Hello, mujhe aisi purchase ka OTP mila jo maine nahi ki. Mujhe jaldi update chahiye.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_04
+HGL_1102,"Please help, mujhe aisi purchase ka OTP mila jo maine nahi ki.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_04
+HGL_1103,"Please help, mujhe aisi purchase ka OTP mila jo maine nahi ki. Please jaldi resolve karo.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_04
+HGL_1104,"Please help, mujhe aisi purchase ka OTP mila jo maine nahi ki. Mujhe jaldi update chahiye.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_04
+HGL_1105,Mujhe help chahiye kyunki mujhe aisi purchase ka OTP mila jo maine nahi ki.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_04
+HGL_1106,Mujhe help chahiye kyunki mujhe aisi purchase ka OTP mila jo maine nahi ki. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_04
+HGL_1107,Mujhe help chahiye kyunki mujhe aisi purchase ka OTP mila jo maine nahi ki. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_04
+HGL_1108,Ye urgent hai: mujhe aisi purchase ka OTP mila jo maine nahi ki.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_04
+HGL_1109,Ye urgent hai: mujhe aisi purchase ka OTP mila jo maine nahi ki. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_04
+HGL_1110,Ye urgent hai: mujhe aisi purchase ka OTP mila jo maine nahi ki. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_04
+HGL_1111,Mere saved card ko bina permission use kiya gaya.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_05
+HGL_1112,Mere saved card ko bina permission use kiya gaya. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_05
+HGL_1113,Mere saved card ko bina permission use kiya gaya. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_05
+HGL_1114,"Hello, mere saved card ko bina permission use kiya gaya.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_05
+HGL_1115,"Hello, mere saved card ko bina permission use kiya gaya. Please jaldi resolve karo.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_05
+HGL_1116,"Hello, mere saved card ko bina permission use kiya gaya. Mujhe jaldi update chahiye.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_05
+HGL_1117,"Please help, mere saved card ko bina permission use kiya gaya.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_05
+HGL_1118,"Please help, mere saved card ko bina permission use kiya gaya. Please jaldi resolve karo.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_05
+HGL_1119,"Please help, mere saved card ko bina permission use kiya gaya. Mujhe jaldi update chahiye.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_05
+HGL_1120,Mujhe help chahiye kyunki mere saved card ko bina permission use kiya gaya.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_05
+HGL_1121,Mujhe help chahiye kyunki mere saved card ko bina permission use kiya gaya. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_05
+HGL_1122,Mujhe help chahiye kyunki mere saved card ko bina permission use kiya gaya. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_05
+HGL_1123,Ye urgent hai: mere saved card ko bina permission use kiya gaya.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_05
+HGL_1124,Ye urgent hai: mere saved card ko bina permission use kiya gaya. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_05
+HGL_1125,Ye urgent hai: mere saved card ko bina permission use kiya gaya. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_05
+HGL_1126,Kisi ne mere account ka password change kar diya.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_06
+HGL_1127,Kisi ne mere account ka password change kar diya. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_06
+HGL_1128,Kisi ne mere account ka password change kar diya. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_06
+HGL_1129,"Hello, kisi ne mere account ka password change kar diya.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_06
+HGL_1130,"Hello, kisi ne mere account ka password change kar diya. Please jaldi resolve karo.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_06
+HGL_1131,"Hello, kisi ne mere account ka password change kar diya. Mujhe jaldi update chahiye.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_06
+HGL_1132,"Please help, kisi ne mere account ka password change kar diya.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_06
+HGL_1133,"Please help, kisi ne mere account ka password change kar diya. Please jaldi resolve karo.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_06
+HGL_1134,"Please help, kisi ne mere account ka password change kar diya. Mujhe jaldi update chahiye.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_06
+HGL_1135,Mujhe help chahiye kyunki kisi ne mere account ka password change kar diya.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_06
+HGL_1136,Mujhe help chahiye kyunki kisi ne mere account ka password change kar diya. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_06
+HGL_1137,Mujhe help chahiye kyunki kisi ne mere account ka password change kar diya. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_06
+HGL_1138,Ye urgent hai: kisi ne mere account ka password change kar diya.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_06
+HGL_1139,Ye urgent hai: kisi ne mere account ka password change kar diya. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_06
+HGL_1140,Ye urgent hai: kisi ne mere account ka password change kar diya. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_06
+HGL_1141,Account mein unknown delivery address add hua hai.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_07
+HGL_1142,Account mein unknown delivery address add hua hai. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_07
+HGL_1143,Account mein unknown delivery address add hua hai. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_07
+HGL_1144,"Hello, account mein unknown delivery address add hua hai.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_07
+HGL_1145,"Hello, account mein unknown delivery address add hua hai. Please jaldi resolve karo.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_07
+HGL_1146,"Hello, account mein unknown delivery address add hua hai. Mujhe jaldi update chahiye.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_07
+HGL_1147,"Please help, account mein unknown delivery address add hua hai.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_07
+HGL_1148,"Please help, account mein unknown delivery address add hua hai. Please jaldi resolve karo.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_07
+HGL_1149,"Please help, account mein unknown delivery address add hua hai. Mujhe jaldi update chahiye.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_07
+HGL_1150,Mujhe help chahiye kyunki account mein unknown delivery address add hua hai.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_07
+HGL_1151,Mujhe help chahiye kyunki account mein unknown delivery address add hua hai. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_07
+HGL_1152,Mujhe help chahiye kyunki account mein unknown delivery address add hua hai. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_07
+HGL_1153,Ye urgent hai: account mein unknown delivery address add hua hai.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_07
+HGL_1154,Ye urgent hai: account mein unknown delivery address add hua hai. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_07
+HGL_1155,Ye urgent hai: account mein unknown delivery address add hua hai. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_07
+HGL_1156,Mujhe payment maangne wala suspicious message mila.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_08
+HGL_1157,Mujhe payment maangne wala suspicious message mila. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_08
+HGL_1158,Mujhe payment maangne wala suspicious message mila. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_08
+HGL_1159,"Hello, mujhe payment maangne wala suspicious message mila.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_08
+HGL_1160,"Hello, mujhe payment maangne wala suspicious message mila. Please jaldi resolve karo.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_08
+HGL_1161,"Hello, mujhe payment maangne wala suspicious message mila. Mujhe jaldi update chahiye.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_08
+HGL_1162,"Please help, mujhe payment maangne wala suspicious message mila.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_08
+HGL_1163,"Please help, mujhe payment maangne wala suspicious message mila. Please jaldi resolve karo.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_08
+HGL_1164,"Please help, mujhe payment maangne wala suspicious message mila. Mujhe jaldi update chahiye.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_08
+HGL_1165,Mujhe help chahiye kyunki mujhe payment maangne wala suspicious message mila.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_08
+HGL_1166,Mujhe help chahiye kyunki mujhe payment maangne wala suspicious message mila. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_08
+HGL_1167,Mujhe help chahiye kyunki mujhe payment maangne wala suspicious message mila. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_08
+HGL_1168,Ye urgent hai: mujhe payment maangne wala suspicious message mila.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_08
+HGL_1169,Ye urgent hai: mujhe payment maangne wala suspicious message mila. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_08
+HGL_1170,Ye urgent hai: mujhe payment maangne wala suspicious message mila. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_08
+HGL_1171,Fake customer care agent ne bank details maangi.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_09
+HGL_1172,Fake customer care agent ne bank details maangi. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_09
+HGL_1173,Fake customer care agent ne bank details maangi. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_09
+HGL_1174,"Hello, fake customer care agent ne bank details maangi.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_09
+HGL_1175,"Hello, fake customer care agent ne bank details maangi. Please jaldi resolve karo.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_09
+HGL_1176,"Hello, fake customer care agent ne bank details maangi. Mujhe jaldi update chahiye.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_09
+HGL_1177,"Please help, fake customer care agent ne bank details maangi.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_09
+HGL_1178,"Please help, fake customer care agent ne bank details maangi. Please jaldi resolve karo.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_09
+HGL_1179,"Please help, fake customer care agent ne bank details maangi. Mujhe jaldi update chahiye.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_09
+HGL_1180,Mujhe help chahiye kyunki fake customer care agent ne bank details maangi.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_09
+HGL_1181,Mujhe help chahiye kyunki fake customer care agent ne bank details maangi. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_09
+HGL_1182,Mujhe help chahiye kyunki fake customer care agent ne bank details maangi. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_09
+HGL_1183,Ye urgent hai: fake customer care agent ne bank details maangi.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_09
+HGL_1184,Ye urgent hai: fake customer care agent ne bank details maangi. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_09
+HGL_1185,Ye urgent hai: fake customer care agent ne bank details maangi. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_09
+HGL_1186,Mere account se multiple unauthorised purchases hui hain.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_10
+HGL_1187,Mere account se multiple unauthorised purchases hui hain. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_10
+HGL_1188,Mere account se multiple unauthorised purchases hui hain. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_10
+HGL_1189,"Hello, mere account se multiple unauthorised purchases hui hain.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_10
+HGL_1190,"Hello, mere account se multiple unauthorised purchases hui hain. Please jaldi resolve karo.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_10
+HGL_1191,"Hello, mere account se multiple unauthorised purchases hui hain. Mujhe jaldi update chahiye.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_10
+HGL_1192,"Please help, mere account se multiple unauthorised purchases hui hain.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_10
+HGL_1193,"Please help, mere account se multiple unauthorised purchases hui hain. Please jaldi resolve karo.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_10
+HGL_1194,"Please help, mere account se multiple unauthorised purchases hui hain. Mujhe jaldi update chahiye.",Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_10
+HGL_1195,Mujhe help chahiye kyunki mere account se multiple unauthorised purchases hui hain.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_10
+HGL_1196,Mujhe help chahiye kyunki mere account se multiple unauthorised purchases hui hain. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_10
+HGL_1197,Mujhe help chahiye kyunki mere account se multiple unauthorised purchases hui hain. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_10
+HGL_1198,Ye urgent hai: mere account se multiple unauthorised purchases hui hain.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_10
+HGL_1199,Ye urgent hai: mere account se multiple unauthorised purchases hui hain. Please jaldi resolve karo.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_10
+HGL_1200,Ye urgent hai: mere account se multiple unauthorised purchases hui hain. Mujhe jaldi update chahiye.,Hinglish,Fraud/Security,Security Team,Critical,Hinglish_Fraud/Security_10

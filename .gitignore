@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Database
+*.db
+
+# Logs
+logs/
+*.log
+
+# Generated outputs
+outputs/
+
+# Large trained models
+models/transformer/
+
+# Node
+dashboard/node_modules/
+dashboard/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,25 @@
+﻿complaint_id,text,language,category,department,priority
+SEED_001,My payment was deducted but the order was not confirmed.,English,Payment Issue,Payments Team,High
+SEED_002,मेरे पैसे कट गए लेकिन ऑर्डर कन्फर्म नहीं हुआ।,Hindi,Payment Issue,Payments Team,High
+SEED_003,Payment ho gaya but order confirm nahi hua.,Hinglish,Payment Issue,Payments Team,High
+SEED_004,My order has not arrived yet.,English,Delivery Issue,Logistics Team,Medium
+SEED_005,मेरा ऑर्डर अभी तक नहीं आया है।,Hindi,Delivery Issue,Logistics Team,Medium
+SEED_006,Mera order abhi tak deliver nahi hua.,Hinglish,Delivery Issue,Logistics Team,Medium
+SEED_007,I cancelled my order but have not received the refund.,English,Refund Issue,Refund Team,High
+SEED_008,मैंने ऑर्डर रद्द किया लेकिन रिफंड नहीं मिला।,Hindi,Refund Issue,Refund Team,High
+SEED_009,Order cancel kiya tha but refund abhi tak nahi mila.,Hinglish,Refund Issue,Refund Team,High
+SEED_010,I am unable to cancel my order.,English,Cancellation Issue,Order Management,Medium
+SEED_011,मैं अपना ऑर्डर रद्द नहीं कर पा रही हूँ।,Hindi,Cancellation Issue,Order Management,Medium
+SEED_012,Main apna order cancel nahi kar pa rahi hoon.,Hinglish,Cancellation Issue,Order Management,Medium
+SEED_013,The product I received is damaged.,English,Product Issue,Product Support,High
+SEED_014,मुझे मिला हुआ उत्पाद खराब है।,Hindi,Product Issue,Product Support,High
+SEED_015,Mujhe damaged product mila hai.,Hinglish,Product Issue,Product Support,High
+SEED_016,I want to replace this product.,English,Return/Replacement,Returns Team,Medium
+SEED_017,मैं इस उत्पाद को बदलना चाहती हूँ।,Hindi,Return/Replacement,Returns Team,Medium
+SEED_018,Mujhe ye product replace karna hai.,Hinglish,Return/Replacement,Returns Team,Medium
+SEED_019,I cannot log in to my account.,English,Account Issue,Account Support,Medium
+SEED_020,मैं अपने अकाउंट में लॉग इन नहीं कर पा रही हूँ।,Hindi,Account Issue,Account Support,Medium
+SEED_021,Main apne account mein login nahi kar pa rahi hoon.,Hinglish,Account Issue,Account Support,Medium
+SEED_022,There is an unknown transaction on my account.,English,Fraud/Security,Security Team,Critical
+SEED_023,मेरे अकाउंट से अनजान लेन-देन हुआ है।,Hindi,Fraud/Security,Security Team,Critical
+SEED_024,Mere account se unknown transaction hua hai.,Hinglish,Fraud/Security,Security Team,Critical
